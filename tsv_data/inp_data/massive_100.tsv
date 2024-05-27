@@ -1,0 +1,121 @@
+0	1
+add an alarm for tomorrow morning at six am	alarm_set
+set alarm for this event reminder repeating for ten times	alarm_set
+set the speakers to mute	audio_volume_mute
+turn off the sound	audio_volume_mute
+can you make a red shade of light in the living room	iot_hue_lightchange
+want to have vibrant colors	iot_hue_lightchange
+turn light off	iot_hue_lightoff
+turn off lights in bathroom	iot_hue_lightoff
+can you put the lights on the high setting	iot_hue_lighton
+it is dark	iot_hue_lighton
+lower the overhead lights	iot_hue_lightdim
+dim the lights in the bathroom	iot_hue_lightdim
+start vacuum cleaner	iot_cleaning
+activate the robot vacuum	iot_cleaning
+can you tell me about today	calendar_query
+what are my plans for the month of may	calendar_query
+hey play me a popular r. & b. song	play_music
+please play the song games by disturbed	play_music
+where i went today	general_quirky
+do you think about the day you will expire	general_quirky
+hi how are you	general_greet
+good evening	general_greet
+what's the current time in new york	datetime_query
+what day is the twenty second	datetime_query
+change this time to ist	datetime_convert
+how many hours distance is between my location and new york	datetime_convert
+can i order olive garden to go	takeaway_query
+delivery from dominoes	takeaway_query
+siri cancel all soccer practice alarms	alarm_remove
+reset alarm	alarm_remove
+olly show me my alarms	alarm_query
+what time is my alarm set for	alarm_query
+what's going on in new york	news_query
+go to nytimes dot com	news_query
+save chhana mereya song in my playlist	music_likeness
+what do you think	music_likeness
+what is my most played song	music_query
+what's the name of this song	music_query
+brighten the lights a little bit	iot_hue_lightup
+brighten more light	iot_hue_lightup
+order me postmates of mcdonald	takeaway_order
+order ribs for dinner	takeaway_order
+what's the weather in minneapoliscity	weather_query
+do you recommend an umbrellas	weather_query
+google shuffle playlist	music_settings
+change song	music_settings
+cut down the volume	audio_volume_down
+decrease the volume	audio_volume_down
+hey siri have you heard any funny jokes lately	general_joke
+what's a good joke	general_joke
+do not play this song again	music_dislikeness
+this song is too length	music_dislikeness
+change volume	audio_volume_other
+change volume settings in the negative	audio_volume_other
+make me a coffee please	iot_coffee
+make me a cup of coffee	iot_coffee
+turn it up	audio_volume_up
+increase the volume to fifty	audio_volume_up
+please turn on wemo socket	iot_wemo_on
+turn on the wemo	iot_wemo_on
+turn off the socket	iot_wemo_off
+turn off plug	iot_wemo_off
+tell me about the stock for shell	qa_stock
+mention the stock price of hdfc	qa_stock
+play the sports station	play_radio
+i want listen to kevin and bean	play_radio
+i am grateful if you call the amazon customer service	social_post
+tweet comcast and tell them their service is down again	social_post
+list all the nearby shops	recommendation_locations
+please give me all shop names in a two mile radius	recommendation_locations
+how do i make cookies	cooking_recipe
+find a recipe that uses ground beef and zucchini	cooking_recipe
+who is highest scoring football player of all time	qa_factoid
+alexa tell me the largest ocean in the world	qa_factoid
+please show me a list of entertainment options in my area	recommendation_events
+find events near by	recommendation_events
+i have to go to a meting on friday at noon can you remind me	calendar_set
+notify me one hour before my meeting	calendar_set
+i want to hear a book by torey hayden	play_audiobook
+alexa resume joes book from where i left off last time	play_audiobook
+jump to the next podcast	play_podcasts
+please play the next episode of aib	play_podcasts
+may i know what is trending in twitter	social_query
+i heard ale just got married can you please sshow me the wedding pictures on their instagram	social_query
+what is the first metro to d. c.	transport_query
+what is the estimated travel time for the train ride to orlando	transport_query
+can you send email to my friend rohit which says i am busy tomorrow	email_sendemail
+i have a new contact newmail at gmail dot com compose mail	email_sendemail
+reserve a ticket to go to destination by train	transport_ticket
+train ticket	transport_ticket
+kung fu panda three	recommendation_movies
+olly what movies are playing near me	recommendation_movies
+give me my list	lists_query
+what are all the lists i have available	lists_query
+want to play a game with me	play_game
+please open chess game i would like to play with you	play_game
+check emails for unread emails from mom	email_query
+let me see what emails i got	email_query
+traffic status please	transport_traffic
+what about the new york city traffic	transport_traffic
+i need a recipe for chicken thighs for my pressure cooker	cooking_query
+what to cook for lunch	cooking_query
+define love without invoking the term love	qa_definition
+hey olly what is the definition of survey	qa_definition
+remove all appointments	calendar_remove
+clear my calendar	calendar_remove
+the list should not contain all food items with the prefix dry	lists_remove
+remove dog food from my grocery list	lists_remove
+link me to jeff's email	email_querycontact
+will you look up joe's contact information for me	email_querycontact
+add grocery to list	lists_createoradd
+please order me this months groceries	lists_createoradd
+save this email in my contact for future use	email_addcontact
+remember this email	email_addcontact
+i need a uber to my current location	transport_taxi
+get me a taxi to the airport right now	transport_taxi
+answer for three times four	qa_maths
+how much is one hundred and thirty six plus three hundred and eighty seven	qa_maths
+what's the exchange rate between the us dollar and the euro	qa_currency
+let me know about the exchange rate of rupee to dirham	qa_currency

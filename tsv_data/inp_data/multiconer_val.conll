@@ -1,0 +1,15054 @@
+# id	0372e985-7b29-402b-b0f5-377878c61ee7	domain=dev
+ease	B-CW
+on	I-CW
+down	I-CW
+the	I-CW
+road	I-CW
+—	O
+charlie	B-PER
+smalls	I-PER
+(	O
+diana	B-PER
+ross	I-PER
+and	O
+michael	B-PER
+jackson	I-PER
+in	O
+the	B-CW
+wiz	I-CW
+)	O
+
+# id	814dff5d-ba9d-4995-8e99-4fb1de79dc45	domain=dev
+it	O
+was	O
+republished	O
+by	O
+mit	B-CORP
+press	I-CORP
+in	O
+1971	O
+and	O
+is	O
+still	O
+in	O
+print	O
+.	O
+
+# id	8e6c77cb-aa40-41f5-bc6b-df0c96e1c166	domain=dev
+he	O
+lost	O
+to	O
+republican	B-GRP
+party	I-GRP
+david	B-PER
+s.	I-PER
+walbridge	I-PER
+in	O
+the	O
+general	O
+election	O
+of	O
+1854	O
+.	O
+
+# id	11e438b8-5da7-490f-87d6-2544498a328d	domain=dev
+adaptation	O
+of	O
+the	O
+manga	B-CW
+series	O
+by	O
+chiho	B-PER
+saito	I-PER
+.	O
+
+# id	f423a88e-02b7-4d61-a546-4a1bd89cfa15	domain=dev
+it	O
+originally	O
+operated	O
+seven	O
+bus	O
+routes	O
+which	O
+were	O
+mainly	O
+supermarket	O
+routes	O
+for	O
+asda	B-CORP
+and	O
+tesco	B-CORP
+.	O
+
+# id	fa8df8be-cc92-4751-bed0-09320af510ce	domain=dev
+taroko	B-LOC
+national	I-LOC
+park	I-LOC
+has	O
+marble	O
+canyon	O
+,	O
+cliff	O
+,	O
+and	O
+fold	O
+mountains	O
+.	O
+
+# id	19e3b246-a24a-4475-9bfb-f2aad3b26dc2	domain=dev
+in	O
+2012	O
+,	O
+it	O
+had	O
+201	O
+pupils	O
+on	O
+roll	O
+and	O
+was	O
+graded	O
+good	O
+by	O
+ofsted	B-GRP
+.	O
+
+# id	e1f40a12-3ad3-4433-a20e-e7d4481ede23	domain=dev
+he	O
+was	O
+also	O
+the	O
+inventor	O
+of	O
+the	O
+nerf	B-CORP
+football	O
+.	O
+
+# id	b7f2621d-bdac-4e48-a809-ee9b8617c161	domain=dev
+the	O
+airfield	O
+eventually	O
+had	O
+five	O
+blister	O
+hangar	B-LOC
+for	O
+the	O
+aircraft	O
+but	O
+most	O
+of	O
+the	O
+personnel	O
+were	O
+housed	O
+in	O
+a	O
+tented	O
+camp	O
+.	O
+
+# id	df1572f9-b25a-4f20-8fd2-e9279042ae75	domain=dev
+she	O
+is	O
+also	O
+a	O
+member	O
+of	O
+the	O
+inter-american	B-GRP
+dialogue	I-GRP
+.	O
+
+# id	3132d0c4-5c49-4b23-b54b-a4c2bf4e4f0a	domain=dev
+in	O
+this	O
+he	O
+was	O
+ultimately	O
+unsuccessful	O
+,	O
+but	O
+it	O
+did	O
+attract	O
+the	O
+support	O
+of	O
+figures	O
+such	O
+as	O
+james	B-PER
+maxton	I-PER
+,	O
+a	O
+prominent	O
+figure	O
+in	O
+the	O
+independent	B-GRP
+labour	I-GRP
+party	I-GRP
+at	O
+the	O
+time	O
+.	O
+
+# id	846925ae-f6fb-41ef-bcd4-d93eae2ae646	domain=dev
+early	O
+1860s	O
+sugarcane	B-PROD
+was	O
+farmed	O
+and	O
+mills	O
+were	O
+built	O
+to	O
+process	O
+the	O
+cane	O
+.	O
+
+# id	68f4aa84-b95f-42ae-a047-daf330f2bbaf	domain=dev
+as	O
+a	O
+review	O
+in	O
+the	B-GRP
+harvard	I-GRP
+crimson	I-GRP
+said	O
+,	O
+the	O
+aim	O
+was	O
+to	O
+give	O
+criticisms	O
+on	O
+books	O
+,	O
+pictures	O
+,	O
+music	O
+,	O
+and	O
+acting	O
+.	O
+
+# id	66da686a-d650-4456-9f87-9415197a40f1	domain=dev
+a	O
+remake	O
+of	O
+the	O
+game	O
+is	O
+rumored	O
+to	O
+be	O
+in	O
+development	O
+for	O
+the	O
+nintendo	B-PROD
+64	I-PROD
+.	O
+
+# id	abb51516-214a-4518-9da0-5870d47cb42c	domain=dev
+pal	O
+o	O
+mine	O
+is	O
+a	O
+chocolate	B-PROD
+bar	I-PROD
+which	O
+consist	O
+of	O
+a	O
+peanut	O
+fudge	O
+middle	O
+covered	O
+in	O
+dark	O
+chocolate	O
+.	O
+
+# id	737c4019-2442-48b5-a8e1-8844e0ecf375	domain=dev
+in	O
+1841	O
+,	O
+he	O
+established	O
+a	O
+production	O
+of	O
+whale	B-PROD
+oil	I-PROD
+.	O
+
+# id	8f04f848-151f-41da-baf1-23b43855c44b	domain=dev
+the	O
+stable	O
+had	O
+not	O
+had	O
+a	O
+foreigner	O
+since	O
+hakuba	B-PER
+takeshi	I-PER
+was	O
+forced	O
+to	O
+retire	O
+over	O
+match	O
+fixing	O
+allegations	O
+in	O
+2011	O
+.	O
+
+# id	fbbb7d03-aa50-465b-aba7-fd6ab1d207cd	domain=dev
+the	O
+graphite	O
+layer	O
+as	O
+a	O
+natural	O
+refractory	B-PROD
+material	I-PROD
+material	O
+would	O
+rapidly	O
+cool	O
+the	O
+suspected	O
+molten	O
+uranium	O
+oxide	O
+without	O
+burn	O
+through	O
+.	O
+
+# id	44e6a7b7-e272-4051-8bb7-ec56303285b6	domain=dev
+thunderdell	O
+is	O
+in	O
+the	O
+monster	B-CW
+in	I-CW
+my	I-CW
+pocket	I-CW
+where	O
+his	O
+number	O
+is	O
+#	O
+98	O
+.	O
+
+# id	18d653b3-1ae3-4c03-a45d-133b61a2f6ea	domain=dev
+parting	B-CW
+gifts	I-CW
+,	O
+ex	O
+watcher	O
+wesley	B-PER
+wyndam-pryce	I-PER
+arrives	O
+and	O
+aids	O
+the	O
+team	O
+with	O
+his	O
+extensive	O
+knowledge	O
+of	O
+demonology	O
+and	O
+the	O
+occult	O
+.	O
+
+# id	2f59c4e9-255b-41cd-a6d6-d91b8432616c	domain=dev
+for	O
+the	O
+27th	O
+encore	O
+she	O
+held	O
+an	O
+open	O
+contest	O
+that	O
+drew	O
+more	O
+than	O
+400	O
+entries	O
+and	O
+was	O
+won	O
+by	O
+jeff	B-PER
+myers	I-PER
+.	O
+
+# id	8fcc08ff-77f2-40db-912b-4262ca765f88	domain=dev
+that	O
+year	O
+he	O
+even	O
+appeared	O
+in	O
+a	O
+role	O
+on	O
+the	O
+final	O
+season	O
+of	O
+the	O
+angie	B-PER
+dickinson	I-PER
+television	O
+series	O
+police	B-CW
+woman	I-CW
+.	O
+
+# id	6a425803-7c2f-4552-a77f-ca90ee990432	domain=dev
+the	O
+focus	O
+of	O
+the	O
+public	O
+transport	O
+system	O
+is	O
+the	O
+jeepney	B-PROD
+service	O
+.	O
+
+# id	752d31e2-24d1-4173-be12-27a0e3c67d3a	domain=dev
+andrei	B-PER
+mokh	I-PER
+–	O
+rcd	B-GRP
+espanyol	I-GRP
+de	I-GRP
+barcelona	I-GRP
+,	O
+hércules	B-GRP
+cf	I-GRP
+–	O
+1991	O
+–	O
+93	O
+,	O
+96	O
+–	O
+97	O
+
+# id	4a747d18-995d-47a7-8086-3b9a655ccd62	domain=dev
+when	O
+the	O
+initial	O
+focus	O
+on	O
+news	O
+and	O
+current	O
+affairs	O
+did	O
+not	O
+yield	O
+economic	O
+success	O
+,	O
+he	O
+was	O
+fired	O
+by	O
+his	O
+friend	O
+and	O
+co	O
+director	O
+jonathan	B-PER
+aitken	I-PER
+.	O
+
+# id	ca6f4318-b98c-402e-b374-34381d56b9a3	domain=dev
+:	O
+*	O
+upper	O
+head	O
+lug	O
+joins	O
+the	O
+head	B-PROD
+tube	I-PROD
+and	O
+top	O
+tube	O
+
+# id	64077cfa-d952-4ba6-92a7-4942e18f482f	domain=dev
+these	O
+desktop	O
+application	O
+launchers	O
+work	O
+with	O
+microsoft	B-CW
+windows	I-CW
+operating	O
+systems	O
+only	O
+.	O
+
+# id	1b18f30d-82c2-4e61-883f-959bb5c26a51	domain=dev
+he	O
+also	O
+lost	O
+out	O
+in	O
+the	O
+race	O
+to	O
+become	O
+bolton	B-GRP
+wanderers	I-GRP
+f.c.	I-GRP
+manager	O
+in	O
+1999	O
+,	O
+with	O
+the	O
+club	O
+appointing	O
+former	O
+player	O
+sam	B-PER
+allardyce	I-PER
+.	O
+
+# id	3f6cb712-be75-4dd2-92ca-53badb427785	domain=dev
+chubb	O
+operates	O
+in	O
+54	O
+countries	O
+and	O
+territories	O
+and	O
+in	O
+the	O
+lloyd's	B-CORP
+of	I-CORP
+london	I-CORP
+insurance	O
+market	O
+in	O
+london	B-LOC
+.	O
+
+# id	6aa883fe-9c04-4bd2-99e1-a47539797769	domain=dev
+his	O
+father	O
+was	O
+the	O
+director	O
+of	O
+the	O
+local	O
+branch	O
+of	O
+the	O
+trieste	B-LOC
+based	O
+assicurazioni	B-CORP
+generali	I-CORP
+insurance	O
+company	O
+.	O
+
+# id	24195674-6d3a-4726-8e3a-8b946a758bac	domain=dev
+full	B-CW
+house	I-CW
+(	O
+2004	O
+2007	O
+,	O
+2008	O
+2009	O
+,	O
+2010	O
+2014	O
+,	O
+2014	O
+2015	O
+)	O
+
+# id	62e7d504-d5f6-4675-b49d-13f4681cbed9	domain=dev
+in	O
+1990	O
+,	O
+at	O
+the	O
+age	O
+of	O
+twenty	O
+four	O
+,	O
+she	O
+and	O
+her	O
+professor	O
+li	B-PER
+shuangjiang	I-PER
+,	O
+twenty	O
+seven	O
+years	O
+her	O
+senior	O
+,	O
+married	O
+in	O
+beijing	B-LOC
+.	O
+
+# id	cee4156d-955a-45d1-97ce-22b22db8ae82	domain=dev
+in	O
+bad	B-LOC
+bergzabern	I-LOC
+,	O
+a	O
+school	O
+centre	O
+was	O
+named	O
+after	O
+him	O
+.	O
+
+# id	166817a6-23d9-44e8-8aaf-c37a161594d8	domain=dev
+to	O
+prepare	O
+apple	O
+dumplings	O
+,	O
+apples	O
+are	O
+peeled	O
+,	O
+cored	O
+and	O
+sometimes	O
+quartered	O
+and	O
+placed	O
+on	O
+a	O
+portion	O
+of	O
+dough	B-PROD
+.	O
+
+# id	b587d741-2511-44c6-8347-63cbdaf815f8	domain=dev
+bagh	O
+e	O
+ghoushkhane	O
+minaret	O
+(	O
+)	O
+is	O
+a	O
+historical	O
+minaret	B-LOC
+in	O
+isfahan	B-LOC
+,	O
+iran	B-LOC
+.	O
+
+# id	dc860233-c942-4f79-a468-b142ccb21d74	domain=dev
+berkeley	B-LOC
+:	O
+university	B-CORP
+of	I-CORP
+california	I-CORP
+press	I-CORP
+,	O
+1990	O
+[	O
+1997	O
+]	O
+,	O
+.	O
+
+# id	9f88289c-db61-43b0-a8ad-a73dbecc6f47	domain=dev
+the	O
+argentina	B-GRP
+national	I-GRP
+football	I-GRP
+team	I-GRP
+home	O
+matches	O
+have	O
+also	O
+been	O
+played	O
+here	O
+.	O
+
+# id	0eb513ba-ea47-41e8-a639-be0378c93d68	domain=dev
+the	O
+music	O
+for	O
+the	O
+film	O
+was	O
+scored	O
+by	O
+upendra	B-PER
+kumar	I-PER
+and	O
+the	O
+audio	O
+was	O
+bought	O
+by	O
+lahari	B-CORP
+music	I-CORP
+.	O
+
+# id	c150a9ab-5f16-430e-b0f0-756884a52dd7	domain=dev
+it	O
+dates	O
+from	O
+the	O
+mid	O
+8th	O
+century	O
+,	O
+during	O
+the	O
+era	O
+of	O
+the	O
+kingdom	B-LOC
+of	I-LOC
+the	I-LOC
+lombards	I-LOC
+.	O
+
+# id	308b73c6-d965-4024-b894-75ec6432125f	domain=dev
+in	O
+1982	O
+,	O
+he	O
+became	O
+a	O
+member	O
+of	O
+the	O
+grand	B-CW
+ole	I-CW
+opry	I-CW
+,	O
+the	O
+youngest	O
+to	O
+ever	O
+be	O
+inducted	O
+at	O
+that	O
+time	O
+.	O
+
+# id	1f402b5f-a56e-4381-aea6-11b3293cab34	domain=dev
+the	O
+highway	O
+runs	O
+in	O
+an	O
+east	O
+west	O
+direction	O
+,	O
+until	O
+reaching	O
+eagle	B-LOC
+pass	I-LOC
+.	O
+
+# id	971509b1-cb91-44f3-89ca-e26ed3fd9c54	domain=dev
+prior	O
+to	O
+1945	O
+it	O
+was	O
+in	O
+germany	B-LOC
+.	O
+
+# id	ad328c49-af8c-4614-9e8c-db6c12c28dc4	domain=dev
+father	O
+of	O
+jeff	B-PER
+crowe	I-PER
+and	O
+martin	B-PER
+crowe	I-PER
+and	O
+uncle	O
+of	O
+russell	B-PER
+crowe	I-PER
+.	O
+
+# id	0ecf4046-6336-4ce9-ada3-7eb9779e4c75	domain=dev
+#	O
+superstitious	B-CW
+[	O
+live	O
+]	O
+(	O
+joey	O
+tempest	O
+)	O
+–	O
+4	O
+:	O
+56	O
+
+# id	4f083090-a59f-4716-94a5-a2c5b549f432	domain=dev
+playstation	B-PROD
+3	I-PROD
+,	O
+xbox	B-PROD
+360	I-PROD
+,	O
+playstation	B-CW
+vita	I-CW
+,	O
+ios	B-CW
+,	O
+playstation	B-PROD
+4	I-PROD
+,	O
+nintendo	B-PROD
+switch	I-PROD
+
+# id	f314029c-0da8-499a-87b9-4680d210d84a	domain=dev
+the	O
+team	O
+also	O
+partnered	O
+with	O
+vice	B-CORP
+media,	I-CORP
+inc.	I-CORP
+on	O
+aspects	O
+of	O
+accompanying	O
+marketing	O
+and	O
+content	O
+.	O
+
+# id	1b159575-1f09-4456-a517-0ee681297de8	domain=dev
+concerts	O
+in	O
+hamilton	B-LOC
+,	O
+london	B-LOC
+,	O
+and	O
+elmira	B-LOC
+.	O
+
+# id	ee82faad-ff47-422a-9117-3984de5e8b1f	domain=dev
+when	O
+a	O
+debtor	B-GRP
+has	O
+once	O
+been	O
+imprisoned	O
+,	O
+although	O
+for	O
+a	O
+period	O
+of	O
+less	O
+than	O
+six	O
+weeks	O
+,	O
+no	O
+second	O
+order	O
+of	O
+commitment	O
+can	O
+be	O
+made	O
+against	O
+him	O
+in	O
+respect	O
+of	O
+the	O
+same	O
+debt	O
+.	O
+
+# id	b0afe235-e2f9-4302-aa6a-f3dd0d185da8	domain=dev
+after	O
+96	O
+years	O
+of	O
+continuous	O
+service	O
+,	O
+the	O
+la	B-PROD
+brugeoise	I-PROD
+cars	I-PROD
+were	O
+nearing	O
+their	O
+final	O
+withdrawal	O
+from	O
+service	O
+in	O
+2009	O
+.	O
+
+# id	7ac9aff9-64c2-443f-80c9-215246d5b22a	domain=dev
+anti-machiavel	B-CW
+by	O
+frederick	B-PER
+ii	I-PER
+of	I-PER
+prussia	I-PER
+,	O
+originally	O
+published	O
+anonymously	O
+
+# id	3b5b6714-333e-4e0c-94c5-2f60fa3173cc	domain=dev
+egcs	O
+was	O
+a	O
+fork	O
+of	O
+gnu	B-CW
+compiler	I-CW
+collection	I-CW
+,	O
+later	O
+named	O
+as	O
+the	O
+official	O
+version	O
+.	O
+
+# id	e71c65b6-a42b-4e81-a4e8-ab12272061ef	domain=dev
+the	O
+film	O
+stars	O
+richard	B-PER
+dix	I-PER
+,	O
+chester	B-PER
+morris	I-PER
+and	O
+joan	B-PER
+fontaine	I-PER
+.	O
+
+# id	546ca0e0-bd75-41bf-a034-4875195f1241	domain=dev
+attendees	O
+at	O
+the	O
+championship	O
+game	O
+included	O
+frank	B-PER
+shaughnessy	I-PER
+,	O
+president	O
+of	O
+the	O
+international	B-GRP
+league	I-GRP
+,	O
+and	O
+will	B-PER
+harridge	I-PER
+,	O
+president	O
+of	O
+the	O
+american	B-GRP
+league	I-GRP
+.	O
+
+# id	52551b17-acdc-4623-8de4-d92acbeb3744	domain=dev
+white	B-CORP
+airways	I-CORP
+,	O
+a	O
+charter	O
+airline	O
+based	O
+in	O
+lisbon	B-LOC
+,	O
+portugal	B-LOC
+.	O
+
+# id	ac1401d7-0b01-4046-a115-1e3b0ffa4663	domain=dev
+he	O
+was	O
+born	O
+in	O
+the	O
+mark	B-GRP
+twain	I-GRP
+house	I-GRP
+in	O
+hartford	B-LOC
+,	O
+and	O
+went	O
+to	O
+groton	B-GRP
+school	I-GRP
+in	O
+groton	B-LOC
+.	O
+
+# id	d076ef3b-368b-4f8b-8e00-de7f4369d0d3	domain=dev
+they	O
+were	O
+mentioned	O
+in	O
+the	O
+kojiki	B-CW
+and	O
+nihon	B-CW
+shoki	I-CW
+.	O
+
+# id	1fb10168-a36d-45ef-b2bb-70da72721fe5	domain=dev
+walnut	O
+is	O
+propelled	O
+by	O
+two	O
+caterpillar	B-CORP
+inc.	I-CORP
+diesel	O
+engines	O
+rated	O
+at	O
+3,100	O
+horsepower	O
+,	O
+and	O
+has	O
+a	O
+top	O
+speed	O
+of	O
+16	O
+knots	O
+.	O
+
+# id	6c72a4d3-3726-4a7f-8201-5ea39aa03613	domain=dev
+it	O
+was	O
+profiled	O
+in	O
+the	B-CORP
+washington	I-CORP
+post	I-CORP
+soon	O
+after	O
+its	O
+completion	O
+.	O
+
+# id	fcb39e2d-e216-4cb9-a6f6-b5b7fbdf0a19	domain=dev
+2.3	O
+l	O
+mzr	O
+disi	O
+turbo	O
+:	O
+mazdaspeed3	B-PROD
+:	O
+263	O
+bhp	O
+(	O
+196	O
+kw	O
+)	O
+,	O
+280	O
+lbf	O
+·	O
+ft	O
+(	O
+380	O
+n	O
+·	O
+m	O
+)	O
+
+# id	368dbb76-b1e4-400b-8f0a-9c32f68c6bfe	domain=dev
+the	O
+apostolic	B-CW
+tradition	I-CW
+speaks	O
+of	O
+prayer	O
+at	O
+midnight	O
+and	O
+again	O
+at	O
+cockcrow	O
+,	O
+but	O
+seemingly	O
+as	O
+private	O
+,	O
+not	O
+communal	O
+,	O
+prayer	O
+.	O
+
+# id	d60a5287-91df-4dad-b024-a2a31546d7b8	domain=dev
+at	O
+a	O
+much	O
+later	O
+date	O
+,	O
+charles	B-PER
+dickens	I-PER
+was	O
+dismissive	O
+for	O
+other	O
+reasons	O
+in	O
+his	O
+novel	O
+great	B-CW
+expectations	I-CW
+.	O
+
+# id	0a09ba62-435a-4480-9855-a7a675633ecb	domain=dev
+cgtg	O
+is	O
+particularly	O
+strong	O
+amongst	O
+banana	O
+plantation	O
+workers	O
+and	O
+in	O
+the	O
+basse-terre	B-LOC
+area	O
+.	O
+
+# id	2f484cc9-5097-454e-b80a-17cb3d9dfa8d	domain=dev
+in	O
+2011	O
+,	O
+ign	B-CORP
+called	O
+it	O
+the	O
+98th	O
+best	O
+game	O
+for	O
+the	O
+system	O
+.	O
+
+# id	b5910442-00cd-4e12-9f20-50b810e3fb5a	domain=dev
+the	O
+central	B-CORP
+bank	I-CORP
+headquarters	O
+as	O
+well	O
+as	O
+three	O
+national	O
+regulatory	O
+commissions	O
+of	O
+the	O
+central	O
+government	O
+are	O
+located	O
+here	O
+.	O
+
+# id	e432b3b3-eb8d-4322-98ec-0eb47c0f92a6	domain=dev
+he	O
+directed	O
+the	O
+organ	O
+class	O
+of	O
+the	O
+schola	B-CORP
+cantorum	I-CORP
+basiliensis	I-CORP
+from	O
+1972	O
+to	O
+2006	O
+.	O
+
+# id	c6bcf712-ee9d-4d12-ad1b-a40708844bfc	domain=dev
+sony	B-CORP
+makes	O
+a	O
+screen	O
+that	O
+appears	O
+grey	O
+in	O
+normal	O
+room	O
+light	O
+,	O
+and	O
+is	O
+intended	O
+to	O
+reduce	O
+the	O
+effect	O
+of	O
+ambient	O
+light	O
+.	O
+
+# id	cfb22381-3976-40b8-a386-bb12eef3590e	domain=dev
+bill	B-PER
+krueger	I-PER
+,	O
+pitcher	O
+for	O
+eight	O
+major	B-CORP
+league	I-CORP
+baseball	I-CORP
+teams	O
+
+# id	01af232d-a80b-4c8c-bb56-81a7e54a5754	domain=dev
+ign	B-CORP
+gave	O
+the	O
+game	O
+an	O
+8.5	O
+out	O
+of	O
+10	O
+,	O
+describing	O
+the	O
+game	O
+as	O
+unique	O
+and	O
+trippy	O
+.	O
+
+# id	cf39d633-2f12-46bb-b994-914588fc951a	domain=dev
+within	O
+the	O
+church	O
+is	O
+a	O
+statue	O
+dedicated	O
+to	O
+the	O
+memory	O
+of	O
+apsley	B-PER
+cherry-garrard	I-PER
+,	O
+the	O
+polar	O
+explorer	O
+,	O
+who	O
+is	O
+buried	O
+in	O
+the	O
+north	O
+west	O
+corner	O
+of	O
+the	O
+churchyard	O
+.	O
+
+# id	af40fddd-44ff-4a0b-8abb-210843f702df	domain=dev
+closed	O
+cockpit	O
+concept	O
+,	O
+developed	O
+by	O
+aston	B-GRP
+martin	I-GRP
+racing	I-GRP
+and	O
+prodrive	B-CORP
+
+# id	f654cdc3-9702-40e1-b454-3a28206f9dce	domain=dev
+the	O
+highway	O
+forms	O
+a	O
+loop	O
+off	O
+interstate	B-LOC
+5	I-LOC
+in	I-LOC
+washington	I-LOC
+(	O
+i	O
+5	O
+)	O
+near	O
+maytown	B-LOC
+.	O
+
+# id	30920eb7-43ab-4a16-8c18-b3a03ac6b41d	domain=dev
+another	O
+artist	O
+from	O
+the	O
+workshop	O
+who	O
+made	O
+several	O
+plates	O
+is	O
+usually	O
+identified	O
+as	O
+giovanni	B-PER
+antonio	I-PER
+da	I-PER
+brescia	I-PER
+(	O
+aka	O
+zoan	O
+andrea	O
+)	O
+.	O
+
+# id	26462a6c-fa5d-4de1-a142-cb2f868a4b19	domain=dev
+indeed	O
+,	O
+it	O
+would	O
+be	O
+impossible	O
+to	O
+have	O
+an	O
+experience	O
+of	O
+the	O
+world	O
+if	O
+we	O
+did	O
+not	O
+have	O
+a	O
+sense	O
+of	O
+temporality	B-LOC
+.	O
+
+# id	846dfb88-3806-4d35-9d74-d4e5fbc53962	domain=dev
+it	O
+was	O
+intended	O
+to	O
+serve	O
+the	O
+village	O
+of	O
+raglan	B-LOC
+,	O
+monmouthshire	B-LOC
+.	O
+
+# id	ab46f00e-1038-40a4-af44-cd0786dc99d6	domain=dev
+the	O
+national	B-GRP
+baseball	I-GRP
+hall	I-GRP
+of	I-GRP
+fame	I-GRP
+and	I-GRP
+museum	I-GRP
+determines	O
+which	O
+cap	O
+a	O
+player	O
+wears	O
+on	O
+their	O
+plaque	O
+,	O
+signifying	O
+the	O
+team	O
+with	O
+which	O
+he	O
+made	O
+his	O
+most	O
+indelible	O
+mark	O
+.	O
+
+# id	c93cef21-bc80-4b14-bcbc-de8125d9eb24	domain=dev
+excavation	O
+in	O
+the	O
+cloister	O
+garth	O
+has	O
+revealed	O
+the	O
+foundations	O
+of	O
+the	O
+lavabo	B-PROD
+,	O
+occupying	O
+the	O
+usual	O
+position	O
+near	O
+the	O
+door	O
+of	O
+the	O
+refectory	O
+.	O
+
+# id	8e3e7c53-8f8c-4f47-ab74-aa7aadfe3e75	domain=dev
+in	O
+2004	O
+,	O
+he	O
+joined	O
+the	O
+regular	O
+cast	O
+of	O
+the	O
+itv	B-CORP
+drama	O
+footballers'	B-CW
+wives	I-CW
+and	O
+after	O
+the	O
+series	O
+ended	O
+he	O
+resumed	O
+theatre	O
+work	O
+.	O
+
+# id	9bd4b32f-0c11-4e7b-a1f0-7d62451d7ea1	domain=dev
+the	O
+park	O
+was	O
+designed	O
+by	O
+michele	B-PER
+canzio	I-PER
+,	O
+set	O
+designer	O
+for	O
+the	O
+teatro	B-LOC
+carlo	I-LOC
+felice	I-LOC
+,	O
+and	O
+built	O
+between	O
+1840	O
+and	O
+1846	O
+.	O
+
+# id	8b74ad19-dc87-4f9c-8851-e663a26f8d9f	domain=dev
+the	O
+song	O
+was	O
+recorded	O
+with	O
+bill	B-PER
+stevenson	I-PER
+of	O
+descendents	B-GRP
+/	O
+all	B-GRP
+.	O
+
+# id	9b20a3e1-93b4-403d-97e0-59da79e5c110	domain=dev
+in	O
+the	O
+northern	O
+portion	O
+of	O
+the	O
+subdivision	O
+(	O
+shown	O
+in	O
+the	O
+map	O
+alongside	O
+)	O
+there	O
+are	O
+10	O
+census	B-LOC
+town	I-LOC
+.	O
+
+# id	722f63d4-fff4-4d39-bfeb-7d93b4efc3f3	domain=dev
+kim	O
+originally	O
+debuted	O
+under	O
+seoul	B-CORP
+broadcasting	I-CORP
+system	I-CORP
+4th	O
+class	O
+of	O
+comedians	O
+.	O
+
+# id	ef53d864-3d8f-4b67-b2e2-1f6b3bf30b21	domain=dev
+arrowsmith	O
+was	O
+born	O
+into	O
+a	O
+clerical	O
+family	O
+in	O
+royal	B-LOC
+leamington	I-LOC
+spa	I-LOC
+as	O
+the	O
+youngest	O
+of	O
+three	O
+children	O
+.	O
+
+# id	16dd6e1b-5b74-4bf6-8978-6761e25e81c4	domain=dev
+they	O
+do	O
+not	O
+intend	O
+to	O
+expand	O
+to	O
+mass	O
+market	O
+retailers	O
+such	O
+as	O
+costco	B-CORP
+and	O
+walmart	B-CORP
+.	O
+
+# id	07759b47-9700-42ed-b955-b2155b85e375	domain=dev
+it	O
+was	O
+a	O
+transitional	O
+design	O
+between	O
+pocket	B-PROD
+watch	I-PROD
+and	O
+wristwatch	B-PROD
+,	O
+incorporating	O
+features	O
+of	O
+both	O
+.	O
+
+# id	d19995d8-c251-4da1-9f58-151ac1364d75	domain=dev
+the	O
+transportation	O
+minister	O
+haim	B-PER
+corfu	I-PER
+appointed	O
+a	O
+committee	O
+that	O
+recommended	O
+starting	O
+construction	O
+immediately	O
+.	O
+
+# id	ccf13d4b-9f7d-412b-b078-c54479db332e	domain=dev
+cocheren	O
+(	O
+)	O
+is	O
+a	O
+commune	B-LOC
+of	I-LOC
+france	I-LOC
+in	O
+the	O
+moselle	B-LOC
+department	B-LOC
+of	I-LOC
+france	I-LOC
+in	O
+grand	B-LOC
+est	I-LOC
+in	O
+north	O
+eastern	O
+france	B-LOC
+.	O
+
+# id	9ffada02-ee98-406c-b008-d369c2420369	domain=dev
+mayrhofer	O
+suggests	O
+that	O
+hermann	B-PER
+oldenberg	I-PER
+was	O
+essentially	O
+correct	O
+in	O
+assuming	O
+that	O
+
+# id	006d1723-b855-4eea-937b-81f05d5df2d3	domain=dev
+however	O
+,	O
+a	O
+new	O
+bridge	O
+over	O
+enoggera	B-LOC
+creek	I-LOC
+would	O
+be	O
+required	O
+.	O
+
+# id	96c6a2e5-96f8-4e90-a762-78f241db843d	domain=dev
+original	O
+version	O
+of	O
+track	O
+13	O
+from	O
+mistaken	B-CW
+identity	I-CW
+(	O
+1991	O
+,	O
+atlantic	O
+)	O
+
+# id	21784d51-9b6a-4d8f-8910-52e375786012	domain=dev
+there	O
+are	O
+only	O
+two	O
+major	O
+cities	O
+,	O
+kuching	B-LOC
+and	O
+kota	B-LOC
+kinabalu	I-LOC
+.	O
+
+# id	7f6b8ed1-a2a9-4d82-816c-36912c3c16b3	domain=dev
+he	O
+reorganized	O
+it	O
+under	O
+the	O
+name	O
+spartan	B-CORP
+aircraft	I-CORP
+company	I-CORP
+.	O
+
+# id	2645ed7d-3e48-4b75-a70f-ff403b9a167b	domain=dev
+politician	O
+and	O
+journalist	O
+for	O
+wral-tv	B-CORP
+,	O
+raleigh	B-LOC
+
+# id	044b3254-e471-4ebc-9366-805f35bcfaae	domain=dev
+scott	B-PER
+adkins	I-PER
+,	O
+craig	B-PER
+fairbrass	I-PER
+,	O
+thomas	B-PER
+turgoose	I-PER
+,	O
+nick	B-PER
+moran	I-PER
+,	O
+kierston	B-PER
+wareing	I-PER
+,	O
+leo	B-PER
+gregory	I-PER
+,	O
+louis	B-PER
+mandylor	I-PER
+
+# id	de401970-c89c-4dea-87a0-df7cec43bbab	domain=dev
+it	O
+is	O
+found	O
+in	O
+cotopaxi	B-LOC
+province	I-LOC
+,	O
+ecuador	B-LOC
+.	O
+
+# id	3f033bdc-475b-47ea-9d4c-e50df54cd900	domain=dev
+the	O
+train	O
+services	O
+are	O
+operated	O
+by	O
+ferrotramviaria	B-CORP
+.	O
+
+# id	55ae04d2-7b20-4756-a5e3-00044f73bf3d	domain=dev
+he	O
+then	O
+moved	O
+to	O
+richmond	B-LOC
+to	O
+open	O
+a	O
+second	O
+dry	O
+goods	O
+store	O
+.	O
+
+# id	cb2101f8-4820-468c-ab27-e87631eb51f0	domain=dev
+he	O
+has	O
+twice	O
+participated	O
+in	O
+melodifestivalen	B-CW
+both	O
+as	O
+a	O
+performer	O
+and	O
+songwriter	O
+.	O
+
+# id	0fcd7b04-c6a8-4437-b621-729631e99003	domain=dev
+the	O
+individual	O
+aircraft	O
+was	O
+manufactured	O
+by	O
+convair	B-CORP
+in	O
+1958	O
+and	O
+received	O
+the	O
+tail	O
+number	O
+58	O
+0787	O
+.	O
+
+# id	4f7e23f3-ba1b-4c0a-917d-17ce1461a8b5	domain=dev
+the	O
+title	O
+is	O
+an	O
+allusion	O
+to	O
+mercutio	B-PER
+line	O
+a	O
+plague	O
+on	O
+both	O
+your	O
+houses	O
+,	O
+in	O
+romeo	B-CW
+and	I-CW
+juliet	I-CW
+.	O
+
+# id	3ec34abd-5f6b-4336-9038-dfeeb244a0ac	domain=dev
+later	O
+work	O
+by	O
+shinya	B-PER
+yamanaka	I-PER
+showed	O
+how	O
+mature	O
+cells	O
+can	O
+be	O
+reprogrammed	O
+to	O
+become	O
+pluripotent	O
+,	O
+extending	O
+the	O
+possibilities	O
+to	O
+non	O
+stem	O
+cells	O
+.	O
+
+# id	325f46c6-155b-4e38-8073-61b5ea1d77ab	domain=dev
+microsoft	B-CW
+windows	I-CW
+,	O
+macos	B-CW
+,	O
+linux	B-CW
+,	O
+playstation	B-PROD
+4	I-PROD
+,	O
+xbox	B-PROD
+one	I-PROD
+,	O
+xbox	B-PROD
+series	I-PROD
+x	I-PROD
+and	I-PROD
+series	I-PROD
+s	I-PROD
+
+# id	67b249a5-c5e1-46c0-9b77-2c93db464b6e	domain=dev
+his	O
+influences	O
+ranged	O
+from	O
+hank	B-PER
+williams	I-PER
+to	O
+flamenco	B-CW
+(	O
+his	O
+mother	O
+was	O
+from	O
+spain	O
+)	O
+to	O
+the	B-GRP
+beatles	I-GRP
+.	O
+
+# id	7414343b-eaaa-4068-bc7a-342184a34d65	domain=dev
+tied	O
+for	O
+tallest	O
+in	O
+national	B-CORP
+basketball	I-CORP
+association	I-CORP
+(	O
+nba	O
+)	O
+history	O
+.	O
+
+# id	61bdc401-382d-4364-9e66-6f055de06257	domain=dev
+its	O
+name	O
+is	O
+believed	O
+to	O
+derive	O
+from	O
+an	O
+indigenous	B-PER
+australians	I-PER
+word	O
+gnarrallah	O
+,	O
+meaning	O
+waterhole	O
+or	O
+swampy	O
+place	O
+.	O
+
+# id	56cec20f-9443-4634-a23a-4ddd69ec80ba	domain=dev
+originally	O
+a	O
+govers	O
+workshop	O
+,	O
+later	O
+stables	O
+,	O
+then	O
+a	O
+house	O
+,	O
+it	O
+has	O
+a	O
+ground	O
+floor	O
+of	O
+stone	O
+with	O
+stucco	B-PROD
+brick	O
+above	O
+,	O
+and	O
+a	O
+tile	O
+roof	O
+.	O
+
+# id	b3628200-72aa-4f2c-8613-aa3c49292d01	domain=dev
+together	O
+live	O
+!	O
+(	O
+split	O
+with	O
+snow	B-GRP
+patrol	I-GRP
+and	O
+jake	B-PER
+bugg	I-PER
+)	O
+
+# id	eb289998-90a0-4d38-a78f-9aed11c51c26	domain=dev
+artists	O
+often	O
+appear	O
+in	O
+corpse	B-PROD
+paint	I-PROD
+and	O
+adopt	O
+pseudonyms	O
+.	O
+
+# id	406a5a2d-f821-4fd8-95bd-2d724d4aab66	domain=dev
+its	O
+seat	O
+is	O
+the	O
+town	O
+of	O
+józefów,	B-LOC
+biłgoraj	I-LOC
+county	I-LOC
+,	O
+which	O
+lies	O
+approximately	O
+east	O
+of	O
+biłgoraj	B-LOC
+and	O
+south	O
+of	O
+the	O
+regional	O
+capital	O
+lublin	B-LOC
+.	O
+
+# id	3d1db710-2d04-4430-89ff-76fa29605312	domain=dev
+the	O
+book	O
+was	O
+published	O
+through	O
+the	O
+major	O
+publisher	O
+norstedts	B-CORP
+förlag	I-CORP
+and	O
+created	O
+a	O
+scandal	O
+.	O
+
+# id	249e528d-3fe9-43cb-adb1-3bdd8fb53f67	domain=dev
+it	O
+is	O
+part	O
+of	O
+the	O
+itochu	B-CORP
+group	O
+.	O
+
+# id	71d1bd86-92d6-4d56-bfff-2475f2e8fd4a	domain=dev
+the	O
+lord	B-PER
+frederick	I-PER
+windsor	I-PER
+,	O
+the	O
+groom	O
+'s	O
+second	O
+cousin	O
+
+# id	be4d6a9e-66a4-467d-b48b-9d33f492e082	domain=dev
+km	O
+566.5	O
+,	O
+righht	O
+:	O
+hörsel	B-LOC
+,	O
+55.2	O
+or	O
+64.3	O
+,	O
+784	O
+km²	O
+
+# id	568e4864-40ed-4e3f-9627-a6d217838076	domain=dev
+it	O
+led	O
+to	O
+the	O
+imprisonment	O
+of	O
+two	O
+bishops	O
+and	O
+contributed	O
+to	O
+the	O
+downfall	O
+of	O
+the	O
+government	O
+of	O
+josé	B-PER
+maria	I-PER
+da	I-PER
+silva	I-PER
+paranhos	I-PER
+.	O
+
+# id	89f87eca-e2bf-4cfe-a52f-31c2ba466bdf	domain=dev
+list	O
+adapted	O
+from	O
+the	B-GRP
+hindu	I-GRP
+article	O
+and	O
+from	O
+the	O
+database	O
+of	O
+film	B-PER
+news	I-PER
+anandan	I-PER
+.	O
+
+# id	b145ae6e-7b6e-4ab8-ab9b-da5cf7f6700a	domain=dev
+the	O
+race	O
+was	O
+won	O
+by	O
+thomas	B-PER
+voeckler	I-PER
+.	O
+
+# id	5424bff9-ddc0-41b9-a7f6-0dbef2789f33	domain=dev
+between	O
+1955	O
+and	O
+1956	O
+he	O
+was	O
+deputy	O
+general	O
+director	O
+of	O
+the	O
+staatliche	B-LOC
+kunstsammlungen	I-LOC
+dresden	I-LOC
+in	O
+dresden	B-LOC
+.	O
+
+# id	348fc5d6-1303-4899-abaa-9152874d03b2	domain=dev
+they	O
+have	O
+been	O
+used	O
+experimentally	O
+in	O
+gyrobus	B-PROD
+.	O
+
+# id	7ce51082-658b-4854-9cbd-5f8dbf828b5a	domain=dev
+arnold	B-PER
+rimmer	I-PER
+,	O
+holographic	O
+character	O
+on	O
+red	B-CW
+dwarf	I-CW
+.	O
+
+# id	62f5c232-edb0-4495-9df1-2a914f4a44ff	domain=dev
+bhilar	O
+is	O
+a	O
+village	O
+in	O
+satara	B-LOC
+district	I-LOC
+,	O
+maharashtra	B-LOC
+,	O
+india	B-LOC
+.	O
+
+# id	8e2e210d-89f5-45ce-bde2-eab2f2b2afe8	domain=dev
+strange	B-CW
+adventures	I-CW
+vol	O
+.	O
+2	O
+#	O
+2	O
+
+# id	0d90de0d-ecf4-4322-957d-f75941fe9a92	domain=dev
+dressmann	O
+is	O
+a	O
+chain	O
+of	O
+men	O
+'s	O
+clothing	O
+stores	O
+owned	O
+by	O
+varner-gruppen	B-CORP
+.	O
+
+# id	4ff91ffb-a099-48a5-a882-66b6ce96d2cf	domain=dev
+the	O
+pastry	O
+crust	O
+contains	O
+a	O
+filling	O
+of	O
+potatoes	O
+and	O
+an	O
+onion	O
+and	O
+leek	B-PROD
+mixture	O
+,	O
+which	O
+is	O
+then	O
+covered	O
+with	O
+cheese	O
+.	O
+
+# id	39c396f8-1f1c-434b-a296-d871a533b26c	domain=dev
+the	B-CW
+student	I-CW
+of	I-CW
+prague	I-CW
+(	O
+directed	O
+by	O
+arthur	B-PER
+robison	I-PER
+,	O
+1935	O
+)	O
+
+# id	9e2f0b04-96fc-4eca-86bc-55b4b6531002	domain=dev
+this	O
+logo	O
+debuted	O
+in	O
+front	O
+of	O
+the	B-CW
+spongebob	I-CW
+movie:	I-CW
+sponge	I-CW
+on	I-CW
+the	I-CW
+run	I-CW
+in	O
+2020	O
+.	O
+
+# id	eb72abfd-749e-4bcd-bf34-5c9dc18e6196	domain=dev
+file	O
+:	O
+zalaegerszeg	O
+testvérvárosait	O
+jelző	O
+tábla	O
+.	O
+jpg	O
+|	O
+twin	O
+towns	O
+zalaegerszeg	B-LOC
+
+# id	d114291a-eafc-422d-a647-e40d693016e4	domain=dev
+contributions	O
+to	O
+published	O
+works	O
+,	O
+such	O
+as	O
+a	B-CW
+specimen	I-CW
+of	I-CW
+the	I-CW
+botany	I-CW
+of	I-CW
+new	I-CW
+holland	I-CW
+or	O
+english	B-CW
+botany	I-CW
+,	O
+include	O
+his	O
+detailed	O
+and	O
+appealing	O
+plates	O
+.	O
+
+# id	c27ca960-01a7-424a-b799-2f0ea8f745b7	domain=dev
+ferrellsburg	O
+is	O
+accessed	O
+by	O
+west	B-LOC
+virginia	I-LOC
+route	I-LOC
+10	I-LOC
+.	O
+
+# id	79db4a3d-838e-4719-9732-ae6c4e5fd98e	domain=dev
+variety	B-CORP
+wrote	O
+,	O
+what	O
+she	O
+(	O
+edzard	O
+)	O
+has	O
+accomplished	O
+on	O
+a	O
+small	O
+budget	O
+is	O
+astounding	O
+.	O
+
+# id	2e048465-d1ab-4adf-9131-3f3f913c5533	domain=dev
+waterspout	O
+over	O
+lake	B-LOC
+pontchartrain	I-LOC
+moved	O
+onshore	O
+with	O
+intermittent	O
+damage	O
+to	O
+a	O
+few	O
+homes	O
+and	O
+businesses	O
+as	O
+well	O
+as	O
+several	O
+trees	O
+and	O
+fences	O
+.	O
+
+# id	4dfe1e78-adf5-464b-a39d-82e7fc9d49bd	domain=dev
+the	O
+game	O
+arx	B-CW
+fatalis	I-CW
+uses	O
+mouse	O
+gestures	O
+for	O
+drawing	O
+runes	O
+in	O
+the	O
+air	O
+to	O
+cast	O
+spells	O
+.	O
+
+# id	d10c141c-e97a-4715-bfeb-a8f43983c3cf	domain=dev
+bush	O
+vows	O
+to	O
+heed	O
+9	O
+/	O
+11	O
+report	O
+advice	O
+–	O
+from	O
+msnbc	B-CORP
+
+# id	2466f6d5-234c-4e9f-bee3-c00aa61978cc	domain=dev
+gilbert	O
+is	O
+located	O
+in	O
+the	O
+southeast	O
+portion	O
+of	O
+the	O
+phoenix	B-LOC
+metropolitan	O
+area	O
+.	O
+
+# id	ed5ffe7b-32ed-47c4-8b39-e5672b64c3d6	domain=dev
+they	O
+contain	O
+their	O
+own	O
+washing	B-PROD
+machine	I-PROD
+and	O
+clothes	B-PROD
+dryer	I-PROD
+,	O
+built	O
+in	O
+storage	O
+,	O
+full	O
+amenities	O
+within	O
+the	O
+kitchen	O
+,	O
+and	O
+air	O
+conditioning	O
+.	O
+
+# id	6bea194d-b0a6-4886-87b0-8e03a1ff0563	domain=dev
+stalker	O
+is	O
+a	O
+fictional	O
+character	O
+from	O
+the	O
+g.i.	B-CW
+joe:	I-CW
+a	I-CW
+real	I-CW
+american	I-CW
+hero	I-CW
+toyline	O
+,	O
+comic	O
+books	O
+and	O
+animated	O
+series	O
+.	O
+
+# id	c82385c0-beb1-43e9-a6bb-81aa78ab96b0	domain=dev
+the	O
+line	O
+runs	O
+in	O
+the	O
+median	O
+of	O
+interstate	B-LOC
+190	I-LOC
+east	O
+through	O
+rosemont	B-LOC
+.	O
+
+# id	2b6c801b-8729-4a93-8bfa-2b1eafe7f82d	domain=dev
+:	O
+burger	B-CORP
+king	I-CORP
+(	O
+relocated	O
+to	O
+behind	O
+bx	O
+)	O
+
+# id	cb54eee7-11d9-4e79-9988-6870cf22a116	domain=dev
+the	O
+train	O
+services	O
+are	O
+operated	O
+by	O
+ferrotramviaria	B-CORP
+.	O
+
+# id	4fddc5ce-0c04-48dd-b100-d3b125032039	domain=dev
+she	O
+did	O
+postdoctoral	O
+work	O
+at	O
+harvard	B-GRP
+university	I-GRP
+.	O
+
+# id	1a37364e-092a-4176-9d5a-2790663a6f2d	domain=dev
+blast	B-PROD
+furnace	I-PROD
+were	O
+used	O
+to	O
+produce	O
+liquid	O
+iron	O
+.	O
+
+# id	6ae2891a-05c4-49af-b5dc-8219af7bb6bd	domain=dev
+in	O
+2003	O
+it	O
+bought	O
+the	O
+backstock	O
+of	O
+naiad	B-CORP
+press	I-CORP
+,	O
+including	O
+the	O
+majority	O
+of	O
+the	O
+backlist	O
+for	O
+jane	B-PER
+rule	I-PER
+.	O
+
+# id	20aa8a09-2044-41a0-b6df-b6897493b2f5	domain=dev
+the	O
+high	O
+level	O
+of	O
+total	O
+solids	O
+makes	O
+water	O
+buffalo	O
+milk	O
+ideal	O
+for	O
+processing	O
+into	O
+value	O
+added	O
+dairy	O
+products	O
+such	O
+as	O
+cheese	B-PROD
+.	O
+
+# id	d2323218-e2bb-4e3f-8271-0bacb5dd7317	domain=dev
+by	O
+the	O
+early	O
+1920s	O
+,	O
+he	O
+formed	O
+a	O
+songwriting	O
+partnership	O
+in	O
+new	B-LOC
+york	I-LOC
+city	I-LOC
+with	O
+al	B-PER
+dubin	I-PER
+and	O
+jimmy	B-PER
+mchugh	I-PER
+.	O
+
+# id	18edd848-4405-4367-95d6-d11a1cba9ea5	domain=dev
+the	O
+band	O
+is	O
+also	O
+controversial	O
+for	O
+using	O
+the	O
+typical	O
+corpse	B-PROD
+paint	I-PROD
+style	O
+often	O
+associated	O
+with	O
+the	O
+black	O
+metal	O
+visuals	O
+.	O
+
+# id	cf0b8bad-ef1d-4de0-ae18-a77041098d12	domain=dev
+an	O
+extended	O
+version	O
+of	O
+set	B-CW
+the	I-CW
+controls	I-CW
+for	I-CW
+the	I-CW
+heart	I-CW
+of	I-CW
+the	I-CW
+sun	I-CW
+appears	O
+on	O
+this	O
+release	O
+.	O
+
+# id	be9c33e6-c2d7-40b7-bff2-872e4dca8313	domain=dev
+the	O
+tvr	B-PROD
+cerbera	I-PROD
+is	O
+an	O
+example	O
+of	O
+a	O
+car	O
+with	O
+factory	O
+fitted	O
+sports	O
+exhausts	O
+which	O
+produce	O
+frequent	O
+backfires	O
+on	O
+engine	O
+braking	O
+.	O
+
+# id	0dd7f4b6-e28c-4a9f-b1fc-c71a981c257c	domain=dev
+his	O
+voice	O
+was	O
+described	O
+by	O
+the	B-CORP
+washington	I-CORP
+post	I-CORP
+as	O
+a	O
+titanic	O
+,	O
+all	O
+encompassing	O
+bass	O
+.	O
+
+# id	117c47bf-9a99-40b1-a61b-f057afc85a5c	domain=dev
+it	O
+is	O
+also	O
+the	O
+first	O
+multiplayer	O
+massively	B-CW
+multiplayer	I-CW
+online	I-CW
+role-playing	I-CW
+game	I-CW
+created	O
+by	O
+the	O
+company	O
+.	O
+
+# id	2d935006-135d-4a96-84d7-2aea86f6aa40	domain=dev
+however	O
+,	O
+in	O
+1912	O
+it	O
+was	O
+renamed	O
+the	O
+lincoln	O
+–	O
+lee	O
+legion	O
+,	O
+adding	O
+a	O
+reference	O
+to	O
+robert	B-PER
+e.	I-PER
+lee	I-PER
+in	O
+order	O
+to	O
+make	O
+it	O
+more	O
+appealing	O
+to	O
+southern	O
+children	O
+and	O
+their	O
+parents	O
+.	O
+
+# id	2e9d398c-a956-4419-a48d-f53790d2d237	domain=dev
+rice	B-PROD
+—	O
+long	O
+,	O
+medium	O
+,	O
+or	O
+short	O
+grain	O
+white	O
+;	O
+also	O
+popcorn	O
+rice	O
+
+# id	897b956b-32d8-4733-be93-b7c796aed4e4	domain=dev
+she	O
+studied	O
+at	O
+the	O
+art	B-GRP
+students	I-GRP
+league	I-GRP
+of	I-GRP
+new	I-GRP
+york	I-GRP
+as	O
+a	O
+teenager	O
+(	O
+1930	O
+1934	O
+)	O
+with	O
+john	B-PER
+steuart	I-PER
+curry	I-PER
+,	O
+raphael	B-PER
+soyer	I-PER
+,	O
+anne	B-PER
+goldthwaite	I-PER
+,	O
+and	O
+george	B-PER
+brant	I-PER
+bridgman	I-PER
+.	O
+
+# id	1b658aed-9942-4c8d-bb36-d4e6d2bb9247	domain=dev
+since	O
+1952	O
+,	O
+he	O
+has	O
+lived	O
+in	O
+canada	B-LOC
+,	O
+where	O
+he	O
+established	O
+his	O
+architectural	O
+company	O
+in	O
+toronto	B-LOC
+.	O
+
+# id	7247ad36-e5e1-4679-bcd1-831952033621	domain=dev
+the	O
+democratic	B-GRP
+alliance	I-GRP
+(	O
+blue	O
+)	O
+won	O
+1	O
+metropolitan	O
+municipality	O
+and	O
+6	O
+local	O
+municipalities	O
+.	O
+
+# id	c33387b1-cb44-42ac-86cf-2ff1168bd77e	domain=dev
+blue	O
+appeared	O
+on	O
+last	B-CW
+comic	I-CW
+standing	I-CW
+to	O
+make	O
+people	O
+aware	O
+of	O
+the	O
+fact	O
+that	O
+people	O
+with	O
+disabilities	O
+can	O
+make	O
+an	O
+impact	O
+.	O
+
+# id	08c156ff-2286-48ac-8ea8-05efb437c035	domain=dev
+in	O
+1963	O
+,	O
+through	O
+sheer	O
+talent	O
+and	O
+her	O
+intense	O
+persona	O
+,	O
+she	O
+joined	O
+the	O
+roster	O
+of	O
+pathé	B-CORP
+.	O
+
+# id	407c4a7f-b677-404e-b821-980fb3c111f0	domain=dev
+this	O
+is	O
+a	O
+list	O
+of	O
+hospital	B-GRP
+in	O
+south	B-LOC
+africa	I-LOC
+.	O
+
+# id	baf80240-a62f-44c1-b413-61240aa424e4	domain=dev
+it	O
+was	O
+described	O
+by	O
+ludwig	B-PER
+ganglbauer	I-PER
+in	O
+1883	O
+.	O
+
+# id	c428c768-7e89-43bc-9b8f-ad3e033776ce	domain=dev
+fabricio	B-PER
+neis	I-PER
+/	O
+david	B-PER
+vega	I-PER
+hernández	I-PER
+def	O
+.	O
+henri	B-PER
+laaksonen	I-PER
+/	O
+luca	B-PER
+margaroli	I-PER
+4	O
+–	O
+6	O
+,	O
+6	O
+–	O
+4	O
+,	O
+[	O
+10	O
+–	O
+8	O
+]	O
+.	O
+
+# id	dbcd060f-3173-43ba-84f3-c21dcff1ebaf	domain=dev
+he	O
+then	O
+joined	O
+plymouth	B-GRP
+argyle	I-GRP
+f.c.	I-GRP
+in	O
+1976	O
+,	O
+making	O
+39	O
+league	O
+appearances	O
+.	O
+
+# id	71e11a8c-cb3a-4947-8615-4fa2aa98f1c5	domain=dev
+played	O
+college	O
+lacrosse	O
+for	O
+towson	B-GRP
+university	I-GRP
+where	O
+he	O
+is	O
+the	O
+all	O
+time	O
+career	O
+leader	O
+in	O
+ground	O
+balls	O
+.	O
+
+# id	ac3a0a84-cc42-4663-b693-dfcd11c17f51	domain=dev
+provoke	O
+was	O
+given	O
+a	O
+rating	O
+of	O
+130	O
+by	O
+timeform	B-CORP
+in	O
+1965	O
+.	O
+
+# id	9db80505-e4f3-4622-a594-91113bc35205	domain=dev
+brown	O
+'s	O
+style	O
+of	O
+government	O
+differed	O
+from	O
+that	O
+of	O
+his	O
+predecessor	O
+,	O
+tony	B-PER
+blair	I-PER
+,	O
+who	O
+had	O
+been	O
+seen	O
+as	O
+presidential	O
+.	O
+
+# id	7c10d943-8f0e-42c4-b1f6-17e0dc101ac8	domain=dev
+alternative	O
+fuel	O
+vehicles	O
+are	O
+widely	O
+known	O
+as	O
+electric	O
+cars	O
+,	O
+cars	O
+that	O
+run	O
+on	O
+a	O
+battery	B-PROD
+electric	I-PROD
+vehicle	I-PROD
+that	O
+needs	O
+to	O
+simply	O
+be	O
+charged	O
+.	O
+
+# id	9b9caced-1098-43ea-a338-4e42c751f24e	domain=dev
+23px	O
+florida	B-LOC
+state	I-LOC
+road	I-LOC
+121	I-LOC
+runs	O
+north	O
+and	O
+south	O
+on	O
+the	O
+western	O
+part	O
+of	O
+the	O
+city	O
+.	O
+
+# id	e559565c-85b3-4fde-bbeb-2682b7002f00	domain=dev
+king	O
+continues	O
+to	O
+tour	O
+countless	O
+dates	O
+and	O
+will	O
+perform	O
+as	O
+direct	O
+support	O
+for	O
+blake	B-PER
+shelton	I-PER
+later	O
+this	O
+summer	O
+.	O
+
+# id	99a3ee83-1d87-47d2-829a-510be8c6dad1	domain=dev
+elizabeth:	B-CW
+the	I-CW
+golden	I-CW
+age	I-CW
+by	O
+shekhar	B-PER
+kapur	I-PER
+,	O
+(	O
+festival	O
+closing	O
+film	O
+)	O
+
+# id	d878a8c0-61aa-4815-ba63-74d0353332dc	domain=dev
+in	O
+early	O
+2013	O
+the	O
+developers	O
+chose	O
+openstreetmap	B-CW
+as	O
+a	O
+replacement	O
+.	O
+
+# id	4154d8ca-47d8-444f-8acf-73ec43b833db	domain=dev
+in	O
+the	O
+2007	O
+election	O
+the	O
+most	O
+popular	O
+party	O
+was	O
+the	O
+swiss	B-GRP
+people's	I-GRP
+party	I-GRP
+which	O
+received	O
+48.2	O
+%	O
+of	O
+the	O
+vote	O
+.	O
+
+# id	df191c79-a403-48ee-9847-6badd22cf9e7	domain=dev
+#	O
+sitnije	O
+,	O
+sestro	O
+,	O
+sitnije	O
+(	O
+kornelije	B-PER
+kovač	I-PER
+,	O
+marina	B-PER
+tucaković	I-PER
+)	O
+2	O
+:	O
+45	O
+
+# id	9335d0f1-69a9-4e05-ada5-2da677262d1e	domain=dev
+both	O
+former	O
+and	O
+escaped	O
+concentration	O
+camp	O
+prisoners	O
+,	O
+and	O
+a	O
+renegade	O
+volkssturm	B-GRP
+(	O
+civilian	O
+militia	O
+)	O
+company	O
+took	O
+part	O
+.	O
+
+# id	feb7f164-6f44-44a8-b9c8-c40c1e208ace	domain=dev
+however	O
+,	O
+laurence	B-PER
+tribe	I-PER
+,	O
+quoted	O
+in	O
+the	O
+blog	O
+of	O
+the	B-GRP
+wall	I-GRP
+street	I-GRP
+journal	I-GRP
+,	O
+said	O
+that	O
+there	O
+were	O
+no	O
+insoluble	O
+constitutional	O
+difficulties	O
+.	O
+
+# id	b67af889-b549-4818-b9c0-ee0d78314708	domain=dev
+on	O
+the	O
+other	O
+hand	O
+,	O
+the	O
+united	B-CW
+states	I-CW
+army	I-CW
+air	I-CW
+service	I-CW
+was	O
+desperately	O
+short	O
+of	O
+fighters	O
+to	O
+equip	O
+its	O
+projected	O
+pursuit	O
+(	O
+fighter	O
+)	O
+squadrons	O
+.	O
+
+# id	93c6dd5e-8681-4f0b-97ef-b18c0c78c5fc	domain=dev
+ronnie	B-PER
+simpson	I-PER
+,	O
+footballer	O
+and	O
+football	O
+manager	O
+(	O
+born	O
+1930	O
+)	O
+
+# id	5669949d-cc08-4d32-8d43-63e91fcee865	domain=dev
+between	O
+1980	O
+and	O
+1984	O
+,	O
+she	O
+presented	O
+a	O
+weekly	O
+programme	O
+on	O
+social	O
+welfare	O
+rights	O
+and	O
+information	O
+on	O
+raidió	B-CORP
+teilifís	I-CORP
+éireann	I-CORP
+television	O
+.	O
+
+# id	1601739d-1583-419c-9a37-ffe11eeaff45	domain=dev
+brakes	O
+were	O
+discs	O
+all	O
+round	O
+,	O
+with	O
+the	O
+front	O
+units	O
+from	O
+the	O
+ford	B-PROD
+granada	I-PROD
+.	O
+
+# id	f73f0163-a28c-4d9b-887c-e3c995ed7c42	domain=dev
+waste	B-PROD
+heat	I-PROD
+from	O
+the	O
+plant	O
+provided	O
+heat	O
+for	O
+a	O
+power	O
+station	O
+.	O
+
+# id	5ee5f79c-98d8-4d58-a419-a9d27fd4ab23	domain=dev
+his	O
+archive	O
+with	O
+more	O
+than	O
+25	O
+mil	O
+works	O
+is	O
+kept	O
+at	O
+the	O
+universidade	B-GRP
+estadual	I-GRP
+paulista	I-GRP
+library	O
+in	O
+franca	B-LOC
+.	O
+
+# id	8bb1b522-b368-41f7-9b2a-f104c5271889	domain=dev
+a	O
+stone	O
+altar	O
+slab	O
+stands	O
+on	O
+three	O
+steps	O
+,	O
+and	O
+is	O
+flanked	O
+by	O
+a	O
+baptismal	B-PROD
+font	I-PROD
+and	O
+a	O
+pulpit	B-PROD
+.	O
+
+# id	0979ca4d-3770-4f28-a16e-843c37ad944e	domain=dev
+these	O
+were	O
+not	O
+always	O
+installed	O
+due	O
+to	O
+disappointing	O
+combat	O
+results	O
+and	O
+were	O
+sometimes	O
+replaced	O
+with	O
+two	O
+12.7	O
+mm	O
+(	O
+.50	O
+in	O
+)	O
+ho-103	B-PROD
+.	O
+
+# id	7aed9ab5-1409-46c0-a463-7c678f9ccea8	domain=dev
+he	O
+was	O
+the	O
+head	O
+coach	O
+at	O
+indiana	B-GRP
+university	I-GRP
+northwest	I-GRP
+,	O
+from	O
+2007	O
+to	O
+2010	O
+.	O
+
+# id	e96255e9-b8f6-4092-9ebf-e96a0308d367	domain=dev
+it	O
+was	O
+described	O
+by	O
+edward	B-PER
+meyrick	I-PER
+in	O
+1909	O
+.	O
+
+# id	8aff0214-b887-4835-b6d4-40aca5b4913d	domain=dev
+additional	O
+items	O
+included	O
+20	O
+pieces	O
+of	O
+anjelica	B-PER
+huston	I-PER
+personal	O
+wardrobe	O
+,	O
+ranging	O
+in	O
+price	O
+from	O
+$	O
+200	O
+to	O
+$	O
+1,200	O
+each	O
+.	O
+
+# id	f42c403d-f809-48a6-98bb-be8cf320884a	domain=dev
+like	O
+most	O
+landowners	O
+of	O
+the	O
+time	O
+he	O
+was	O
+extremely	O
+litigious	O
+,	O
+even	O
+over	O
+such	O
+minor	O
+matters	O
+as	O
+a	O
+neighbour	O
+'s	O
+right	O
+to	O
+erect	O
+a	O
+pew	B-PROD
+in	O
+the	O
+parish	O
+church	O
+.	O
+
+# id	dab6e2ef-c496-46c6-9658-18695a29e4ce	domain=dev
+according	O
+to	O
+a	O
+tweet	O
+from	O
+china	B-CORP
+central	I-CORP
+television	I-CORP
+(	O
+cctv	O
+)	O
+,	O
+rescuers	O
+were	O
+able	O
+to	O
+hear	O
+the	O
+sound	O
+of	O
+people	O
+trapped	O
+inside	O
+the	O
+vessel	O
+.	O
+
+# id	08e00f46-eba8-4c3b-b261-ebaaaa21b0bb	domain=dev
+vasyl	B-PER
+chornyi	I-PER
+–	O
+fc	B-GRP
+ukraine	I-GRP
+united	I-GRP
+–	O
+2017	O
+–	O
+
+# id	cd9e0bf6-a116-454a-9c67-c3db236e38a7	domain=dev
+the	O
+following	O
+is	O
+a	O
+list	O
+of	O
+trt	B-CORP
+1	I-CORP
+original	O
+programs	O
+that	O
+have	O
+appeared	O
+on	O
+the	O
+channel	O
+in	O
+the	O
+past	O
+.	O
+
+# id	2771a805-7a10-4115-ae8f-07f2cfda0bf9	domain=dev
+the	O
+event	O
+was	O
+photographed	O
+for	O
+life	B-CW
+by	O
+michael	B-PER
+crawford	I-PER
+.	O
+
+# id	6694a72e-a964-483e-98e0-2875d8e4128c	domain=dev
+the	O
+show	O
+aired	O
+on	O
+cbs	B-CORP
+in	O
+the	O
+spring	O
+of	O
+1993	O
+,	O
+with	O
+the	O
+first	O
+season	O
+consisting	O
+of	O
+three	O
+pilot	O
+episodes	O
+.	O
+
+# id	65be44d1-ecbb-49c2-ab58-2cdd2493e86a	domain=dev
+nikoloz	B-PER
+basilashvili	I-PER
+was	O
+the	O
+defending	O
+champion	O
+,	O
+but	O
+lost	O
+in	O
+the	O
+second	O
+round	O
+to	O
+stefanos	B-PER
+tsitsipas	I-PER
+.	O
+
+# id	9b4aee3a-0076-4689-8e36-1082050ed3f1	domain=dev
+however	O
+,	O
+it	O
+remained	O
+the	O
+center	O
+of	O
+the	O
+south	B-LOC
+carolina	I-LOC
+economy	O
+,	O
+while	O
+in	O
+politics	O
+the	O
+upstate	O
+politicians	O
+routinely	O
+attacked	O
+its	O
+aristocratic	O
+and	O
+undemocratic	O
+tone	O
+.	O
+
+# id	acf66142-bc3c-4dac-97e1-3ee1ef10cafd	domain=dev
+the	O
+current	O
+president	O
+is	O
+jovenel	B-PER
+moïse	I-PER
+.	O
+
+# id	099a7097-9a91-42f7-b42b-e7db2297ff20	domain=dev
+the	O
+consumption	O
+of	O
+carne	B-PROD
+asada	I-PROD
+is	O
+widespread	O
+throughout	O
+much	O
+of	O
+the	O
+continent	O
+.	O
+
+# id	680d98e3-5219-4b8b-a313-c5b9f13e5581	domain=dev
+the	O
+bbc	B-CORP
+did	O
+a	O
+news	O
+story	O
+,	O
+which	O
+talked	O
+about	O
+how	O
+the	O
+causes	O
+of	O
+the	O
+crisis	O
+in	O
+the	O
+u.s.	O
+economy	O
+has	O
+forced	O
+many	O
+people	O
+,	O
+who	O
+used	O
+to	O
+own	O
+their	O
+own	O
+homes	O
+,	O
+to	O
+now	O
+live	O
+in	O
+tents	O
+.	O
+
+# id	2a5f7f0f-d973-4e72-8226-0a8cea573806	domain=dev
+a	O
+long	O
+term	O
+solution	O
+is	O
+to	O
+buy	O
+an	O
+expensive	O
+air	B-PROD
+purifier	I-PROD
+for	O
+houses	O
+or	O
+cars	O
+.	O
+
+# id	1e2ada57-4924-44f5-a36c-c23f6604cddc	domain=dev
+arbace	O
+is	O
+an	O
+opera	B-CW
+seria	I-CW
+in	O
+three	O
+acts	O
+by	O
+francesco	B-PER
+bianchi	I-PER
+.	O
+
+# id	2cbbe3b1-3eb4-4d36-8dfa-92e4d6652b98	domain=dev
+shaw	O
+returned	O
+his	O
+diary	O
+later	O
+that	O
+year	O
+,	O
+having	O
+kept	O
+it	O
+safe	O
+in	O
+the	O
+bottom	O
+of	O
+a	O
+billycan	B-PROD
+.	O
+
+# id	d13f17bc-fb4b-422c-b0ec-9c90e293ea38	domain=dev
+she	O
+has	O
+written	O
+greeting	B-PROD
+card	I-PROD
+,	O
+articles	O
+in	O
+magazines	O
+like	O
+glamour	B-CW
+,	O
+and	O
+a	O
+novel	O
+.	O
+
+# id	625115c3-e1a6-4f4d-94dd-8fb6b178613e	domain=dev
+one	O
+elementary	B-GRP
+school	I-GRP
+with	O
+4	O
+teachers	O
+and	O
+86	O
+pupils	O
+
+# id	c66a9c62-7820-4544-abbc-ddd8aed7e76b	domain=dev
+he	O
+helped	O
+yuvraj	B-PER
+singh	I-PER
+on	O
+his	O
+footwork	O
+in	O
+the	O
+late	O
+2000s	O
+and	O
+worked	O
+with	O
+the	O
+england	B-GRP
+and	I-GRP
+wales	I-GRP
+cricket	I-GRP
+board	I-GRP
+on	O
+technical	O
+aspects	O
+of	O
+the	O
+game	O
+.	O
+
+# id	12a1bc4d-6f66-458d-8777-0669a1925be4	domain=dev
+the	O
+jewels	B-CORP
+atomweight	O
+division	O
+,	O
+with	O
+upper	O
+limit	O
+at	O
+105.8	O
+lb	O
+(	O
+48	O
+kg	O
+)	O
+
+# id	58d69bd4-88a7-4d9e-af88-f1b4aa7f5e2a	domain=dev
+donald	B-PER
+banks	I-PER
+was	O
+put	O
+in	O
+charge	O
+of	O
+the	O
+department	O
+.	O
+
+# id	1cb5ccd8-a131-47e3-9887-28507df5b99c	domain=dev
+following	O
+the	O
+same	O
+market	O
+trend	O
+as	O
+in	O
+2014	O
+,	O
+more	O
+plug-in	B-PROD
+hybrid	I-PROD
+were	O
+registered	O
+in	O
+2015	O
+(	O
+41,226	O
+)	O
+in	O
+the	O
+country	O
+than	O
+conventional	O
+hybrids	O
+(	O
+13,752	O
+)	O
+.	O
+
+# id	5cc551fd-399f-47e1-9e78-fb3cc6bb5903	domain=dev
+this	O
+is	O
+a	O
+list	O
+of	O
+public	B-CW
+art	I-CW
+in	O
+san	B-LOC
+francisco	I-LOC
+.	O
+
+# id	48a2d540-ca5e-4a93-bdf7-122d8ba07a4f	domain=dev
+metalul	O
+played	O
+matches	O
+in	O
+cuba	B-LOC
+,	O
+libya	B-LOC
+and	O
+syria	B-LOC
+,	O
+sometimes	O
+even	O
+in	O
+front	O
+of	O
+50,000	O
+people	O
+.	O
+
+# id	ed79b4b8-4b16-44ac-8de8-2b15686b034a	domain=dev
+svarvarnuten	O
+is	O
+a	O
+mountain	O
+in	O
+the	O
+municipality	O
+of	O
+valle	B-LOC
+in	O
+agder	B-LOC
+county	O
+,	O
+norway	B-LOC
+.	O
+
+# id	b4da00a8-d633-4bec-99fe-bba9f3ea22a4	domain=dev
+he	O
+studied	O
+at	O
+amherst	B-GRP
+college	I-GRP
+and	O
+the	O
+johns	B-GRP
+hopkins	I-GRP
+university	I-GRP
+,	O
+where	O
+he	O
+gained	O
+his	O
+ph	O
+.	O
+d	O
+.	O
+in	O
+physics	O
+in	O
+1895	O
+.	O
+
+# id	6d45a4db-5c58-4ce3-a31a-bb421f6de328	domain=dev
+drag	B-CW
+me	I-CW
+down	I-CW
+(	O
+one	B-GRP
+direction	I-GRP
+cover	O
+)	O
+(	O
+featuring	O
+matty	O
+mullins	O
+)	O
+
+# id	e4460d2c-55db-4cf2-9947-299ef51e2c09	domain=dev
+portable	O
+survival	O
+kit	O
+–	O
+,	O
+containing	O
+a	O
+tp-82	B-PROD
+or	O
+makarov	B-PROD
+pm	I-PROD
+
+# id	0dfbb4c4-dca7-44d5-b070-af6f7e7f59fa	domain=dev
+he	O
+did	O
+not	O
+pretend	O
+to	O
+be	O
+the	O
+initiate	O
+of	O
+some	O
+ancient	O
+or	O
+fictitious	O
+secretos	B-GRP
+.	O
+
+# id	0a665057-3225-43ff-864b-b3bde6236a8c	domain=dev
+a	O
+shoe	B-PROD
+is	O
+an	O
+item	O
+of	O
+footwear	B-PROD
+intended	O
+to	O
+protect	O
+and	O
+comfort	O
+the	O
+human	O
+foot	O
+while	O
+doing	O
+various	O
+activities	O
+.	O
+
+# id	c8d567be-55ff-4248-944c-71597592de1b	domain=dev
+he	O
+came	O
+to	O
+india	B-LOC
+in	O
+1937	O
+as	O
+a	O
+chemical	O
+engineer	O
+working	O
+for	O
+flsmidth	B-CORP
+of	O
+copenhagen	B-LOC
+.	O
+
+# id	3e3635eb-e23c-4d90-ac2f-86242472194b	domain=dev
+#	O
+the	B-CW
+hunt	I-CW
+for	I-CW
+red	I-CW
+october	I-CW
+,	O
+starring	O
+sean	B-PER
+connery	I-PER
+,	O
+alec	B-PER
+baldwin	I-PER
+,	O
+$	O
+200,512,643	O
+
+# id	e455fdfe-c3ca-4b76-94e8-7be1dab0ad8a	domain=dev
+thor	O
+is	O
+owned	O
+by	O
+telenor	B-CORP
+.	O
+
+# id	4eb30e76-ecc3-4c8c-911c-663803a31270	domain=dev
+in	O
+2018	O
+,	O
+collider	B-GRP
+ranked	O
+this	O
+episode	O
+the	O
+15th	O
+best	O
+original	O
+series	O
+episode	O
+.	O
+
+# id	52af6331-cc07-4e4c-93dd-30b8e3f54ab2	domain=dev
+it	O
+is	O
+a	O
+sister	O
+company	O
+of	O
+the	O
+corendon	B-CORP
+airlines	I-CORP
+and	O
+the	O
+corendon	B-CORP
+airlines	I-CORP
+europe	I-CORP
+.	O
+
+# id	4541c55a-b64e-48b8-951f-46b94d682ba8	domain=dev
+in	O
+1996	O
+,	O
+she	O
+played	O
+the	O
+same	O
+role	O
+in	O
+d3:	B-CW
+the	I-CW
+mighty	I-CW
+ducks	I-CW
+.	O
+
+# id	f9d9cf0e-c0c4-4669-a67e-5a2356925bab	domain=dev
+grey	O
+is	O
+then	O
+seen	O
+in	O
+the	O
+game	O
+'s	O
+last	O
+scene	O
+on	O
+a	O
+bench	O
+in	O
+prague	B-LOC
+where	O
+his	O
+former	O
+subordinates	O
+murder	O
+him	O
+.	O
+
+# id	47fb8e6d-9ddd-4cc3-ba85-42659ae125d2	domain=dev
+gregor	O
+edited	O
+the	O
+1779	O
+hymnal	O
+and	O
+the	O
+1784	O
+chorale	O
+book	O
+of	O
+the	O
+unitas	B-GRP
+fratrum	I-GRP
+.	O
+
+# id	dfb8985b-68b1-4926-9282-6c69cc324976	domain=dev
+according	O
+to	O
+the	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+,	O
+the	O
+city	O
+has	O
+a	O
+total	O
+area	O
+of	O
+,	O
+all	O
+land	O
+.	O
+
+# id	3367f2e3-0797-44b4-b7f9-7a061cf9a817	domain=dev
+pritchard	O
+is	O
+the	O
+younger	O
+brother	O
+of	O
+retired	O
+parramatta	B-GRP
+eels	I-GRP
+player	O
+frank	B-PER
+pritchard	I-PER
+.	O
+
+# id	06959c7d-831e-4272-b0c8-f4d15f70ee0a	domain=dev
+it	O
+was	O
+described	O
+by	O
+heinrich	B-PER
+friese	I-PER
+in	O
+1904	O
+.	O
+
+# id	9946953f-a4ee-4331-acd6-e46a6bdb0e82	domain=dev
+estac	O
+now	O
+plays	O
+in	O
+ligue	B-CORP
+2	I-CORP
+.	O
+
+# id	dc887270-1883-4ae6-9ca5-9cf1d9a08f73	domain=dev
+the	O
+art	O
+designs	O
+won	O
+over	O
+the	O
+executives	O
+at	O
+sony	B-GRP
+pictures	I-GRP
+,	O
+who	O
+bought	O
+the	O
+film	O
+after	O
+making	O
+a	O
+more	O
+attractive	O
+offer	O
+than	O
+the	O
+other	O
+studios	O
+.	O
+
+# id	44d8fba1-64d4-49ec-98b8-a213c4fef61a	domain=dev
+because	O
+there	O
+was	O
+no	O
+war	O
+with	O
+the	O
+soviet	B-LOC
+union	I-LOC
+the	O
+group	O
+never	O
+saw	O
+active	O
+service	O
+.	O
+
+# id	7ad2e69d-2e5f-407f-9b36-cd90a8b41307	domain=dev
+oberlander	O
+served	O
+only	O
+three	O
+years	O
+in	O
+prison	O
+for	O
+his	O
+crimes	O
+before	O
+settling	O
+in	O
+united	B-LOC
+states	I-LOC
+of	I-LOC
+america	I-LOC
+.	O
+
+# id	6b977f92-ebae-4bc5-964d-fb84ed20699b	domain=dev
+walt	B-PER
+disney	I-PER
+–	O
+film	O
+producer	O
+,	O
+director	O
+,	O
+screenwriter	O
+,	O
+voice	O
+actor	O
+,	O
+and	O
+animator	O
+
+# id	1c250aec-bf7a-47e1-a176-da173621d50b	domain=dev
+it	O
+was	O
+chiefly	O
+inhabited	O
+by	O
+table	B-PROD
+salt	I-PROD
+manufacturers	O
+.	O
+
+# id	c1ff055d-4ba4-49fc-af93-37be78a09d86	domain=dev
+the	O
+pulpit	B-PROD
+and	O
+reading	O
+desk	O
+are	O
+17th	O
+century	O
+.	O
+
+# id	36a4403f-8547-4289-823f-519ac05c4e47	domain=dev
+on	O
+rotten	B-CORP
+tomatoes	I-CORP
+,	O
+season	O
+one	O
+has	O
+a	O
+95	O
+%	O
+approval	O
+rating	O
+based	O
+on	O
+55	O
+reviews	O
+,	O
+with	O
+an	O
+average	O
+rating	O
+of	O
+8.28	O
+/	O
+10	O
+.	O
+
+# id	42ec9daa-5e59-450c-857c-7084f4953341	domain=dev
+but	O
+linebacker	O
+dan	B-PER
+morgan	I-PER
+picked	O
+off	O
+a	O
+pass	O
+from	O
+backup	O
+quarterback	O
+koy	B-PER
+detmer	I-PER
+in	O
+the	O
+end	O
+zone	O
+with	O
+5	O
+:	O
+16	O
+left	O
+in	O
+regulation	O
+.	O
+
+# id	6dce59ba-032c-49e7-81b3-8663f1a38246	domain=dev
+in	O
+2014	O
+,	O
+it	O
+was	O
+selected	O
+as	O
+the	O
+common	O
+book	O
+at	O
+auburn	B-GRP
+university	I-GRP
+and	O
+university	B-GRP
+of	I-GRP
+michigan	I-GRP
+college	I-GRP
+of	I-GRP
+engineering	I-GRP
+,	O
+as	O
+well	O
+.	O
+
+# id	a99abfd3-db57-40d9-a823-2a4259de2142	domain=dev
+belmont	O
+was	O
+the	O
+home	O
+of	O
+the	O
+headquarters	O
+of	O
+the	O
+john	B-GRP
+birch	I-GRP
+society	I-GRP
+from	O
+the	O
+organization	O
+'s	O
+founding	O
+in	O
+1958	O
+until	O
+its	O
+relocation	O
+to	O
+appleton	B-LOC
+in	O
+1989	O
+.	O
+
+# id	13af3d8b-7d58-4c69-9323-dadf06e19819	domain=dev
+molly	B-PER
+ivins	I-PER
+(	O
+class	O
+of	O
+1966	O
+)	O
+:	O
+journalist	O
+,	O
+political	O
+commentator	O
+,	O
+and	O
+humorist	O
+
+# id	a991c829-57ea-4f3d-bb0e-73a3927d94c7	domain=dev
+bijela	O
+(	O
+)	O
+is	O
+a	O
+village	B-LOC
+in	O
+the	O
+municipality	B-LOC
+of	I-LOC
+bosnia	I-LOC
+and	I-LOC
+herzegovina	I-LOC
+of	O
+višegrad	B-LOC
+,	O
+bosnia	B-LOC
+and	I-LOC
+herzegovina	I-LOC
+.	O
+
+# id	8b8c878f-eff3-4cf2-8a98-df933b526fb5	domain=dev
+rotten	B-CORP
+tomatoes	I-CORP
+reports	O
+an	O
+88	O
+%	O
+approval	O
+rating	O
+,	O
+based	O
+on	O
+17	O
+reviews	O
+.	O
+
+# id	5a09eb96-5c07-4d8e-a176-f5c5b88a517e	domain=dev
+drill	O
+,	O
+a	O
+1996	O
+album	O
+by	O
+noise	B-GRP
+unit	I-GRP
+
+# id	2d971c33-30c7-43bb-82d3-a22de761deaa	domain=dev
+this	O
+is	O
+a	O
+comprehensive	O
+index	O
+of	O
+turn-based	B-CW
+tactics	I-CW
+video	O
+games	O
+,	O
+sorted	O
+chronologically	O
+.	O
+
+# id	fe2dfc0d-bfd0-4d15-adcc-8733924a743d	domain=dev
+grudzinski	O
+lives	O
+in	O
+hamburg	B-LOC
+and	O
+is	O
+a	O
+wholesale	O
+and	O
+export	O
+trader	O
+.	O
+
+# id	8f9e6703-d3a8-42a4-9780-4c15d41cd9e7	domain=dev
+this	O
+is	O
+a	O
+complete	O
+list	O
+of	O
+episodes	O
+for	O
+the	O
+american	B-CORP
+broadcasting	I-CORP
+company	I-CORP
+television	O
+drama	B-CW
+series	O
+the	B-CW
+fugitive	I-CW
+.	O
+
+# id	936b3214-44b1-43db-9834-bc45e5698fc9	domain=dev
+bharatiya	B-GRP
+janata	I-GRP
+party	I-GRP
+:	O
+5	O
+&	O
+indian	B-GRP
+national	I-GRP
+congress	I-GRP
+:	O
+2	O
+
+# id	2a8a9be7-01e8-498f-a4de-def7d3d8af15	domain=dev
+it	O
+is	O
+found	O
+in	O
+new	B-LOC
+guinea	I-LOC
+.	O
+
+# id	677d5c4f-090f-4ec8-a3a5-c79728ab41f0	domain=dev
+runaways	B-CW
+(	O
+ensemble	O
+co	O
+lead	O
+played	O
+by	O
+lyrica	B-PER
+okano	I-PER
+)	O
+
+# id	fe94049f-8220-4b97-8fe3-ada7a2c67147	domain=dev
+it	O
+was	O
+transmitted	O
+on	O
+bbc	B-CORP
+one	I-CORP
+in	O
+1989	O
+and	O
+was	O
+presented	O
+by	O
+newscaster	O
+martyn	B-PER
+lewis	I-PER
+and	O
+actress	O
+lynne	B-PER
+perrie	I-PER
+,	O
+a	O
+cancer	B-PER
+survivor	I-PER
+.	O
+
+# id	c5a365dc-bbce-4607-8b7e-89e118889ee3	domain=dev
+in	O
+the	O
+final	O
+series	O
+,	O
+the	O
+meter	O
+was	O
+represented	O
+by	O
+an	O
+animated	O
+picture	O
+of	O
+a	O
+pie	B-PROD
+,	O
+in	O
+which	O
+each	O
+slice	O
+of	O
+it	O
+slowly	O
+dissolves	O
+over	O
+time	O
+.	O
+
+# id	bc5966e0-48cd-4b1e-a67d-31d08aa5c37d	domain=dev
+it	O
+lies	O
+approximately	O
+west	O
+of	O
+grabica,	B-LOC
+piotrków	I-LOC
+county	I-LOC
+,	O
+north	O
+west	O
+of	O
+piotrków	B-LOC
+trybunalski	I-LOC
+,	O
+and	O
+south	O
+of	O
+the	O
+regional	O
+capital	O
+łódź	B-LOC
+.	O
+
+# id	51c06968-bc15-4a55-b127-64d5552adbba	domain=dev
+four	O
+pots	O
+found	O
+during	O
+excavation	O
+are	O
+now	O
+in	O
+the	O
+ulster	B-LOC
+museum	I-LOC
+.	O
+
+# id	b5179cd2-b0f7-4379-8d67-2668e7ecbe6c	domain=dev
+this	O
+led	O
+to	O
+additional	O
+work	O
+,	O
+including	O
+other	O
+animated	O
+commercials	O
+for	O
+levi	B-CORP
+strauss	I-CORP
+&	I-CORP
+co.	I-CORP
+and	O
+mtv	B-CORP
+.	O
+
+# id	4c05d9e3-f37d-4058-ad45-a4fb8d04f688	domain=dev
+in	O
+1540	O
+,	O
+on	O
+the	O
+execution	O
+of	O
+thomas	B-PER
+cromwell	I-PER
+he	O
+was	O
+elected	O
+chancellor	O
+of	O
+the	O
+university	B-GRP
+of	I-GRP
+cambridge	I-GRP
+.	O
+
+# id	148eab87-0a5a-4ae2-8785-91805d2889e5	domain=dev
+the	O
+town	O
+was	O
+one	O
+of	O
+the	O
+30	O
+missions	O
+established	O
+at	O
+the	O
+beginning	O
+of	O
+the	O
+17th	O
+century	O
+that	O
+were	O
+destroyed	O
+in	O
+1817	O
+by	O
+the	O
+portugal	B-LOC
+army	O
+.	O
+
+# id	6c10f839-73b0-4180-a2bf-d30ba35e65cc	domain=dev
+he	O
+was	O
+born	O
+in	O
+newton	B-LOC
+.	O
+
+# id	7b9ee60f-cafd-460f-9215-b97fc7ab3fd5	domain=dev
+,	O
+1921	O
+,	O
+by	O
+edward	B-PER
+harold	I-PER
+begbie	I-PER
+,	O
+at	O
+project	B-GRP
+gutenberg	I-GRP
+
+# id	124a2bd2-7701-44f1-a975-8a3760e455d4	domain=dev
+he	O
+is	O
+the	O
+son	O
+of	O
+author	O
+and	O
+naturalist	O
+peter	B-PER
+matthiessen	I-PER
+.	O
+
+# id	6cac2bdd-e0ca-47a2-a414-ed709075665d	domain=dev
+natasha	B-PER
+henstridge	I-PER
+&	O
+anthony	B-PER
+guidera	I-PER
+–	O
+species	B-CW
+
+# id	0109a8aa-dee0-410d-a8d2-6c35cc29aae9	domain=dev
+however	O
+traditional	O
+barley	O
+sugar	O
+is	O
+made	O
+with	O
+barley	B-PROD
+water	I-PROD
+,	O
+while	O
+clear	O
+toy	O
+candy	O
+is	O
+made	O
+with	O
+pure	O
+water	O
+.	O
+
+# id	119152b1-059f-4eac-845f-ce5682decabb	domain=dev
+this	O
+ties	O
+this	O
+motif	O
+in	O
+with	O
+the	O
+genre	O
+of	O
+the	O
+pastoral	B-CW
+.	O
+
+# id	f7c0f8c1-847f-4522-b4eb-79ed5c5946e6	domain=dev
+he	O
+began	O
+his	O
+career	O
+in	O
+1996	O
+with	O
+web	B-CORP
+entertainment	I-CORP
+and	O
+has	O
+been	O
+one	O
+of	O
+the	O
+most	O
+popular	O
+rap	O
+acts	O
+in	O
+the	O
+world	O
+since	O
+the	O
+late	O
+1990s	O
+.	O
+
+# id	5c651047-45c5-44c8-9fb3-6b83f77cda70	domain=dev
+meteor	O
+,	O
+were	O
+sometimes	O
+also	O
+used	O
+as	O
+hearse	B-PROD
+.	O
+]	O
+]	O
+
+# id	2e726de3-9a21-43d6-b866-95b3f515bc8a	domain=dev
+he	O
+is	O
+best	O
+known	O
+as	O
+the	O
+production	O
+and	O
+business	O
+partner	O
+of	O
+robert	B-PER
+fripp	I-PER
+(	O
+king	B-GRP
+crimson	I-GRP
+)	O
+.	O
+
+# id	25ce097f-de91-46f9-be84-30f279a0d19f	domain=dev
+she	O
+is	O
+best	O
+known	O
+for	O
+her	O
+supporting	O
+roles	O
+in	O
+the	B-CW
+legend	I-CW
+of	I-CW
+zhen	I-CW
+huan	I-CW
+,	O
+love	B-CW
+o2o	I-CW
+and	O
+the	B-CW
+princess	I-CW
+weiyoung	I-CW
+.	O
+
+# id	2ea94006-6d3f-49a2-88f6-1eed85deb00c	domain=dev
+from	O
+:	O
+1813.9	O
+till	O
+:	O
+1840.8	O
+color	O
+:	O
+orange	O
+text	O
+:	O
+~	O
+william	B-PER
+i	I-PER
+of	I-PER
+the	I-PER
+netherlands	I-PER
+
+# id	116c0f62-b6d0-49ab-bda3-daca139ba009	domain=dev
+american	O
+composer	O
+nico	B-PER
+muhly	I-PER
+is	O
+already	O
+one	O
+of	O
+the	O
+most	O
+popular	O
+composers	O
+in	O
+the	O
+world	O
+.	O
+
+# id	73eaea84-cd13-4814-95b6-2c564c76be48	domain=dev
+the	O
+caps	O
+were	O
+jointly	O
+designed	O
+by	O
+major	B-CORP
+league	I-CORP
+baseball	I-CORP
+and	O
+the	O
+new	B-CORP
+era	I-CORP
+cap	I-CORP
+company	I-CORP
+.	O
+
+# id	8345fd86-697b-4194-8c9b-35a7d516d07b	domain=dev
+he	O
+is	O
+the	O
+special	O
+teams	O
+coach	O
+for	O
+the	O
+philadelphia	B-GRP
+eagles	I-GRP
+of	O
+the	O
+national	B-CORP
+football	I-CORP
+league	I-CORP
+(	O
+nfl	O
+)	O
+.	O
+
+# id	03fcbbd2-1c3f-429f-a04a-4b079dbfddf9	domain=dev
+she	O
+has	O
+celebrity	O
+clientele	O
+,	O
+including	O
+la	B-GRP
+roux	I-GRP
+;	O
+emilia	B-PER
+fox	I-PER
+;	O
+florence	B-GRP
++	I-GRP
+the	I-GRP
+machine	I-GRP
+and	O
+pharrell	B-PER
+williams	I-PER
+.	O
+
+# id	3bcba3e9-f536-47f3-b16b-a5eb7c68f8d8	domain=dev
+palkade	O
+is	O
+a	O
+village	O
+in	O
+sri	B-LOC
+lanka	I-LOC
+.	O
+
+# id	7fdf9bea-2df9-49d5-8e87-143104b25d84	domain=dev
+edirimanne	O
+was	O
+a	O
+beloved	O
+member	O
+of	O
+sri	B-GRP
+lanka	I-GRP
+freedom	I-GRP
+party	I-GRP
+.	O
+
+# id	8f36eb3e-40b7-4d0a-a511-48e42d90fa9b	domain=dev
+some	O
+consumer	O
+electronics	O
+stores	O
+,	O
+have	O
+also	O
+begun	O
+selling	O
+office	O
+and	O
+baby	O
+furniture	B-PROD
+.	O
+
+# id	c96b8652-21fd-489a-bc07-0ce997c78933	domain=dev
+scott	O
+set	O
+consecutive	O
+game	O
+playing	O
+record	O
+it	O
+took	O
+lou	B-PER
+gehrig	I-PER
+to	O
+break	O
+.	O
+
+# id	f723cc9d-61c1-44df-9658-5ba51aa18e6d	domain=dev
+āyāra	O
+dasāo	O
+(	O
+sanskrit	O
+:	O
+ācāradaśāh	O
+,	O
+‘	O
+ten	O
+[	O
+chapters	O
+]	O
+about	O
+monastic	O
+conduct	O
+’	O
+,	O
+chapter	O
+8	O
+is	O
+the	O
+famed	O
+kalpasutra	B-CW
+.	O
+)	O
+
+# id	74783736-8ad1-4574-b61e-9ae8f92fa006	domain=dev
+he	O
+was	O
+manager	O
+of	O
+dundee	B-GRP
+united	I-GRP
+f.c.	I-GRP
+from	O
+1936	O
+to	O
+1938	O
+.	O
+
+# id	5e6b90a3-5937-4e58-8090-fb681356368a	domain=dev
+the	O
+yemen	B-LOC
+instrument	O
+is	O
+called	O
+a	O
+mizmār	O
+.	O
+
+# id	35b848e4-c625-441b-94bc-c04625ab321f	domain=dev
+he	O
+worked	O
+on	O
+the	O
+birds	O
+collected	O
+by	O
+johann	B-PER
+natterer	I-PER
+in	O
+brazil	B-LOC
+(	O
+343	O
+species	O
+)	O
+.	O
+
+# id	47e9e3e3-cc89-47a9-aa0b-09e1cd384c27	domain=dev
+this	O
+model	O
+was	O
+temporarily	O
+exclusive	O
+to	O
+verizon	B-CORP
+on	O
+launch	O
+in	O
+2019	O
+before	O
+expanding	O
+to	O
+other	O
+carriers	O
+in	O
+the	O
+weeks	O
+after	O
+launch	O
+.	O
+
+# id	ec27ab82-3951-4403-bd1a-7ce6fb9c928e	domain=dev
+bozzi	O
+was	O
+born	O
+in	O
+california	B-LOC
+and	O
+went	O
+to	O
+graduate	O
+school	O
+at	O
+the	O
+university	B-GRP
+of	I-GRP
+california,	I-GRP
+davis	I-GRP
+.	O
+
+# id	00e6b946-48e2-433c-a16e-4d6ad4103473	domain=dev
+he	O
+failed	O
+to	O
+make	O
+an	O
+appearance	O
+and	O
+moved	O
+across	O
+the	O
+division	O
+to	O
+sign	O
+for	O
+chesham	B-GRP
+united	I-GRP
+f.c.	I-GRP
+later	O
+in	O
+the	O
+year	O
+.	O
+
+# id	d2406afd-05d7-4821-b1b8-01558ff88ee7	domain=dev
+he	O
+moved	O
+to	O
+tokyo	B-GRP
+verdy	I-GRP
+in	O
+1993	O
+.	O
+
+# id	94609840-8c78-45f9-aec7-4e61d357d3f1	domain=dev
+in	O
+1986	O
+the	O
+club	O
+switched	O
+to	O
+the	O
+bedfordshire	B-GRP
+county	I-GRP
+football	I-GRP
+league	I-GRP
+.	O
+
+# id	348160c4-32a8-4094-b861-2cf92e674fe2	domain=dev
+it	O
+was	O
+used	O
+on	O
+the	O
+miniseries	B-CW
+and	O
+several	O
+public	O
+appearances	O
+at	O
+air	O
+shows	O
+.	O
+
+# id	5225007b-47f5-428c-bfa6-31e842b6c500	domain=dev
+it	O
+was	O
+situated	O
+along	O
+the	O
+illinois	B-CORP
+central	I-CORP
+railroad	I-CORP
+.	O
+
+# id	ad6b7e90-ab75-480e-a1b1-1f50bdfc6c66	domain=dev
+los	O
+cuentos	O
+del	O
+timonel	O
+was	O
+filmed	O
+using	O
+a	O
+bolex	B-CORP
+and	O
+a	O
+sony	B-PROD
+dcr-vx1000	I-PROD
+.	O
+
+# id	37a28fd9-97a9-4d8c-9459-daf84bafdd5e	domain=dev
+criollos	B-GRP
+de	I-GRP
+caguas	I-GRP
+fc	I-GRP
+won	O
+5	O
+–	O
+4	O
+on	O
+aggregate	O
+.	O
+
+# id	f9ff3ebd-741e-47c5-991f-7c519e58071d	domain=dev
+zines	O
+became	O
+an	O
+order	B-GRP
+of	I-GRP
+australia	I-GRP
+in	O
+1992	O
+.	O
+
+# id	b67c52f1-09f0-47bd-aabd-e69a16cc6b94	domain=dev
+in	O
+1948	O
+,	O
+the	O
+company	O
+was	O
+taken	O
+over	O
+by	O
+the	O
+municipal	O
+oslo	B-CORP
+sporveier	I-CORP
+and	O
+operations	O
+were	O
+integrated	O
+in	O
+1965	O
+.	O
+
+# id	23bd0601-ae54-4063-9dfe-dec398afc7a3	domain=dev
+development	O
+of	O
+the	O
+game	O
+began	O
+in	O
+2003	O
+with	O
+the	O
+original	O
+intention	O
+of	O
+releasing	O
+the	O
+game	O
+for	O
+the	O
+playstation	B-PROD
+2	I-PROD
+.	O
+
+# id	5e802216-b127-4d08-9f5b-2e01321a6a2e	domain=dev
+ian	B-PER
+murdock	I-PER
+,	O
+software	O
+engineer	O
+and	O
+founder	O
+of	O
+the	O
+debian	B-CW
+project	O
+
+# id	9c549e1a-7caf-401f-b485-781d9e7d7bbf	domain=dev
+the	O
+international	O
+conference	O
+was	O
+to	O
+be	O
+where	O
+the	O
+united	B-GRP
+nations	I-GRP
+was	O
+to	O
+be	O
+formulated	O
+and	O
+negotiated	O
+among	O
+international	O
+leaders	O
+.	O
+
+# id	e9ba3e30-39d4-4241-b90e-3626a636bb6d	domain=dev
+the	O
+group	O
+also	O
+hosted	O
+talks	O
+about	O
+suffrage	O
+,	O
+and	O
+had	O
+suffragists	O
+,	O
+such	O
+as	O
+susan	B-PER
+b.	I-PER
+anthony	I-PER
+,	O
+speak	O
+at	O
+the	O
+club	O
+.	O
+
+# id	62571002-2c77-4ab5-9695-4de261aa662f	domain=dev
+the	O
+institution	O
+is	O
+accredited	O
+by	O
+the	O
+north	B-GRP
+central	I-GRP
+association	I-GRP
+of	I-GRP
+colleges	I-GRP
+and	I-GRP
+schools	I-GRP
+.	O
+
+# id	588c4abc-107c-4a14-8054-130b8941a470	domain=dev
+mudcat	B-PER
+grant	I-PER
+§	O
+(	O
+born	O
+1935	O
+)	O
+–	O
+minnesota	B-GRP
+twins	I-GRP
+baseball	O
+player	O
+
+# id	d9ce0dd6-abce-4d90-ad23-a053ab014f1f	domain=dev
+drivers	O
+of	O
+qualified	O
+vehicles	O
+may	O
+also	O
+receive	O
+a	O
+10	O
+%	O
+discount	O
+on	O
+established	O
+e-zpass	B-CORP
+accounts	O
+with	O
+proof	O
+of	O
+registration	O
+.	O
+
+# id	c9bb1580-994a-41de-8397-8270fafa74a9	domain=dev
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-GRP
+register	I-GRP
+of	I-GRP
+historic	I-GRP
+places	I-GRP
+in	O
+2001	O
+.	O
+
+# id	a3bf4505-67f6-4d15-820a-6bed69d268bb	domain=dev
+he	O
+earned	O
+a	O
+law	O
+degree	O
+from	O
+boston	B-GRP
+college	I-GRP
+in	O
+1985	O
+.	O
+
+# id	bf9ff739-a870-4cec-a4d2-0626d2490d5e	domain=dev
+among	O
+the	O
+educational	O
+facilities	O
+it	O
+had	O
+4	O
+primary	O
+schools	O
+,	O
+1	O
+middle	O
+school	O
+,	O
+other	O
+educational	O
+facilities	O
+at	O
+mandu,	B-LOC
+jharkhand	I-LOC
+5	O
+km	O
+away	O
+.	O
+
+# id	388ebf73-111b-441d-a09c-9020dff8966f	domain=dev
+he	O
+was	O
+selected	O
+by	O
+british	B-CORP
+airways	I-CORP
+in	O
+2001	O
+to	O
+redesign	O
+their	O
+flight	O
+attendants	O
+uniforms	O
+.	O
+
+# id	1df08b87-dd4a-4124-aa06-0a9e95c37064	domain=dev
+her	O
+mother	O
+is	O
+a	O
+former	O
+member	O
+of	O
+the	O
+socialist	B-GRP
+workers	I-GRP
+party	I-GRP
+.	O
+
+# id	10ab4d68-1076-48c6-8631-183ed0d7c356	domain=dev
+due	O
+to	O
+his	O
+past	O
+fantasy	O
+novels	O
+and	O
+horror	O
+short	O
+stories	O
+,	O
+craig	B-PER
+shaw	I-PER
+gardner	I-PER
+was	O
+given	O
+a	O
+copy	O
+of	O
+the	O
+script	O
+and	O
+asked	O
+to	O
+write	O
+a	O
+novelization	O
+to	O
+accompany	O
+the	O
+film	O
+'s	O
+release	O
+.	O
+
+# id	9831e233-e40d-4dfb-88c9-9be643167149	domain=dev
+a	O
+sugar	B-PROD
+coating	O
+was	O
+later	O
+added	O
+to	O
+the	O
+drops	O
+,	O
+slightly	O
+altering	O
+their	O
+taste	O
+.	O
+
+# id	dc722d4b-d2d4-425f-bdf0-81421f5296fc	domain=dev
+early	O
+in	O
+his	O
+compositional	O
+career	O
+,	O
+he	O
+also	O
+worked	O
+with	O
+saxophonist	O
+jean-marie	B-PER
+londeix	I-PER
+.	O
+
+# id	7316d136-dba4-40da-8fe9-6a5dab5587f4	domain=dev
+the	O
+album	O
+sold	O
+over	O
+636,000	O
+copies	O
+in	O
+its	O
+first	O
+week	O
+and	O
+topped	O
+the	O
+oricon	B-CORP
+charts	O
+.	O
+
+# id	b873eb08-cde0-456d-94a7-173daef1e4e0	domain=dev
+the	O
+stucco	B-PROD
+buildings	O
+have	O
+three	O
+storeys	O
+with	O
+a	O
+single	O
+window	O
+range	O
+.	O
+
+# id	011f2e28-7736-44e2-b7a0-31f4c2e23ecf	domain=dev
+the	O
+ships	O
+carried	O
+enough	O
+fuel	B-PROD
+oil	I-PROD
+to	O
+give	O
+them	O
+a	O
+range	O
+of	O
+at	O
+.	O
+
+# id	6816fc2e-86fc-4ebb-b939-ad4e96ebe3e8	domain=dev
+on	O
+rotten	B-CORP
+tomatoes	I-CORP
+,	O
+the	O
+film	O
+has	O
+a	O
+94	O
+%	O
+rating	O
+based	O
+on	O
+16	O
+reviews	O
+,	O
+with	O
+an	O
+average	O
+rating	O
+of	O
+6.8	O
+/	O
+10	O
+.	O
+
+# id	15a8f40d-6ffe-417c-951e-e4b7b6c4d9fc	domain=dev
+dictionary	B-CW
+represent	O
+attempts	O
+at	O
+listing	O
+,	O
+in	O
+alphabetical	O
+order	O
+,	O
+the	O
+lexicon	O
+of	O
+a	O
+given	O
+language	O
+;	O
+usually	O
+,	O
+however	O
+,	O
+bound	O
+morphemes	O
+are	O
+not	O
+included	O
+.	O
+
+# id	9e55b1eb-0956-4e39-b68a-e6ad23ae29d7	domain=dev
+jello	O
+(	O
+far	B-GRP
+east	I-GRP
+movement	I-GRP
+featuring	O
+rye	O
+rye	O
+)	O
+
+# id	b4b06c7f-e97e-43e8-bf35-1b70d25bb76f	domain=dev
+the	O
+libertarian	O
+cato	B-GRP
+institute	I-GRP
+think	O
+tank	O
+was	O
+named	O
+after	O
+the	O
+letters	O
+.	O
+
+# id	c9363fd0-edc2-458b-86d0-fc2fae95c8ba	domain=dev
+carry	B-CW
+on	I-CW
+laughing	I-CW
+ran	O
+for	O
+two	O
+seasons	O
+,	O
+with	O
+six	O
+half	O
+hour	O
+episodes	O
+in	O
+season	O
+one	O
+and	O
+seven	O
+in	O
+season	O
+two	O
+.	O
+
+# id	98db7de7-3a06-4b85-9e69-d7925b6b0324	domain=dev
+the	O
+campus	O
+is	O
+near	O
+to	O
+singareni	B-CORP
+collieries	I-CORP
+company	I-CORP
+which	O
+is	O
+rich	O
+in	O
+coal	O
+deposits	O
+.	O
+
+# id	ec9e42e4-2e0b-4a87-8de1-3cbdffb48601	domain=dev
+the	B-CW
+bridge	I-CW
+on	I-CW
+the	I-CW
+river	I-CW
+kwai	I-CW
+,	O
+tempest	B-CW
+,	O
+esterina	B-CW
+
+# id	facae2b9-aa5d-4c10-a27c-fd6f600f8fe6	domain=dev
+other	O
+parts	O
+of	O
+the	O
+score	O
+were	O
+used	O
+in	O
+tsui	B-PER
+hark	I-PER
+1986	O
+movie	O
+peking	B-CW
+opera	I-CW
+blues	I-CW
+.	O
+
+# id	a13a8e02-4fdc-4443-b945-91e29fe0d51f	domain=dev
+shawnna	O
+reportedly	O
+split	O
+from	O
+disturbing	B-CORP
+tha	I-CORP
+peace	I-CORP
+in	O
+2009	O
+and	O
+signed	O
+to	O
+nappy	B-CORP
+boy	I-CORP
+entertainment	I-CORP
+.	O
+
+# id	82c4bdc3-9d4e-4c21-8060-0258c187610a	domain=dev
+starring	O
+marcia	B-PER
+gay	I-PER
+harden	I-PER
+,	O
+maclean	O
+’s	O
+crush	B-CW
+has	O
+been	O
+subject	O
+of	O
+much	O
+criticism	O
+and	O
+inquiry	O
+,	O
+particularly	O
+in	O
+feminist	O
+debate	O
+and	O
+film	O
+theory	O
+.	O
+
+# id	0dd4c350-6934-49d9-9a16-79d2e8548d4c	domain=dev
+on	O
+rotten	B-CORP
+tomatoes	I-CORP
+the	O
+film	O
+has	O
+an	O
+88	O
+%	O
+rating	O
+based	O
+on	O
+8	O
+reviews	O
+.	O
+
+# id	70719405-ce30-4247-a1f0-b6e743dbc1c3	domain=dev
+like	O
+rocha	B-LOC
+estância	I-LOC
+and	O
+monte	B-LOC
+estância	I-LOC
+,	O
+it	O
+rises	O
+steeply	O
+from	O
+the	O
+surrounding	O
+plains	O
+.	O
+
+# id	7780081b-975b-42e2-8859-663274996691	domain=dev
+mia	O
+–	O
+ronnie	B-PER
+brown	I-PER
+–	O
+12	O
+rushes	O
+,	O
+19	O
+yards	O
+
+# id	55cc07e3-cef6-47ff-9a13-caf67d72a9df	domain=dev
+subsequently	O
+,	O
+he	O
+gave	O
+himself	O
+up	O
+to	O
+a	O
+life	O
+of	O
+solitary	O
+asceticism	O
+in	O
+a	O
+bithynia	B-LOC
+monastery	O
+,	O
+and	O
+is	O
+said	O
+to	O
+have	O
+remained	O
+some	O
+time	O
+in	O
+a	O
+monastery	O
+on	O
+mount	B-LOC
+athos	I-LOC
+.	O
+
+# id	9cea9c0d-6421-4c5c-9948-4a45b8591530	domain=dev
+:	O
+a	O
+piece	O
+of	O
+metal	O
+tape	O
+that	O
+,	O
+when	O
+wound	O
+round	O
+a	O
+captive	O
+'s	O
+ankles	O
+or	O
+wrists	O
+,	O
+then	O
+pressed	O
+together	O
+,	O
+would	O
+meld	O
+into	O
+an	O
+unbreakable	O
+loop	O
+,	O
+mimicking	O
+a	O
+pair	O
+of	O
+handcuffs	B-PROD
+.	O
+
+# id	29590029-5ecb-46c9-83eb-40f8a56bcd86	domain=dev
+it	O
+was	O
+released	O
+as	O
+a	O
+single	O
+in	O
+1963	O
+via	O
+decca	B-CORP
+and	O
+became	O
+a	O
+major	O
+hit	O
+.	O
+
+# id	89372097-3b75-47c3-951e-b5fb7e04cfe8	domain=dev
+an	O
+approximate	O
+realization	O
+of	O
+a	O
+black	O
+surface	O
+is	O
+a	O
+hole	O
+in	O
+the	O
+wall	O
+of	O
+a	O
+large	O
+insulated	O
+enclosure	O
+(	O
+an	O
+oven	B-PROD
+,	O
+for	O
+example	O
+)	O
+.	O
+
+# id	bf9b84e0-0035-4d03-9736-708f5d889d58	domain=dev
+for	O
+that	O
+reason	O
+a	O
+flashback	B-PROD
+arrestor	I-PROD
+is	O
+needed	O
+.	O
+
+# id	8b98f6a2-e3e8-494c-a4d2-8dced6827ef0	domain=dev
+bruceploitation	B-CW
+:	O
+films	O
+profiting	O
+from	O
+the	O
+death	O
+of	O
+bruce	B-PER
+lee	I-PER
+,	O
+with	O
+look	O
+alike	O
+actors	O
+who	O
+often	O
+took	O
+similar	O
+names	O
+,	O
+like	O
+bruce	B-PER
+li	I-PER
+and	O
+bruce	B-PER
+le	I-PER
+.	O
+
+# id	016ad080-68d9-421c-99a2-433022335ffd	domain=dev
+zhang	O
+photographed	O
+sugizo	B-PER
+multiple	O
+times	O
+in	O
+2009	O
+and	O
+2010	O
+.	O
+
+# id	aab92648-8cab-400b-921c-0ce9dbd9fa00	domain=dev
+the	O
+church	O
+is	O
+built	O
+in	O
+fiery	O
+orange	O
+brick	O
+with	O
+terracotta	B-PROD
+dressings	O
+.	O
+
+# id	1d0865e8-32fa-439d-817e-ed0bdb91d3d9	domain=dev
+the	O
+song	O
+was	O
+produced	O
+by	O
+mickie	B-PER
+most	I-PER
+.	O
+
+# id	156f8ab0-ef65-441f-af7d-31e45d41ebcd	domain=dev
+it	O
+is	O
+not	O
+connected	O
+to	O
+any	O
+christian	B-GRP
+denomination	I-GRP
+.	O
+
+# id	64ba3f86-46a8-43fc-b867-688b06adb5c1	domain=dev
+hyde	O
+has	O
+also	O
+appeared	O
+in	O
+such	O
+companies	O
+such	O
+as	O
+,	O
+chikara	B-CORP
+,	O
+westside	B-CORP
+xtreme	I-CORP
+wrestling	I-CORP
+,	O
+
+# id	e4dfda5a-e397-4ae9-a1fc-3c3cec54a2b5	domain=dev
+she	O
+took	O
+part	O
+in	O
+the	O
+creation	O
+of	O
+giselher	B-PER
+klebe	I-PER
+alkmene	B-CW
+and	O
+hans	B-PER
+werner	I-PER
+henze	I-PER
+der	B-CW
+junge	I-CW
+lord	I-CW
+.	O
+
+# id	20e6eb4b-4808-4e60-bf32-427128649ec2	domain=dev
+the	O
+final	O
+was	O
+contested	O
+by	O
+wolverhampton	B-GRP
+wanderers	I-GRP
+f.c.	I-GRP
+and	O
+everton	B-GRP
+f.c.	I-GRP
+.	O
+
+# id	602146ed-74d2-48a8-ad97-29994b6c8606	domain=dev
+the	O
+shooting	O
+of	O
+bab	B-CW
+al-hara	I-CW
+runs	O
+in	O
+damascus	B-LOC
+.	O
+
+# id	4d26b089-fd8b-4c94-8c0c-cbccc92c5558	domain=dev
+almost	O
+all	O
+sovereign	B-LOC
+state	I-LOC
+have	O
+strict	O
+laws	O
+concerning	O
+espionage	O
+and	O
+the	O
+penalty	O
+for	O
+being	O
+caught	O
+is	O
+often	O
+severe	O
+.	O
+
+# id	1550fffa-1ccd-4c8a-bb49-72777808a646	domain=dev
+his	O
+earliest	O
+influences	O
+were	O
+the	B-GRP
+beatles	I-GRP
+,	O
+elton	B-PER
+john	I-PER
+,	O
+and	O
+old	O
+motown	B-CORP
+.	O
+
+# id	c290c220-cc28-4ac3-9132-ba4f1f0b1232	domain=dev
+it	O
+was	O
+broadcast	O
+on	O
+radio	O
+by	O
+the	O
+nbc	B-CORP
+.	O
+
+# id	a831b407-766c-4685-9d48-e3a21795601c	domain=dev
+tadeusz	B-PER
+żakiej	I-PER
+considered	O
+the	O
+first	O
+performance	O
+a	O
+complete	O
+success	O
+characterised	O
+by	O
+chilling	O
+and	O
+static	O
+immobility	O
+.	O
+
+# id	55038ad1-4451-41c0-8f65-1b8874468d84	domain=dev
+nadine	B-PER
+fähndrich	I-PER
+,	O
+1	O
+first	O
+place	O
+
+# id	7d49f202-010d-46e2-8e4d-54d153418dd5	domain=dev
+it	O
+is	O
+affiliated	O
+to	O
+the	O
+university	B-GRP
+of	I-GRP
+kalyani	I-GRP
+.	O
+
+# id	147b86a0-aec8-42d0-b408-7d242cb5e934	domain=dev
+2008	O
+rosario	B-CW
++	I-CW
+vampire	I-CW
+(	O
+tosa	O
+the	O
+tengu	O
+)	O
+
+# id	369feeb1-5811-4080-abb0-07924ec0bf36	domain=dev
+a	O
+2001	O
+a	O
+cnn	B-CORP
+reporter	O
+referred	O
+to	O
+it	O
+as	O
+the	O
+most	O
+visited	O
+building	O
+in	O
+the	O
+world	O
+.	O
+
+# id	882ee0db-aa19-4964-80ba-587a4c933ab6	domain=dev
+to	O
+georgia	B-GRP
+swarm	I-GRP
+overall	O
+selection	O
+,	O
+2015	O
+entry	O
+draft2nd	O
+round	O
+selection	O
+,	O
+2018	O
+entry	O
+draft	O
+
+# id	4726d527-d517-4088-ac9e-f00a7886e460	domain=dev
+brilliant	O
+colors	O
+were	O
+obtained	O
+by	O
+the	O
+addition	O
+of	O
+,	O
+for	O
+example	O
+,	O
+juices	O
+from	O
+spinach	O
+and	O
+the	O
+green	O
+part	O
+of	O
+leek	B-PROD
+.	O
+
+# id	f26f8d81-b439-4f7e-abaa-1b687d9355a3	domain=dev
+skinner	O
+'s	O
+daughter	O
+,	O
+author	O
+cornelia	B-PER
+otis	I-PER
+skinner	I-PER
+,	O
+plays	O
+a	O
+small	O
+role	O
+.	O
+
+# id	e36f6651-0d17-4b72-a19e-77affb23226b	domain=dev
+caroline	O
+spent	O
+the	O
+rest	O
+of	O
+her	O
+childhood	O
+with	O
+her	O
+father	O
+in	O
+zwickau	B-LOC
+where	O
+she	O
+lived	O
+from	O
+1702	O
+–	O
+1717	O
+.	O
+
+# id	08ba83b5-41e5-4f31-8cce-89435b466790	domain=dev
+her	O
+brother	O
+pablo	B-PER
+arraya	I-PER
+is	O
+=	O
+a	O
+former	O
+tennis	O
+player	O
+,	O
+who	O
+reached	O
+the	O
+top	O
+30	O
+in	O
+the	O
+association	B-GRP
+of	I-GRP
+tennis	I-GRP
+professionals	I-GRP
+rankings	O
+.	O
+
+# id	fc1bb93b-b38e-4fbd-a275-ae726173cfd7	domain=dev
+in	O
+2013	O
+,	O
+the	O
+company	O
+took	O
+on	O
+a	O
+large	O
+number	O
+of	O
+record	B-CORP
+label	I-CORP
+accounts	O
+,	O
+releasing	O
+a	O
+wide	O
+catalogue	O
+of	O
+tracks	O
+and	O
+albums	O
+in	O
+that	O
+same	O
+year	O
+.	O
+
+# id	bfd15f67-c216-4d20-8fac-2ddb665b4fbf	domain=dev
+whitman	O
+had	O
+a	O
+string	O
+of	O
+top	O
+ten	O
+hits	O
+from	O
+the	O
+mid	O
+1960s	O
+and	O
+into	O
+the	O
+1970s	O
+and	O
+became	O
+known	O
+to	O
+a	O
+new	O
+generation	O
+of	O
+fans	O
+through	O
+television	O
+direct	B-CW
+marketing	I-CW
+in	O
+the	O
+1980s	O
+.	O
+
+# id	f7f83e04-ef97-4865-bbb7-28958c3fbff3	domain=dev
+in	O
+2019	O
+,	O
+she	O
+was	O
+cast	O
+in	O
+the	O
+fantasy	O
+drama	O
+joseon	B-CW
+survival	I-CW
+period	I-CW
+and	O
+in	O
+the	O
+drama	O
+never	B-CW
+twice	I-CW
+.	O
+
+# id	2f6ad9c8-f9a9-4a1a-a940-99d0c7ec2ac9	domain=dev
+in	O
+1992	O
+,	O
+he	O
+joined	O
+the	O
+staff	O
+of	O
+the	O
+library	B-CW
+of	I-CW
+america	I-CW
+as	O
+executive	O
+editor	O
+,	O
+becoming	O
+editor	O
+in	O
+chief	O
+in	O
+1998	O
+.	O
+
+# id	df7e7efb-7189-4503-b20d-fdae2a725693	domain=dev
+humphrey	O
+died	O
+in	O
+springfield	B-LOC
+,	O
+at	O
+the	O
+age	O
+of	O
+80	O
+.	O
+
+# id	61d3e5b1-4fa1-4802-a4cf-67e4016c25f1	domain=dev
+on	O
+rotten	B-CORP
+tomatoes	I-CORP
+,	O
+the	O
+film	O
+has	O
+an	O
+approval	O
+rating	O
+of	O
+41	O
+%	O
+based	O
+on	O
+215	O
+reviews	O
+,	O
+with	O
+an	O
+average	O
+rating	O
+of	O
+5.06	O
+/	O
+10	O
+.	O
+
+# id	6906e32c-1cb0-47ff-b286-28ee412efc73	domain=dev
+morkel	O
+played	O
+for	O
+rajasthan	B-GRP
+royals	I-GRP
+in	O
+the	O
+first	O
+three	O
+seasons	O
+of	O
+the	O
+indian	B-GRP
+premier	I-GRP
+league	I-GRP
+.	O
+
+# id	6e258573-40b1-4a0b-9b0b-756355cdd235	domain=dev
+he	O
+was	O
+educated	O
+at	O
+eton	B-GRP
+college	I-GRP
+,	O
+and	O
+elected	O
+thence	O
+to	O
+king's	B-LOC
+college	I-LOC
+,	O
+in	O
+1515	O
+(	O
+b.a.	O
+1520	O
+–	O
+1	O
+;	O
+m.a.	O
+1523	O
+)	O
+.	O
+
+# id	822a450d-ecfc-4e78-b432-389c47c49d4d	domain=dev
+as	O
+a	O
+result	O
+,	O
+the	O
+cheese	O
+has	O
+a	O
+relatively	O
+low	O
+fat	B-PROD
+content	O
+(	O
+between	O
+20	O
+and	O
+45	O
+%	O
+)	O
+.	O
+
+# id	712c7564-83fc-4841-8ee8-251bd5685fb5	domain=dev
+a	O
+companion	O
+album	O
+released	O
+around	O
+the	O
+same	O
+time	O
+,	O
+raw	B-CW
+&	I-CW
+refined	I-CW
+,	O
+featured	O
+a	O
+collection	O
+of	O
+previously	O
+unreleased	O
+instrumentals	O
+,	O
+both	O
+old	O
+and	O
+new	O
+.	O
+
+# id	5c29600a-3cf5-40c9-ac9b-0df182cc719d	domain=dev
+the	O
+missouri	B-CORP
+pacific	I-CORP
+railroad	I-CORP
+line	O
+passed	O
+through	O
+the	O
+community	O
+.	O
+
+# id	56819028-9f92-4ecb-8545-f3e63f7b0e1c	domain=dev
+director	O
+of	O
+bands	O
+and	O
+associate	O
+professor	O
+of	O
+music	O
+at	O
+montana	B-GRP
+state	I-GRP
+university	I-GRP
+
+# id	a53fb19c-2a7e-4c9a-ac37-d2447f0c8bb9	domain=dev
+fintice	O
+(	O
+)	O
+is	O
+a	O
+village	B-LOC
+and	O
+municipality	B-LOC
+in	O
+prešov	B-LOC
+district	I-LOC
+in	O
+the	O
+prešov	B-LOC
+region	I-LOC
+of	O
+eastern	O
+slovakia	B-LOC
+.	O
+
+# id	6ebba576-a606-42af-9977-fd165db287b5	domain=dev
+the	B-CW
+man	I-CW
+from	I-CW
+u.n.c.l.e.	I-CW
+car	O
+:	O
+custom	O
+plastic	O
+body	O
+cyolac	O
+
+# id	c456dc91-b3ee-4d92-a8ae-ad66f3d4e392	domain=dev
+sundaram	O
+(	O
+karan	B-PER
+)	O
+is	O
+one	O
+from	O
+the	O
+town	O
+,	O
+well	O
+educated	O
+,	O
+but	O
+not	O
+yet	O
+initiated	O
+into	O
+any	O
+subversive	O
+acts	O
+.	O
+
+# id	3b181576-ee13-4289-9af8-579acb7e3546	domain=dev
+almudena	O
+was	O
+24	O
+years	O
+old	O
+and	O
+was	O
+from	O
+murcia	B-LOC
+.	O
+
+# id	9d1e751c-c026-43eb-8e54-63aed4fce1f5	domain=dev
+he	O
+is	O
+the	O
+son	O
+of	O
+actor	O
+piolo	B-PER
+pascual	I-PER
+.	O
+
+# id	bef24034-6223-4d17-a91d-6424b335c7f8	domain=dev
+she	O
+followed	O
+this	O
+appearance	O
+with	O
+a	O
+starring	O
+part	O
+in	O
+a	O
+mainstream	O
+feature	O
+,	O
+fred	B-PER
+wolf	I-PER
+comedy	O
+the	B-CW
+house	I-CW
+bunny	I-CW
+.	O
+
+# id	2a408908-5700-408f-b37d-74fabf9da4de	domain=dev
+before	O
+1945	O
+the	O
+area	O
+was	O
+part	O
+of	O
+germany	B-LOC
+.	O
+
+# id	3cb04e12-32d7-4afd-856c-754430f6918f	domain=dev
+he	O
+was	O
+quickly	O
+swarmed	O
+by	O
+special	O
+agents	O
+of	O
+the	O
+united	B-GRP
+states	I-GRP
+secret	I-GRP
+service	I-GRP
+and	O
+dragged	O
+off	O
+stage	O
+.	O
+
+# id	8515be22-4ae0-4d81-99aa-86327b9457ee	domain=dev
+riccardo	B-PER
+patrese	I-PER
+’s	O
+work	O
+lancia	B-PROD
+montecarlo	I-PROD
+crashed	O
+early	O
+in	O
+the	O
+race	O
+when	O
+its	O
+suspension	O
+broke	O
+up	O
+.	O
+
+# id	97e3f8a5-7346-4020-89c6-f19333995d3c	domain=dev
+but	O
+people	O
+who	O
+go	O
+to	O
+see	O
+a	O
+horror	O
+movie	O
+do	O
+nt	O
+necessarily	O
+want	O
+to	O
+be	O
+sent	O
+out	O
+with	O
+a	O
+pollyanna	B-CW
+ending	O
+.	O
+
+# id	9dde473a-d658-421f-8f55-b8558cdd329a	domain=dev
+it	O
+is	O
+part	O
+of	O
+the	O
+commune	O
+of	O
+limanu	B-LOC
+and	O
+in	O
+2002	O
+,	O
+it	O
+had	O
+a	O
+population	O
+of	O
+178	O
+.	O
+
+# id	8f2d7c8c-6e73-4359-97cd-f46755aad6d6	domain=dev
+most	O
+national	O
+telecasts	O
+air	O
+on	O
+sportsnet	B-CORP
+properties	O
+,	O
+and	O
+include	O
+,	O
+but	O
+are	O
+not	O
+limited	O
+to	O
+:	O
+
+# id	65c6a9ea-7392-41a7-851a-f61095be560f	domain=dev
+in	O
+recent	O
+times	O
+vasyl	B-PER
+herasymenko	I-PER
+in	O
+lviv	B-LOC
+has	O
+made	O
+attempt	O
+to	O
+revive	O
+the	O
+instrument	O
+.	O
+
+# id	0cd05db1-3c39-4529-a699-dc356822b4fe	domain=dev
+the	O
+short	O
+concert	O
+led	O
+to	O
+a	O
+recording	O
+contract	O
+,	O
+though	O
+the	O
+resulting	O
+self	O
+titled	O
+album	O
+shocked	O
+elektra	B-CORP
+.	O
+
+# id	99377336-710b-4eb4-8cec-51af7ee13721	domain=dev
+he	O
+later	O
+presented	O
+a	O
+programme	O
+on	O
+bbc	B-CORP
+radio	I-CORP
+scotland	I-CORP
+on	O
+this	O
+subject	O
+.	O
+
+# id	d3e46bdf-0feb-4baa-a455-60f88f825558	domain=dev
+corrigan	O
+was	O
+responsible	O
+for	O
+assembling	O
+the	O
+wing	O
+and	O
+installing	O
+the	O
+fuel	O
+tanks	O
+and	O
+instrument	O
+panel	O
+of	O
+charles	B-PER
+lindbergh	I-PER
+spirit	B-PROD
+of	I-PROD
+st.	I-PROD
+louis	I-PROD
+.	O
+
+# id	cd9e9395-70a3-4d2b-b38c-f5292cb9198f	domain=dev
+english	O
+lavender	O
+is	O
+commonly	O
+grown	O
+as	O
+an	O
+ornamental	B-PROD
+plant	I-PROD
+.	O
+
+# id	c15fe1f4-cfe3-4bad-9dae-e03f69d02e03	domain=dev
+r.	B-PER
+timothy	I-PER
+ziemer	I-PER
+,	O
+the	O
+official	O
+on	O
+the	O
+national	B-GRP
+security	I-GRP
+council	I-GRP
+responsible	O
+for	O
+global	O
+health	O
+security	O
+and	O
+biodefense	O
+,	O
+is	O
+dismissed	O
+and	O
+his	O
+position	O
+is	O
+abolished	O
+.	O
+
+# id	1a2fb21c-16bc-4c21-98ef-d451a10ccf75	domain=dev
+season	O
+1	O
+re	O
+purposed	O
+on	O
+cbs	B-CORP
+due	O
+to	O
+lack	O
+of	O
+new	O
+content	O
+.	O
+
+# id	b0ff9ce7-4a9d-47d8-9655-8654d4c1358f	domain=dev
+events	O
+in	O
+the	O
+year	O
+1926	O
+in	O
+norway	B-LOC
+.	O
+
+# id	896ed374-b68b-443f-83dc-964a8ce39173	domain=dev
+after	O
+being	O
+in	O
+use	O
+for	O
+more	O
+than	O
+45	O
+years	O
+,	O
+the	O
+irrigation	O
+canal	O
+peqin	B-LOC
+–	O
+kavajë	B-LOC
+has	O
+been	O
+reconstructed	O
+and	O
+is	O
+still	O
+being	O
+used	O
+for	O
+irrigation	O
+.	O
+
+# id	24934d9d-6c33-4ada-b917-16cbf8d87fa8	domain=dev
+this	O
+incident	O
+had	O
+sparked	O
+concerns	O
+that	O
+he	O
+could	O
+have	O
+been	O
+targeted	O
+by	O
+the	O
+ruling	O
+communist	B-GRP
+party	I-GRP
+of	I-GRP
+china	I-GRP
+.	O
+
+# id	d7da24bc-dd50-4990-a2ff-2f2b617d00d3	domain=dev
+this	O
+event	O
+was	O
+immortalized	O
+in	O
+the	O
+song	O
+,	O
+the	B-CW
+night	I-CW
+they	I-CW
+drove	I-CW
+old	I-CW
+dixie	I-CW
+down	I-CW
+.	O
+
+# id	b62885f9-64e8-4d79-a7ba-9a59ba2a1124	domain=dev
+alum	O
+'s	O
+antiperspirant	O
+and	O
+antibacterial	O
+properties	O
+contribute	O
+to	O
+its	O
+traditional	O
+use	O
+as	O
+an	O
+underarm	O
+deodorant	B-PROD
+.	O
+
+# id	b252bec6-6446-4f3a-9ffa-708b2f209799	domain=dev
+live	O
+version	O
+(	O
+2005	O
+,	O
+ultraviolet/the	B-CW
+ballad	I-CW
+of	I-CW
+paul	I-CW
+k	I-CW
+cd1	O
+)	O
+
+# id	d1a0f243-d79d-4551-bc0b-db30d4ca5b08	domain=dev
+it	O
+is	O
+not	O
+uncommon	O
+to	O
+have	O
+washing	B-PROD
+machine	I-PROD
+and	O
+clothes	B-PROD
+dryer	I-PROD
+in	O
+the	O
+unit	O
+or	O
+accessible	O
+on	O
+the	O
+resort	O
+property	O
+.	O
+
+# id	23a0b2f9-5473-48b1-a9bf-a66217de9c39	domain=dev
+the	O
+team	O
+competes	O
+in	O
+the	O
+scottish	B-GRP
+championship	I-GRP
+,	O
+the	O
+second	O
+tier	O
+of	O
+the	O
+scottish	B-GRP
+professional	I-GRP
+football	I-GRP
+league	I-GRP
+.	O
+
+# id	d39cf655-2925-4cc3-8186-40a9f16f1ad4	domain=dev
+his	O
+daughter	O
+eleonore	B-PER
+batthyány-strattmann	I-PER
+(	O
+1677	O
+–	O
+1741	O
+)	O
+was	O
+famous	O
+for	O
+her	O
+liaison	O
+with	O
+eugene	B-PER
+of	I-PER
+savoy	I-PER
+.	O
+
+# id	1b1e5c59-1c37-4ef9-a75a-9e0644ed111c	domain=dev
+the	O
+latter	O
+being	O
+a	O
+duet	B-CW
+with	O
+marcella	B-PER
+detroit	I-PER
+.	O
+
+# id	ea315e0a-2c98-488c-bc5c-b156dd746105	domain=dev
+live	O
+train	O
+running	O
+information	O
+is	O
+via	O
+digital	O
+passenger	B-PROD
+information	I-PROD
+system	I-PROD
+.	O
+
+# id	eddcdaeb-0ff2-429e-aab5-093deda1902c	domain=dev
+military	O
+family	O
+housing	O
+neighborhoods	O
+often	O
+have	O
+churches	O
+,	O
+schools	O
+,	O
+banks	O
+,	O
+gas	B-GRP
+station	I-GRP
+,	O
+recreational	O
+facilities	O
+and	O
+stores	O
+.	O
+
+# id	4d587b3f-78f4-467b-94aa-8e247e60826b	domain=dev
+the	O
+film	O
+also	O
+stars	O
+paul	B-PER
+giamatti	I-PER
+,	O
+derek	B-PER
+jacobi	I-PER
+,	O
+kate	B-PER
+mara	I-PER
+,	O
+james	B-PER
+purefoy	I-PER
+,	O
+jason	B-PER
+flemyng	I-PER
+and	O
+mackenzie	B-PER
+crook	I-PER
+.	O
+
+# id	475dad09-a72e-406b-a6be-450d0e06b02f	domain=dev
+knight	O
+1st	O
+class	O
+of	O
+the	O
+royal	B-GRP
+order	I-GRP
+of	I-GRP
+vasa	I-GRP
+
+# id	f497bd2d-bb76-42ca-83b9-c23d6a0ee520	domain=dev
+on	O
+the	O
+occasion	O
+of	O
+maha	B-GRP
+shivaratri	I-GRP
+a	O
+large	O
+fair	O
+is	O
+organized	O
+at	O
+this	O
+place	O
+that	O
+lasts	O
+for	O
+more	O
+than	O
+half	O
+a	O
+month	O
+.	O
+
+# id	d3599439-748f-4b90-8b24-bef8dc980bec	domain=dev
+fear	B-CW
+of	I-CW
+water	I-CW
+(	O
+la	O
+peur	O
+de	O
+l	O
+eau	O
+)	O
+gabriel	B-PER
+pelletier	I-PER
+
+# id	6f8359ca-9b51-4161-84ab-7ef7e6e0586d	domain=dev
+she	O
+became	O
+a	O
+face	O
+of	O
+covergirl	B-CORP
+in	O
+1997	O
+before	O
+starting	O
+an	O
+acting	O
+career	O
+.	O
+
+# id	764593aa-3a4e-44ca-b321-203f97664ed8	domain=dev
+marie	B-PER
+fredriksson	I-PER
+and	O
+per	B-PER
+gessle	I-PER
+formed	O
+the	O
+band	O
+roxette	B-GRP
+in	O
+1986	O
+.	O
+
+# id	2b57267d-b638-47b5-87db-2a84b7eb736b	domain=dev
+hired	O
+forms	O
+of	O
+transport	O
+include	O
+metered	O
+taxis	O
+and	O
+autorickshaw	B-PROD
+,	O
+which	O
+often	O
+ply	O
+specific	O
+routes	O
+in	O
+cities	O
+.	O
+
+# id	5008825e-6892-4e69-a90d-546f07cb5c93	domain=dev
+the	O
+video	B-PROD
+game	I-PROD
+arcade	I-PROD
+cabinet	I-PROD
+looks	O
+like	O
+a	O
+police	B-PROD
+car	I-PROD
+,	O
+with	O
+a	O
+gas	O
+pedal	O
+,	O
+steering	O
+wheel	O
+and	O
+a	O
+siren	O
+button	O
+,	O
+complete	O
+with	O
+flashing	O
+lights	O
+atop	O
+the	O
+unit	O
+.	O
+
+# id	97a6cedd-eae9-47e7-aec7-2a7e6f5aa830	domain=dev
+the	O
+episode	O
+was	O
+written	O
+by	O
+paul	B-PER
+zbyszewski	I-PER
+,	O
+and	O
+directed	O
+by	O
+bobby	B-PER
+roth	I-PER
+.	O
+
+# id	ea572e46-4e13-43ab-98a6-e21066226d92	domain=dev
+the	O
+only	O
+exception	O
+so	O
+far	O
+has	O
+been	O
+in	O
+1954	O
+after	O
+the	O
+unexpected	O
+death	O
+of	O
+hermann	B-PER
+ehlers	I-PER
+.	O
+
+# id	8f649eca-bcd9-4e17-8c15-a9bcc8f72205	domain=dev
+debut	O
+release	O
+on	O
+elektra	B-CORP
+;	O
+first	O
+release	O
+with	O
+bassist	O
+scott	B-PER
+reeder	I-PER
+and	O
+final	O
+release	O
+with	O
+drummer	O
+brant	B-PER
+bjork	I-PER
+.	O
+
+# id	bfb0eb95-d77d-4e14-ba18-fc826c4c2896	domain=dev
+it	O
+operates	O
+out	O
+of	O
+the	O
+former	O
+bbc	B-CORP
+buildings	O
+in	O
+swansea	B-LOC
+,	O
+wales	B-LOC
+.	O
+
+# id	790c97d5-3dbc-4974-ad38-a5465e5f8b36	domain=dev
+unknown	O
+date	O
+–	O
+ytl	B-CORP
+corporation	I-CORP
+was	O
+founded	O
+by	O
+yeoh	B-PER
+tiong	I-PER
+lay	I-PER
+.	O
+
+# id	911e9b29-0804-4d79-8a56-3ea9f8a98a88	domain=dev
+many	O
+of	O
+these	O
+productions	O
+were	O
+re	O
+interpretations	O
+of	O
+william	B-PER
+shakespeare	I-PER
+tragedy	B-CW
+.	O
+
+# id	c58fc217-1770-4260-94a0-ba1c8c21f692	domain=dev
+this	O
+is	O
+also	O
+important	O
+for	O
+the	O
+production	O
+of	O
+human	B-PROD
+breast	I-PROD
+milk	I-PROD
+.	O
+
+# id	c6099b9b-e01c-4a9d-853e-b57667609a5c	domain=dev
+warsi	O
+appeared	O
+in	O
+the	O
+box	O
+office	O
+success	O
+comedy	O
+dhamaal	B-CW
+.	O
+
+# id	b7c5d679-d83a-4277-92ae-0974388b91ee	domain=dev
+won	O
+the	O
+ligue	B-CORP
+2	I-CORP
+once	O
+with	O
+toulouse	B-GRP
+fc	I-GRP
+in	O
+1953	O
+
+# id	243f2ef8-e609-4885-9d07-82b497107ede	domain=dev
+two	O
+days	O
+before	O
+the	O
+opening	O
+show	O
+,	O
+pilots	O
+of	O
+scandinavian	B-CORP
+airlines	I-CORP
+when	O
+on	O
+strike	O
+over	O
+pay	O
+.	O
+
+# id	57727204-a697-4e34-b4ef-a7597b22a60e	domain=dev
+north	O
+side	O
+:	O
+rivière	B-LOC
+du	I-LOC
+chêne	I-LOC
+,	O
+henri	B-LOC
+river	I-LOC
+,	O
+beaurivage	B-LOC
+river	I-LOC
+;	O
+
+# id	1a52cdc9-0d19-4ed3-a56e-dd45ec30162e	domain=dev
+this	O
+method	O
+of	O
+asset	O
+valuation	O
+differentiated	O
+between	O
+the	O
+accounting	O
+book	B-CORP
+value	I-CORP
+,	O
+which	O
+is	O
+based	O
+on	O
+the	O
+amount	O
+paid	O
+for	O
+the	O
+asset	O
+.	O
+
+# id	81a3c02f-4056-4f24-8d23-536147a45e07	domain=dev
+the	O
+species	O
+was	O
+first	O
+described	O
+in	O
+1901	O
+by	O
+eugène	B-PER
+simon	I-PER
+.	O
+
+# id	3b3448d6-d991-4618-841f-f64b4706c0ea	domain=dev
+statistics	O
+include	O
+appearances	O
+and	O
+points	O
+in	O
+the	O
+super	B-CORP
+league	I-CORP
+.	O
+
+# id	12d69ab9-3f1c-42d7-91be-a629be85597a	domain=dev
+she	O
+has	O
+been	O
+in	O
+the	O
+rooster	O
+of	O
+the	O
+turkey	B-GRP
+women's	I-GRP
+national	I-GRP
+basketball	I-GRP
+team	I-GRP
+that	O
+ranked	O
+5th	O
+at	O
+the	O
+turkey	B-GRP
+at	I-GRP
+the	I-GRP
+2012	I-GRP
+summer	I-GRP
+olympics	I-GRP
+.	O
+
+# id	9b0cba8e-7d37-4007-a466-828afc5c6b4d	domain=dev
+fulton	O
+enrolled	O
+at	O
+bryn	B-GRP
+mawr	I-GRP
+college	I-GRP
+in	O
+1901	O
+but	O
+left	O
+after	O
+two	O
+years	O
+.	O
+
+# id	b9a7aefb-c284-4eb4-8324-337056b57ef2	domain=dev
+in	O
+the	O
+summer	O
+of	O
+2004	O
+,	O
+ebay	O
+acknowledged	O
+that	O
+it	O
+had	O
+acquired	O
+25	O
+%	O
+of	O
+classified	O
+listings	O
+website	O
+craigslist	B-CORP
+.	O
+
+# id	ae70d2e7-3c94-4c4e-8de7-4c1bcc2cba06	domain=dev
+the	O
+cincinnati	B-GRP
+reds	I-GRP
+selected	O
+him	O
+,	O
+as	O
+a	O
+pitcher	O
+,	O
+with	O
+the	O
+second	O
+overall	O
+selection	O
+.	O
+
+# id	5012da5a-43f1-4554-a9c7-6f3755eb5070	domain=dev
+the	O
+small	O
+community	O
+is	O
+on	O
+california	B-LOC
+state	I-LOC
+route	I-LOC
+84	I-LOC
+(	O
+la	O
+honda	O
+road	O
+)	O
+between	O
+san	B-LOC
+gregorio	I-LOC
+and	O
+la	B-LOC
+honda	I-LOC
+.	O
+
+# id	314c09b8-bf40-4a2c-83d8-c3134ec9a167	domain=dev
+hooker	O
+claimed	O
+that	O
+the	O
+song	O
+was	O
+inspired	O
+by	O
+glenn	B-PER
+miller	I-PER
+in	B-CW
+the	I-CW
+mood	I-CW
+.	O
+
+# id	92a99ef9-ba86-416c-9f22-36210a26dd63	domain=dev
+these	O
+games	O
+may	O
+be	O
+identified	O
+based	O
+on	O
+the	O
+website	O
+that	O
+they	O
+appear	O
+,	O
+such	O
+as	O
+with	O
+miniclip	B-CORP
+games	O
+.	O
+
+# id	215e2b54-346b-4680-8858-ec5eac036824	domain=dev
+owner	O
+may	O
+place	O
+his	O
+or	O
+her	O
+own	O
+commemorative	B-CW
+plaque	I-CW
+or	O
+marker	O
+at	O
+the	O
+site	O
+of	O
+the	O
+resource	O
+.	O
+
+# id	05d46255-458f-486f-8dce-e1c0c1c89b3c	domain=dev
+nearby	O
+are	O
+the	O
+communities	O
+of	O
+steyning	B-LOC
+to	O
+the	O
+west	O
+and	O
+upper	B-LOC
+beeding	I-LOC
+to	O
+the	O
+east	O
+,	O
+and	O
+the	O
+other	O
+side	O
+of	O
+the	O
+river	O
+.	O
+
+# id	e5d4324a-effe-4872-bbf5-5312ef29d80f	domain=dev
+he	O
+played	O
+15	O
+years	O
+in	O
+the	O
+national	B-CORP
+football	I-CORP
+league	I-CORP
+(	O
+nfl	O
+)	O
+with	O
+the	O
+pittsburgh	B-GRP
+steelers	I-GRP
+,	O
+philadelphia	B-GRP
+eagles	I-GRP
+,	O
+and	O
+denver	B-GRP
+broncos	I-GRP
+.	O
+
+# id	0cfb9161-4830-486c-8204-3c94b86b1fde	domain=dev
+typically	O
+the	O
+saltpeter	O
+would	O
+be	O
+sent	O
+to	O
+lexington	B-LOC
+to	O
+be	O
+made	O
+into	O
+gunpowder	O
+.	O
+
+# id	2fcf001b-1d46-4e31-a5f7-1a5bfad12476	domain=dev
+in	O
+1984	O
+,	O
+the	O
+corporation	O
+was	O
+sold	O
+to	O
+reynolds	B-CORP
+american	I-CORP
+.	O
+
+# id	fdc59397-40da-4d33-8f4c-72ab0d707aef	domain=dev
+bobby	B-PER
+womack	I-PER
+covered	O
+the	O
+song	O
+on	O
+his	O
+1969	O
+album	O
+fly	B-CW
+me	I-CW
+to	I-CW
+the	I-CW
+moon	I-CW
+
+# id	726925b8-7b8d-4fa1-bb52-baa0366aa443	domain=dev
+lauren	O
+is	O
+married	O
+to	O
+weezer	B-GRP
+bassist	O
+scott	B-PER
+shriner	I-PER
+.	O
+
+# id	11bc7e5f-666e-4888-93a3-6461ce6e29ff	domain=dev
+in	O
+1968	O
+,	O
+he	O
+was	O
+chosen	O
+to	O
+manage	O
+new	O
+hotels	O
+being	O
+built	O
+in	O
+daytona	B-LOC
+beach	I-LOC
+.	O
+
+# id	b1d23d56-06d2-44a6-b426-301f01df4be1	domain=dev
+voodoo	B-PROD
+doll	I-PROD
+are	O
+fairly	O
+modern	O
+novelty	O
+items	O
+.	O
+
+# id	4b0e50f7-c369-4de1-bf88-c45fd5c07a55	domain=dev
+the	O
+song	O
+was	O
+featured	O
+in	O
+the	O
+videogame	O
+dead	B-CW
+or	I-CW
+alive	I-CW
+xtreme	I-CW
+beach	I-CW
+volleyball	I-CW
+.	O
+
+# id	fda700f2-b134-44ab-a1cb-751e8111ff2b	domain=dev
+source	O
+:	O
+unesco	O
+science	O
+report	O
+:	O
+towards	O
+2030	O
+the	O
+industrial	B-CORP
+development	I-CORP
+and	I-CORP
+renovation	I-CORP
+organization	I-CORP
+of	I-CORP
+iran	I-CORP
+(	O
+idro	O
+)	O
+controls	O
+about	O
+290	O
+state	O
+owned	O
+companies	O
+.	O
+
+# id	de1b3f82-4943-4ca0-89c5-3ad92a28e9f1	domain=dev
+it	O
+is	O
+broadcast	O
+regularly	O
+on	O
+bbc	B-CORP
+radio	I-CORP
+4	I-CORP
+and	O
+is	O
+presented	O
+by	O
+michael	B-PER
+rosen	I-PER
+.	O
+
+# id	122a125f-091f-4432-9df7-db84f7230e51	domain=dev
+as	O
+a	O
+footballer	O
+he	O
+began	O
+and	O
+finished	O
+his	O
+career	O
+at	O
+atletico	B-GRP
+bucaramanga	I-GRP
+starting	O
+in	O
+1992	O
+and	O
+finishing	O
+playing	O
+in	O
+2005	O
+.	O
+
+# id	d0e7bd45-ab53-408a-8459-bb603622977c	domain=dev
+on	O
+rotten	B-CORP
+tomatoes	I-CORP
+,	O
+the	O
+film	O
+received	O
+an	O
+approval	O
+rating	O
+of	O
+13	O
+%	O
+based	O
+on	O
+86	O
+reviews	O
+and	O
+an	O
+average	O
+score	O
+of	O
+3.82	O
+/	O
+10	O
+.	O
+
+# id	82cba019-8fcb-443c-8ed3-25cf01a9089e	domain=dev
+it	O
+is	O
+available	O
+in	O
+four	O
+versions	O
+and	O
+contains	O
+fifteen	O
+tracks	O
+,	O
+with	O
+blood	B-CW
+sweat	I-CW
+&	I-CW
+tears	I-CW
+serving	O
+as	O
+its	O
+lead	O
+single	O
+.	O
+
+# id	59bc85f2-751a-4dc4-b952-55397926e674	domain=dev
+during	O
+the	O
+reign	O
+of	O
+charles	B-PER
+ii	I-PER
+of	I-PER
+england	I-PER
+the	O
+squire	O
+and	O
+his	O
+hunt	O
+were	O
+pursuing	O
+a	O
+fox	O
+.	O
+
+# id	0ad590c5-f56b-450d-8f03-201242b033e3	domain=dev
+wrexham	O
+is	O
+a	O
+large	O
+town	O
+in	O
+the	O
+north	O
+east	O
+of	O
+wales	B-LOC
+with	O
+a	O
+long	O
+history	O
+of	O
+both	O
+heavy	O
+industry	O
+and	O
+as	O
+a	O
+market	B-LOC
+town	I-LOC
+.	O
+
+# id	c4b1ff83-975b-4a64-89d3-2a64bffc7800	domain=dev
+he	O
+was	O
+signed	O
+to	O
+port	B-GRP
+vale	I-GRP
+f.c.	I-GRP
+from	O
+1949	O
+to	O
+1957	O
+,	O
+but	O
+only	O
+played	O
+the	O
+one	O
+league	O
+game	O
+.	O
+
+# id	ee34f696-5c09-4912-90b8-e5d7932a16d4	domain=dev
+john	B-CW
+paul	I-CW
+jones	I-CW
+–	O
+1959	O
+film	O
+directed	O
+by	O
+john	B-PER
+farrow	I-PER
+,	O
+starring	O
+robert	B-PER
+stack	I-PER
+and	O
+charles	B-PER
+coburn	I-PER
+
+# id	834364c4-966f-4d0e-829e-661f77df32f6	domain=dev
+an	O
+united	B-GRP
+states	I-GRP
+air	I-GRP
+force	I-GRP
+helicopter	O
+was	O
+able	O
+to	O
+reach	O
+the	O
+crash	O
+site	O
+that	O
+afternoon	O
+,	O
+but	O
+was	O
+forced	O
+by	O
+the	O
+wind	O
+to	O
+take	O
+off	O
+shortly	O
+thereafter	O
+.	O
+
+# id	2c13aa6f-2f94-459d-8370-862f72903f8a	domain=dev
+#	O
+ornithology	B-CW
+(	O
+alternate	O
+take	O
+)	O
+(	O
+benny	O
+harris	O
+,	O
+charlie	B-PER
+parker	I-PER
+)	O
+–	O
+3	O
+:	O
+11	O
+(	O
+1949	O
+session	O
+)	O
+
+# id	477bda5f-694a-42a5-92bc-636148111c15	domain=dev
+a	O
+toy	O
+balloon	O
+or	O
+party	O
+balloon	O
+,	O
+is	O
+a	O
+small	O
+balloon	B-CW
+mostly	O
+used	O
+for	O
+decoration	O
+,	O
+advertising	O
+and	O
+children	O
+'s	O
+toys	O
+.	O
+
+# id	6fdef9fb-7916-4d12-9921-6df57a18b541	domain=dev
+he	O
+influenced	O
+the	O
+bird	O
+painter	O
+marmaduke	B-PER
+cradock	I-PER
+.	O
+
+# id	4b86e2b8-5e11-4219-a3ad-9456a8630477	domain=dev
+is	O
+a	O
+platform	B-CW
+game	I-CW
+based	O
+on	O
+the	O
+license	O
+of	O
+bright	O
+haired	O
+toys	O
+known	O
+as	O
+troll	B-PROD
+doll	I-PROD
+.	O
+
+# id	4a84b9dd-f00f-4293-b408-b229c37e5971	domain=dev
+he	O
+has	O
+a	O
+business	O
+education	O
+and	O
+represented	O
+finland	B-GRP
+at	I-GRP
+the	I-GRP
+2010	I-GRP
+winter	I-GRP
+olympics	I-GRP
+.	O
+
+# id	d84e5b1a-f3ef-42ff-97ce-e9fc87159bfe	domain=dev
+in	O
+return	O
+,	O
+the	O
+club	O
+restocked	O
+with	O
+players	O
+such	O
+as	O
+jordy	B-PER
+clasie	I-PER
+,	O
+miquel	B-PER
+nelom	I-PER
+,	O
+guyon	B-PER
+fernandez	I-PER
+and	O
+kaj	B-PER
+ramsteijn	I-PER
+,	O
+who	O
+came	O
+mostly	O
+from	O
+their	O
+own	O
+youth	O
+academy	O
+.	O
+
+# id	7b61f961-56c9-452a-b289-bf8f8fd82fba	domain=dev
+october	O
+26	O
+–	O
+microsoft	B-CORP
+releases	O
+windows	B-CW
+8	I-CW
+.	O
+
+# id	7ea272df-11e8-4118-999a-74be0c88f85f	domain=dev
+after	O
+retiring	O
+as	O
+a	O
+player	O
+,	O
+he	O
+went	O
+into	O
+coaching	O
+,	O
+and	O
+is	O
+currently	O
+goalkeeping	O
+coach	O
+at	O
+bradford	B-GRP
+city	I-GRP
+a.f.c.	I-GRP
+.	O
+
+# id	65d25a3c-8f05-4471-96fe-f8c0f6ad56b7	domain=dev
+the	O
+aurora	O
+/	O
+old	O
+fort	O
+site	O
+was	O
+completely	O
+excavated	O
+in	O
+1947	O
+and	O
+1957	O
+by	O
+the	O
+university	B-GRP
+of	I-GRP
+toronto	I-GRP
+.	O
+
+# id	a7a426c2-6aed-4b38-8001-bd1000639c80	domain=dev
+june	O
+30	O
+lola	B-PER
+herrera	I-PER
+,	O
+actress	O
+
+# id	517ce124-be4d-4912-994b-812bf4322199	domain=dev
+the	O
+thirteenth	O
+track	O
+,	O
+rock	B-CW
+me	I-CW
+amadeus	I-CW
+is	O
+a	O
+cover	O
+of	O
+the	O
+song	O
+by	O
+falco	B-PER
+.	O
+
+# id	96780adb-d20a-4889-b7b4-db9dde186d27	domain=dev
+sailing	O
+into	O
+the	O
+wind	O
+is	O
+possible	O
+when	O
+the	O
+sail	B-PROD
+is	O
+angled	O
+in	O
+a	O
+slightly	O
+more	O
+forward	O
+direction	O
+than	O
+the	O
+sail	O
+force	O
+.	O
+
+# id	e05ed391-b16e-4267-aa61-85b9c36e486d	domain=dev
+developing	O
+and	O
+establishing	O
+industrial	O
+projects	O
+particularly	O
+in	O
+the	O
+area	O
+of	O
+chemicals	O
+and	O
+petrochemical	B-PROD
+product	I-PROD
+.	O
+
+# id	418c0ed7-04af-4bde-8dec-2b30b7882370	domain=dev
+#	O
+yesterday	B-CW
+(	O
+john	B-PER
+lennon	I-PER
+,	O
+paul	B-PER
+mccartney	I-PER
+)	O
+–	O
+2	O
+:	O
+50	O
+
+# id	ad19a7c6-bf70-41e4-a5df-329795813384	domain=dev
+a	O
+retelling	O
+of	O
+the	B-CW
+tortoise	I-CW
+and	I-CW
+the	I-CW
+hare	I-CW
+where	O
+the	O
+tortoise	O
+drives	O
+a	O
+mercedes-amg	B-PROD
+gt	I-PROD
+.	O
+
+# id	51a11d8f-956c-496b-8c15-c8a94779a7e4	domain=dev
+nothophantes	O
+horridus	O
+has	O
+a	O
+total	O
+body	O
+length	O
+of	O
+,	O
+and	O
+has	O
+only	O
+been	O
+found	O
+in	O
+three	O
+limestone	O
+quarries	O
+and	O
+one	O
+industrial	O
+site	O
+in	O
+the	O
+cattedown	B-LOC
+area	O
+.	O
+
+# id	f90de8fe-1da4-4b39-aeca-606615b68fa3	domain=dev
+it	O
+was	O
+william	B-PER
+holden	I-PER
+’s	O
+film	O
+debut	O
+.	O
+
+# id	4e438ce4-a987-4d1f-9418-23ebe9613021	domain=dev
+we	O
+should	O
+nt	O
+dream	O
+of	O
+engaging	O
+a	O
+player	O
+who	O
+was	O
+nt	O
+worthy	O
+of	O
+inclusion	O
+in	O
+the	O
+aston	B-GRP
+villa	I-GRP
+f.c.	I-GRP
+eleven	O
+,	O
+for	O
+instance	O
+.	O
+
+# id	81ef6379-ee04-46b5-a19d-488c5563d9c6	domain=dev
+zimbra	O
+released	O
+the	O
+recordings	O
+free	O
+after	O
+news	O
+broke	O
+on	O
+the	O
+discussion	O
+site	O
+reddit	B-CORP
+.	O
+
+# id	5e8d7aa0-5266-4a39-af0a-7c36abfd1a9c	domain=dev
+she	O
+also	O
+contributed	O
+material	O
+to	O
+monkey	B-CW
+dust	I-CW
+.	O
+
+# id	d782f5a2-2e25-4657-87ea-0a91515e1d2d	domain=dev
+the	O
+members	O
+of	O
+the	O
+family	O
+lie	O
+on	O
+quilts	O
+,	O
+in	O
+the	O
+yard	O
+(	O
+as	O
+was	O
+not	O
+unusual	O
+on	O
+a	O
+hot	O
+summer	O
+evening	O
+,	O
+before	O
+air	B-PROD
+conditioning	I-PROD
+)	O
+.	O
+
+# id	a95545d1-387e-44b1-b633-60377e92568e	domain=dev
+an	O
+ios	B-CW
+and	O
+android	B-CW
+ports	O
+were	O
+released	O
+in	O
+2012	O
+and	O
+2013	O
+,	O
+respectively	O
+.	O
+
+# id	9b99223b-cade-4ead-b726-03ae947cd83e	domain=dev
+the	O
+film	O
+received	O
+negative	O
+reviews	O
+from	O
+critics	O
+,	O
+having	O
+a	O
+rotten	B-CORP
+tomatoes	I-CORP
+score	O
+of	O
+18	O
+%	O
+,	O
+with	O
+9	O
+out	O
+of	O
+11	O
+professional	O
+reviews	O
+being	O
+negative	O
+.	O
+
+# id	bab22db3-adfe-4b8c-bcc0-99cdd1b8569c	domain=dev
+the	B-CW
+imitation	I-CW
+game	I-CW
+(	O
+the	O
+weinstein	O
+company	O
+)	O
+–	O
+nora	B-PER
+grossman	I-PER
+,	O
+ido	B-PER
+ostrowsky	I-PER
+,	O
+and	O
+teddy	B-PER
+schwarzman	I-PER
+
+# id	f06a9ddf-593e-4988-a727-ed7ca49fd0ff	domain=dev
+the	O
+community	O
+'s	O
+name	O
+is	O
+a	O
+transfer	O
+from	O
+paoli	B-LOC
+.	O
+
+# id	4280d625-18ab-4ab4-bd5f-572b45972553	domain=dev
+the	O
+mummies	O
+of	O
+the	O
+higher	O
+classes	O
+were	O
+decorated	O
+with	O
+golden	O
+earrings	O
+or	O
+noserings	O
+and	O
+with	O
+golden	O
+feathered	O
+crowns	O
+and	O
+emerald	B-PROD
+.	O
+
+# id	e654605c-15c6-4fd5-b2b8-a68bf5d0c775	domain=dev
+it	O
+was	O
+described	O
+by	O
+francis	B-PER
+walker	I-PER
+in	O
+1855	O
+.	O
+
+# id	c2050616-06e4-46fd-93b1-bdf652dd90cc	domain=dev
+together	O
+with	O
+his	O
+brother	O
+louis-raphaël	B-PER
+bischoffsheim	I-PER
+(	O
+1800	O
+–	O
+1873	O
+)	O
+,	O
+he	O
+founded	O
+the	O
+bank	O
+which	O
+eventually	O
+developed	O
+into	O
+paribas	B-CORP
+bank	O
+.	O
+
+# id	c4443ec8-d05a-4fe6-bac0-c0c022dd4a4c	domain=dev
+popular	O
+ballads	O
+included	O
+barbara	B-CW
+allen	I-CW
+and	O
+matty	B-CW
+groves	I-CW
+.	O
+
+# id	19fe0c83-4c89-4440-a583-0d4481d3b179	domain=dev
+director	O
+major	B-PER
+ravi	I-PER
+appears	O
+in	O
+a	O
+cameo	O
+role	O
+in	O
+this	O
+film	O
+.	O
+
+# id	d5463701-b86a-4cc9-8289-5cd0c4ae9ef9	domain=dev
+hitachi-lg	B-CORP
+data	I-CORP
+storage	I-CORP
+,	O
+an	O
+optical	O
+disc	O
+drive	O
+manufacturer	O
+
+# id	7cd99534-87c9-4c28-8706-14cc6cac35a6	domain=dev
+he	O
+previously	O
+played	O
+in	O
+the	O
+national	B-CORP
+hockey	I-CORP
+league	I-CORP
+(	O
+nhl	O
+)	O
+for	O
+the	O
+philadelphia	B-GRP
+flyers	I-GRP
+,	O
+who	O
+signed	O
+him	O
+as	O
+an	O
+undrafted	O
+free	O
+agent	O
+in	O
+2011	O
+,	O
+and	O
+the	O
+minnesota	B-GRP
+wild	I-GRP
+.	O
+
+# id	064c0341-b5f7-4e62-896e-dad4f7660832	domain=dev
+the	O
+road	O
+covers	O
+711.7	O
+km	O
+from	O
+felixlândia	B-LOC
+,	O
+minas	B-LOC
+gerais	I-LOC
+to	O
+joão	B-LOC
+neiva,	I-LOC
+espírito	I-LOC
+santo	I-LOC
+,	O
+espírito	B-LOC
+santo	I-LOC
+.	O
+
+# id	028b7df1-dc43-430a-a25f-56d7282766f8	domain=dev
+it	O
+lies	O
+approximately	O
+north	O
+of	O
+piątek,	B-LOC
+łódź	I-LOC
+voivodeship	I-LOC
+,	O
+east	O
+of	O
+łęczyca	B-LOC
+,	O
+and	O
+north	O
+of	O
+the	O
+regional	O
+capital	O
+łódź	B-LOC
+.	O
+
+# id	b5dd7dd6-f716-4c44-b0fb-cdac41a8aef8	domain=dev
+the	B-CW
+guilt	I-CW
+trip	I-CW
+(	O
+then	O
+titled	O
+my	O
+mother	O
+’s	O
+curse	O
+)	O
+
+# id	52e42976-3e23-4fcb-b47a-f8556a37564c	domain=dev
+it	O
+would	O
+seem	O
+,	O
+therefore	O
+,	O
+that	O
+the	O
+midrash	O
+was	O
+composed	O
+in	O
+babylon	B-LOC
+in	O
+the	O
+first	O
+half	O
+of	O
+the	O
+9th	O
+century	O
+.	O
+
+# id	56561f68-cab5-401c-b680-7cfc9931345f	domain=dev
+in	O
+1987	O
+he	O
+moved	O
+to	O
+new	B-LOC
+york	I-LOC
+city	I-LOC
+and	O
+resumed	O
+playing	O
+guitar	O
+.	O
+
+# id	33da6e70-db92-466a-b401-7a595ccae995	domain=dev
+he	O
+was	O
+also	O
+the	O
+sound	O
+engineer	O
+for	O
+sub	B-CORP
+pop	I-CORP
+band	O
+six	B-GRP
+finger	I-GRP
+satellite	I-GRP
+.	O
+
+# id	adcfaa23-7866-4c2b-9b1e-5771e2562853	domain=dev
+the	O
+time	O
+remaining	O
+estimate	O
+has	O
+been	O
+removed	O
+in	O
+the	O
+10.12.2	O
+update	O
+after	O
+complaints	O
+of	O
+the	O
+battery	O
+life	O
+of	O
+2016	O
+macbook	B-PROD
+pro	I-PROD
+.	O
+
+# id	31fbaf5c-0209-4cc5-a118-c91ed002cd77	domain=dev
+file	O
+:	O
+fried	O
+onion	O
+garnish	O
+.	O
+jpg	O
+|	O
+fried	B-PROD
+onion	I-PROD
+are	O
+used	O
+as	O
+a	O
+garnish	O
+
+# id	aaf8f098-dd6d-4357-81fc-24e06f5f7e73	domain=dev
+kasabian	B-GRP
+leader	O
+was	O
+watching	O
+the	O
+show	O
+from	O
+backstage	O
+and	O
+later	O
+said	O
+that	O
+it	O
+was	O
+the	O
+greatest	O
+concert	O
+he	O
+has	O
+ever	O
+seen	O
+.	O
+
+# id	72f99282-e166-468a-88ad-ac68ef325dc9	domain=dev
+couch	O
+'s	O
+version	O
+made	O
+number	O
+5	O
+on	O
+the	O
+country	O
+charts	O
+that	O
+year	O
+,	O
+via	O
+vee-jay	B-CORP
+records	I-CORP
+.	O
+
+# id	e0fead07-8e3c-4dd4-8fa0-a109adcd2626	domain=dev
+spongebob	O
+'s	O
+voice	O
+actor	O
+tom	B-PER
+kenny	I-PER
+considers	O
+this	O
+one	O
+of	O
+his	O
+favorite	O
+episodes	O
+.	O
+
+# id	83888f28-0aac-4e33-b62a-94401b03f0b3	domain=dev
+plastic	B-PROD
+is	O
+a	O
+polymerized	O
+material	O
+.	O
+
+# id	8bb8fadd-7217-475f-8200-a2234214eee8	domain=dev
+the	O
+player	O
+no	O
+longer	O
+needs	O
+to	O
+take	O
+food	B-PROD
+,	O
+allowing	O
+the	O
+player	O
+to	O
+explore	O
+the	O
+map	O
+longer	O
+before	O
+returning	O
+to	O
+a	O
+town	O
+.	O
+
+# id	563521d8-5aae-436d-a4ac-29be9ee7c882	domain=dev
+in	O
+1851	O
+,	O
+the	O
+factory	O
+began	O
+the	O
+construction	O
+of	O
+solid	O
+metal	O
+steamboat	B-PROD
+.	O
+
+# id	14bd3657-489e-4164-8bc0-5f69685b7ad4	domain=dev
+born	O
+in	O
+cutigliano	B-LOC
+,	O
+tuscany	B-GRP
+,	O
+he	O
+was	O
+among	O
+the	O
+top	O
+ski	O
+racers	O
+of	O
+the	O
+late	O
+1940s	O
+and	O
+early	O
+1950s	O
+.	O
+
+# id	26425ff1-ff24-46ad-89dd-0f49ff33a18e	domain=dev
+the	O
+station	O
+was	O
+established	O
+in	O
+1940	O
+as	O
+an	O
+army	O
+telephone	O
+exchange	O
+operated	O
+by	O
+the	O
+auxiliary	B-GRP
+territorial	I-GRP
+service	I-GRP
+under	O
+the	O
+guard	O
+of	O
+the	O
+gloucestershire	B-GRP
+regiment	I-GRP
+.	O
+
+# id	c448e97f-0554-4e49-adbb-c899ede69b4f	domain=dev
+the	O
+codex	O
+is	O
+known	O
+for	O
+its	O
+subscription	O
+at	O
+the	O
+end	O
+of	O
+the	O
+epistle	B-CW
+to	I-CW
+titus	I-CW
+.	O
+
+# id	ac03ca62-3956-4d46-bcb2-f1eedb867f34	domain=dev
+molten	O
+chocolate	O
+and	O
+a	O
+piece	O
+of	O
+a	O
+chocolate	B-PROD
+bar	I-PROD
+
+# id	3305a3c0-3296-4b7d-96e0-0d9588531a73	domain=dev
+this	O
+is	O
+a	O
+list	O
+of	O
+current	O
+and	O
+former	O
+companies	O
+based	O
+in	O
+the	O
+san	B-LOC
+francisco	I-LOC
+bay	I-LOC
+area	I-LOC
+,	O
+broken	O
+down	O
+by	O
+type	O
+of	O
+business	O
+.	O
+
+# id	4b627fd4-a9e9-4da6-ac52-a190443ed059	domain=dev
+it	O
+lies	O
+approximately	O
+north	O
+west	O
+of	O
+połczyn-zdrój	B-LOC
+,	O
+east	O
+of	O
+świdwin	B-LOC
+,	O
+and	O
+north	O
+east	O
+of	O
+the	O
+regional	O
+capital	O
+szczecin	B-LOC
+.	O
+
+# id	56527a85-0478-4a54-b6d6-e737ebdb71dc	domain=dev
+it	O
+prefers	O
+loam	B-PROD
+soils	O
+(	O
+sand	O
+and	O
+clay	O
+soil	O
+)	O
+with	O
+a	O
+constant	O
+level	O
+of	O
+moisture	O
+.	O
+
+# id	e431d2d6-8f0b-44bf-b798-a3e684f4bd70	domain=dev
+is	O
+a	O
+video	O
+game	O
+artist	O
+and	O
+game	O
+designer	O
+for	O
+atlus	B-CORP
+.	O
+
+# id	cc1c68ae-afde-4fa5-93af-3a547683c784	domain=dev
+144	O
+thousand	O
+tons	O
+of	O
+rice	B-PROD
+;	O
+
+# id	b167bf82-4d18-44a0-aa71-f01362cc9827	domain=dev
+she	O
+is	O
+best	O
+known	O
+internationally	O
+for	O
+portraying	O
+shmi	B-PER
+skywalker	I-PER
+in	O
+star	B-CW
+wars:	I-CW
+episode	I-CW
+i	I-CW
+–	I-CW
+the	I-CW
+phantom	I-CW
+menace	I-CW
+and	O
+star	B-CW
+wars:	I-CW
+episode	I-CW
+ii	I-CW
+–	I-CW
+attack	I-CW
+of	I-CW
+the	I-CW
+clones	I-CW
+.	O
+
+# id	a23b1da8-93ba-47f1-a20e-7bb3954563ce	domain=dev
+jenkins	O
+has	O
+also	O
+been	O
+criticized	O
+for	O
+other	O
+decisions	O
+such	O
+as	O
+allowing	O
+performances	O
+of	O
+the	B-CW
+vagina	I-CW
+monologues	I-CW
+and	O
+showings	O
+of	O
+gay	O
+films	O
+on	O
+campus	O
+.	O
+
+# id	acd3c584-f89e-4214-9217-acfd0bdf39ee	domain=dev
+cbs	B-CORP
+television	B-CW
+film	I-CW
+,	O
+dark	B-CW
+night	I-CW
+of	I-CW
+the	I-CW
+scarecrow	I-CW
+brought	O
+the	O
+genre	O
+to	O
+the	O
+small	O
+screen	O
+.	O
+
+# id	742536cb-787f-4144-8724-524ebe6cf04c	domain=dev
+the	O
+hospital	O
+is	O
+the	O
+base	O
+for	O
+the	O
+nursing	O
+course	O
+offered	O
+by	O
+the	O
+sahmyook	B-GRP
+university	I-GRP
+.	O
+
+# id	2cbe5208-bc0e-495c-be9b-2c56c3e58541	domain=dev
+alabama	B-LOC
+state	I-LOC
+route	I-LOC
+19	I-LOC
+passes	O
+through	O
+the	O
+town	O
+,	O
+leading	O
+northwest	O
+to	O
+red	B-LOC
+bay	I-LOC
+and	O
+south	O
+to	O
+hamilton	B-LOC
+.	O
+
+# id	395bad52-8f61-44cc-aece-5f543fc8bfba	domain=dev
+shank	O
+has	O
+a	O
+0	O
+%	O
+rating	O
+at	O
+rotten	B-CORP
+tomatoes	I-CORP
+,	O
+based	O
+on	O
+10	O
+reviews	O
+.	O
+
+# id	7ea0ac1d-5af1-4825-ac0a-983682dc40cc	domain=dev
+mrytlewood	O
+was	O
+inducted	O
+into	O
+the	O
+national	B-LOC
+museum	I-LOC
+of	I-LOC
+racing	I-LOC
+and	I-LOC
+hall	I-LOC
+of	I-LOC
+fame	I-LOC
+in	O
+1979	O
+.	O
+
+# id	9104f85a-d2be-440c-9b2e-915e6bfe84dc	domain=dev
+his	O
+o-2	B-PROD
+skymaster	I-PROD
+#	O
+67	O
+21338	O
+disappeared	O
+on	O
+a	O
+forward	O
+air	O
+control	O
+mission	O
+
+# id	66b608ef-589d-4052-a2e5-08a8123c1cb9	domain=dev
+the	O
+most	O
+extreme	O
+tailfins	O
+appeared	O
+in	O
+the	O
+late	O
+1950s	O
+,	O
+such	O
+as	O
+on	O
+the	O
+1959	O
+cadillac	B-PROD
+eldorado	I-PROD
+and	O
+the	O
+1959	O
+chevrolet	B-PROD
+impala	I-PROD
+.	O
+
+# id	fd377d6b-3b61-4f45-9c32-17e99407dbe9	domain=dev
+among	O
+others	O
+,	O
+he	O
+was	O
+chairman	O
+of	O
+the	O
+standing	O
+conference	O
+of	O
+regional	O
+sports	O
+federations	O
+and	O
+member	O
+of	O
+the	O
+südwestrundfunk	B-CORP
+broadcasting	O
+council	O
+.	O
+
+# id	7d4be173-100e-492d-847d-d8777746284c	domain=dev
+the	O
+church	O
+is	O
+set	O
+on	O
+timber	O
+stumps	O
+,	O
+about	O
+high	O
+,	O
+with	O
+batten	B-PROD
+between	O
+.	O
+
+# id	c9d25119-1f37-424e-bbf0-56fcc8f2dd75	domain=dev
+a	O
+passenger	O
+steamship	O
+launched	O
+in	O
+1873	O
+by	O
+william	B-CORP
+cramp	I-CORP
+and	I-CORP
+sons	I-CORP
+for	O
+the	O
+american	B-CORP
+line	I-CORP
+.	O
+
+# id	70c410b7-2886-4d4d-8da0-2d0b93ecc758	domain=dev
+it	O
+was	O
+also	O
+the	O
+home	O
+of	O
+the	O
+atlanta	B-GRP
+legends	I-GRP
+of	O
+the	O
+alliance	B-GRP
+of	I-GRP
+american	I-GRP
+football	I-GRP
+(	O
+aaf	O
+)	O
+.	O
+
+# id	d84dadca-141e-4001-bb4a-1f86f1fd67f3	domain=dev
+it	O
+is	O
+known	O
+from	O
+madagascar	B-LOC
+.	O
+
+# id	92563f40-a1dc-4b56-840a-3d5cf9e66cd4	domain=dev
+since	O
+the	O
+2019	O
+–	O
+20	O
+season	O
+,	O
+australian	B-CORP
+broadcasting	I-CORP
+corporation	I-CORP
+has	O
+broadcast	O
+one	O
+game	O
+a	O
+weekend	O
+(	O
+saturday	O
+5pm	O
+)	O
+live	O
+on	O
+its	O
+primary	O
+channel	O
+.	O
+
+# id	26a6f1c9-90f2-4625-8583-4cfe9e0cd579	domain=dev
+panda	O
+is	O
+a	O
+village	O
+on	O
+the	O
+island	O
+of	O
+grande	B-LOC
+comore	I-LOC
+in	O
+the	O
+comoros	B-LOC
+.	O
+
+# id	88a35493-cc0c-4048-a72a-6d99e5e229e3	domain=dev
+both	O
+actors	O
+heads	O
+are	O
+on	O
+politico	B-PROD
+bodies	O
+while	O
+their	O
+voices	O
+are	O
+pitched	O
+up	O
+.	O
+
+# id	1ba37f5f-1aba-4b3a-823c-49fd88a0ba3e	domain=dev
+she	O
+then	O
+worked	O
+as	O
+a	O
+radio	O
+host	O
+at	O
+commercial	B-CORP
+radio	I-CORP
+hong	I-CORP
+kong	I-CORP
+.	O
+
+# id	e4874993-7163-4931-878c-ad34357684bc	domain=dev
+clifton	O
+taylor	O
+gained	O
+his	O
+greatest	O
+public	O
+recognition	O
+late	O
+in	O
+life	O
+through	O
+his	O
+work	O
+for	O
+the	O
+bbc	B-CORP
+.	O
+
+# id	b911b722-e1ba-4b1b-8641-9c68254633da	domain=dev
+ken	B-PER
+rolston	I-PER
+,	O
+part	O
+of	O
+the	O
+core	O
+team	O
+at	O
+west	B-CORP
+end	I-CORP
+games	I-CORP
+
+# id	4b8d853b-ae4a-4aab-99bb-e349ebf9d2c5	domain=dev
+menchi	O
+and	O
+katsu	O
+are	O
+phonologically	O
+modified	O
+versions	O
+of	O
+the	O
+words	O
+minced	B-PROD
+meat	I-PROD
+and	O
+cutlet	O
+.	O
+
+# id	23cc04e3-d752-49d0-a65c-db21640eb4f1	domain=dev
+bedan	O
+is	O
+the	O
+name	O
+of	O
+a	O
+descendant	O
+of	O
+manasseh	B-PER
+in	O
+1	O
+books	B-CW
+of	I-CW
+chronicles	I-CW
+7	O
+:	O
+17	O
+
+# id	4e8ff768-ad26-4a4b-bcf9-db6371f65f63	domain=dev
+later	O
+he	O
+played	O
+for	O
+club	B-GRP
+atlético	I-GRP
+san	I-GRP
+isidro	I-GRP
+,	O
+club	O
+where	O
+was	O
+captain	O
+and	O
+coach	O
+.	O
+
+# id	8f64572d-2091-4486-9f0a-86daa25477bd	domain=dev
+michael	B-PER
+caine	I-PER
+played	O
+the	O
+spy	O
+harry	B-PER
+palmer	I-PER
+in	O
+the	B-CW
+ipcress	I-CW
+file	I-CW
+,	O
+and	O
+four	O
+sequels	O
+.	O
+
+# id	5e8a5c8a-940e-44ee-b145-78b4ac30fc31	domain=dev
+green	O
+released	O
+several	O
+albums	O
+on	O
+rough	B-CORP
+trade	I-CORP
+.	O
+
+# id	ff6d4a0d-0fa3-4247-bc1a-8bcae10d53be	domain=dev
+bank	B-CORP
+,	O
+financial	B-GRP
+institution	I-GRP
+and	O
+insurance	O
+companies	O
+
+# id	6fa5c00f-c914-4270-bcd2-08c013c055d7	domain=dev
+dilaver	O
+started	O
+his	O
+professional	O
+career	O
+at	O
+fk	B-GRP
+austria	I-GRP
+wien	I-GRP
+,	O
+who	O
+loaned	O
+him	O
+to	O
+sv	B-GRP
+wienerberg	I-GRP
+in	O
+2009	O
+.	O
+
+# id	d21c7c79-1f18-49f8-abdc-0d91ba75ee7a	domain=dev
+the	O
+national	B-GRP
+hockey	I-GRP
+association	I-GRP
+(	O
+nha	O
+)	O
+existed	O
+from	O
+1910	O
+to	O
+1917	O
+.	O
+
+# id	997afc60-9845-4bf6-b0cd-1eeb0c326905	domain=dev
+peter	B-PER
+bradshaw	I-PER
+of	O
+the	B-GRP
+guardian	I-GRP
+wrote	O
+that	O
+maritaud	O
+’s	O
+performance	O
+has	O
+power	O
+.	O
+
+# id	b48ccde7-6c8a-4148-b2ef-b5c44cecd4e3	domain=dev
+in	O
+guadeloupe	B-LOC
+,	O
+heavy	O
+rainfall	O
+in	O
+the	O
+vicinity	O
+of	O
+basse-terre	B-LOC
+caused	O
+flooding	O
+and	O
+mudslides	O
+,	O
+forcing	O
+roads	O
+to	O
+temporarily	O
+close	O
+.	O
+
+# id	5a704de5-16e7-4388-9f30-a337bb586e8a	domain=dev
+that	O
+same	O
+year	O
+,	O
+the	O
+band	O
+was	O
+a	O
+supporting	O
+act	O
+for	O
+the	O
+white	B-GRP
+lies	I-GRP
+,	O
+kelis	B-PER
+,	O
+robyn	B-PER
+and	O
+example	B-PER
+.	O
+
+# id	582ce358-956f-4bf8-bf1f-d810f86476d7	domain=dev
+he	O
+was	O
+the	O
+father	O
+of	O
+the	O
+singer	O
+jan	B-PER
+johansen	I-PER
+.	O
+
+# id	411742d9-076d-4232-8ca5-314c610823f2	domain=dev
+#	O
+get	B-CW
+back	I-CW
+(	O
+previously	O
+released	O
+on	O
+all	B-CW
+this	I-CW
+and	I-CW
+world	I-CW
+war	I-CW
+ii	I-CW
+soundtrack	O
+)	O
+–	O
+4	O
+:	O
+24	O
+
+# id	8cd217d3-008e-4a0c-b532-8c01c7027933	domain=dev
+in	O
+2009	O
+he	O
+created	O
+the	O
+multimedia	O
+maddog	O
+challenge	O
+,	O
+a	O
+video	O
+contest	O
+sponsored	O
+by	O
+telefónica	B-CORP
+to	O
+raise	O
+the	O
+awareness	O
+of	O
+free	O
+software	O
+and	O
+creative	B-GRP
+commons	I-GRP
+licenses	O
+.	O
+
+# id	7e7f1777-ce92-46f1-9b8b-48c130b5f887	domain=dev
+kerry	B-GRP
+gaa	I-GRP
+and	O
+cork	B-GRP
+gaa	I-GRP
+played	O
+in	O
+a	O
+challenge	O
+game	O
+to	O
+mark	O
+the	O
+opening	O
+.	O
+
+# id	a75b2f78-355e-4a2c-a317-5ff0a59716cd	domain=dev
+sheryl	B-PER
+crow	I-PER
+–	O
+backing	O
+vocals	O
+(	O
+2	O
+,	O
+5	O
+)	O
+,	O
+intro	O
+choir	O
+,	O
+duet	O
+vocal	O
+
+# id	5d59787b-e13b-44b7-b5a1-88e86352b0fc	domain=dev
+the	O
+term	O
+was	O
+coined	O
+by	O
+erik	B-PER
+satie	I-PER
+in	O
+1917	O
+.	O
+
+# id	5d91d820-efcc-4273-8e5a-5664f056b446	domain=dev
+passenger	B-PROD
+information	I-PROD
+system	I-PROD
+include	O
+dot-matrix	B-PROD
+display	I-PROD
+and	O
+an	O
+automated	O
+public	O
+address	O
+system	O
+announce	O
+approaching	O
+services	O
+.	O
+
+# id	4650af0c-02d6-496c-87db-1f1a30dad06b	domain=dev
+he	O
+has	O
+been	O
+survived	O
+by	O
+his	O
+wife	O
+and	O
+two	O
+children	O
+,	O
+both	O
+worked	O
+at	O
+the	O
+vozrozhdenie	B-CORP
+bank	I-CORP
+.	O
+
+# id	df324285-9232-4fe3-9f49-a32af0108f3c	domain=dev
+vodička	O
+was	O
+born	O
+in	O
+modřany	B-LOC
+,	O
+a	O
+southern	O
+prague	B-LOC
+neighbourhood	O
+in	O
+czechoslovakia	B-LOC
+.	O
+
+# id	fd17b842-d25b-49f9-86af-2ed6dc7d85f9	domain=dev
+origin	B-CW
+(	O
+protagonist	O
+portrayed	O
+by	O
+sen	B-PER
+mitsuji	I-PER
+)	O
+
+# id	efb4b441-f9f5-45d8-9b6c-3d8b53634d3e	domain=dev
+hewanewala	O
+is	O
+a	O
+village	O
+in	O
+sri	B-LOC
+lanka	I-LOC
+.	O
+
+# id	75e41c79-ec17-4827-964a-cd532160a16f	domain=dev
+the	B-GRP
+oregonian	I-GRP
+wrote	O
+that	O
+it	O
+looks	O
+like	O
+no	O
+other	O
+squeegee	O
+in	O
+history	O
+.	O
+
+# id	c99cef6c-5cc6-4262-be67-1b3c20d00847	domain=dev
+common	O
+also	O
+appeared	O
+in	O
+the	O
+movie	O
+street	B-CW
+kings	I-CW
+with	O
+keanu	B-PER
+reeves	I-PER
+,	O
+hugh	B-PER
+laurie	I-PER
+,	O
+the	B-PER
+game	I-PER
+,	O
+and	O
+forest	B-PER
+whitaker	I-PER
+.	O
+
+# id	376fd58b-131f-4185-9cba-d45764338067	domain=dev
+he	O
+then	O
+conducted	O
+his	O
+graduate	O
+research	O
+work	O
+under	O
+of	O
+m.	B-PER
+frederick	I-PER
+hawthorne	I-PER
+at	O
+university	B-GRP
+of	I-GRP
+california,	I-GRP
+los	I-GRP
+angeles	I-GRP
+(	O
+ucla	O
+)	O
+.	O
+
+# id	f9f95bf7-036d-4d38-9612-38307cee93e9	domain=dev
+s80	O
+continues	O
+east	O
+until	O
+it	O
+reaches	O
+its	O
+terminus	O
+at	O
+the	O
+junction	O
+with	O
+california	B-LOC
+state	I-LOC
+route	I-LOC
+115	I-LOC
+.	O
+
+# id	78652499-3e6c-4dc8-ac60-adcbfa61aa97	domain=dev
+it	O
+tends	O
+to	O
+avoid	O
+hard	O
+shelled	O
+seeds	O
+but	O
+does	O
+consume	O
+acorn	B-PROD
+.	O
+
+# id	c0d43df0-4b0b-4eb7-a397-00c65f2bf15c	domain=dev
+it	O
+replaced	O
+the	O
+hyundai	B-PROD
+atos	I-PROD
+in	O
+the	O
+model	O
+line	O
+up	O
+,	O
+and	O
+was	O
+initially	O
+available	O
+only	O
+as	O
+a	O
+five	O
+door	O
+hatchback	B-PROD
+body	O
+style	O
+.	O
+
+# id	55c9e01f-1848-4a52-9bbd-8528c4133d88	domain=dev
+my	O
+spit	O
+/	O
+miss	O
+hell	O
+,	O
+sympathy	B-CORP
+for	I-CORP
+the	I-CORP
+record	I-CORP
+industry	I-CORP
+,	O
+7	O
+1991	O
+
+# id	cfdeec46-87cf-477b-8819-34e3bd80be0f	domain=dev
+it	O
+is	O
+part	O
+of	O
+the	O
+town	O
+gronau	B-LOC
+.	O
+
+# id	faa4bfc0-3523-45e4-b529-e134581ee4ff	domain=dev
+it	O
+is	O
+named	O
+for	O
+daegu	B-GRP
+national	I-GRP
+university	I-GRP
+of	I-GRP
+education	I-GRP
+.	O
+
+# id	0595af18-1d11-4d41-b9e9-414ec87d48e1	domain=dev
+oscar	B-PER
+zeta	I-PER
+acosta	I-PER
+(	O
+1935	O
+–	O
+1974	O
+)	O
+–	O
+politician	O
+,	O
+attorney	O
+,	O
+minor	O
+novelist	O
+and	O
+activist	O
+
+# id	56861f82-cfa5-47e9-8549-3ee096108de9	domain=dev
+gary	B-PER
+numan	I-PER
+spoken	O
+words	O
+,	O
+vocals	O
+on	O
+
+# id	64a6dd26-046b-4b27-8584-5cc3791ccddd	domain=dev
+massawa	O
+rose	O
+to	O
+prominence	O
+when	O
+it	O
+was	O
+captured	O
+by	O
+the	O
+ottoman	B-LOC
+empire	I-LOC
+in	O
+1557	O
+.	O
+
+# id	7b94261d-2d8d-499a-95b2-a5bf451337b7	domain=dev
+she	O
+soon	O
+grew	O
+bored	O
+and	O
+irritated	O
+playing	O
+wretched	O
+,	O
+small	O
+character	O
+parts	O
+and	O
+in	O
+1883	O
+joined	O
+the	O
+boston	B-LOC
+museum	I-LOC
+stock	O
+company	O
+.	O
+
+# id	c6f53529-1247-4418-93aa-acebe3cacb84	domain=dev
+in	O
+this	O
+cadastral	O
+district	O
+lies	O
+a	O
+neighbourhood	O
+called	O
+barrandov	B-LOC
+which	O
+is	O
+famous	O
+for	O
+its	O
+film	O
+studios	O
+(	O
+barrandov	B-CORP
+studios	I-CORP
+)	O
+.	O
+
+# id	4ba3d420-47d3-40ef-be92-fbade4911eb6	domain=dev
+the	O
+supporters	O
+were	O
+rewarded	O
+with	O
+a	O
+goalless	O
+draw	O
+,	O
+described	O
+by	O
+the	B-GRP
+daily	I-GRP
+telegraph	I-GRP
+as	O
+the	O
+biggest	O
+surprise	O
+of	O
+the	O
+day	O
+.	O
+
+# id	d4fbeff0-ed25-41e5-bec5-4b54aa88e375	domain=dev
+swift	O
+started	O
+in	O
+the	O
+province	O
+'s	O
+quarter	O
+final	O
+win	O
+over	O
+cs	B-GRP
+bourgoin-jallieu	I-GRP
+,	O
+scoring	O
+a	O
+crucial	O
+try	O
+in	O
+a	O
+three	O
+point	O
+victory	O
+.	O
+
+# id	ab4fa47a-75b4-4cc5-b47f-5afcce2d1930	domain=dev
+şöbiyet	B-PROD
+is	O
+a	O
+variation	O
+that	O
+includes	O
+fresh	O
+cream	B-PROD
+in	O
+the	O
+filling	O
+,	O
+in	O
+addition	O
+to	O
+the	O
+traditional	O
+nuts	O
+.	O
+
+# id	ec86132a-f714-4172-8c34-6940a4c8169e	domain=dev
+the	O
+concept	O
+was	O
+also	O
+used	O
+in	O
+the	O
+2010	O
+renault	B-PROD
+wind	I-PROD
+.	O
+
+# id	bfb822c0-03af-482e-bcb7-6669b2fc02ca	domain=dev
+highest	O
+percentage	O
+kicks	O
+made	O
+career	O
+(	O
+minimum	O
+200	O
+attempts	O
+)	O
+:	O
+99.8	O
+%	O
+,	O
+rian	B-PER
+lindell	I-PER
+(	O
+432	O
+/	O
+433	O
+)	O
+2000	O
+–	O
+2013	O
+
+# id	81a887d4-7b85-476a-965f-eb7530700982	domain=dev
+in	O
+1893	O
+an	O
+opera	O
+by	O
+giacomo	B-PER
+puccini	I-PER
+entitled	O
+manon	B-CW
+lescaut	I-CW
+,	O
+and	O
+based	O
+on	O
+the	O
+same	O
+novel	O
+was	O
+premiered	O
+and	O
+has	O
+also	O
+become	O
+popular	O
+.	O
+
+# id	9379bfc5-aa13-4ea3-a5fd-6b87689fb0ff	domain=dev
+#	O
+if	B-CW
+i	I-CW
+were	I-CW
+a	I-CW
+carpenter	I-CW
+(	O
+tim	B-PER
+hardin	I-PER
+)	O
+–	O
+2	O
+:	O
+51	O
+
+# id	541a2cd2-53e5-417a-9af6-88ad3eefd5a5	domain=dev
+richard	B-PER
+nixon	I-PER
+won	O
+here	O
+in	O
+1972	O
+,	O
+and	O
+jimmy	B-PER
+carter	I-PER
+of	O
+georgia	B-LOC
+prevailed	O
+in	O
+1976	O
+.	O
+
+# id	9095de17-90ce-4312-b931-9aacc642e238	domain=dev
+he	O
+was	O
+also	O
+appointed	O
+to	O
+the	O
+state	B-GRP
+affairs	I-GRP
+commission	I-GRP
+.	O
+
+# id	cee5c3ef-7697-418d-ba10-61e8348ee35a	domain=dev
+the	O
+building	O
+is	O
+situated	O
+in	O
+the	O
+centre	O
+of	O
+a	O
+roundabout	B-LOC
+of	O
+spadina	B-LOC
+avenue	I-LOC
+,	O
+north	O
+of	O
+college	B-LOC
+street	I-LOC
+.	O
+
+# id	0cedc0d3-8f1b-483f-935f-5c1eaa5c8ae6	domain=dev
+mauvezin	O
+de	O
+sainte	O
+croix	O
+is	O
+a	O
+commune	B-LOC
+of	I-LOC
+france	I-LOC
+in	O
+the	O
+ariège	B-LOC
+department	B-LOC
+of	I-LOC
+france	I-LOC
+in	O
+southwestern	O
+france	B-LOC
+.	O
+
+# id	f7e66dbb-171e-43ce-9586-d9e2ef581d8c	domain=dev
+after	O
+completing	O
+the	O
+exam	O
+,	O
+one	O
+can	O
+proceed	O
+to	O
+secondary	B-GRP
+school	I-GRP
+.	O
+
+# id	2fbc7467-efe5-40ad-abde-9a4d61e2ea0d	domain=dev
+lovell	O
+'s	O
+joined	O
+the	O
+western	B-GRP
+football	I-GRP
+league	I-GRP
+in	O
+1923	O
+and	O
+won	O
+the	O
+title	O
+in	O
+their	O
+inaugural	O
+season	O
+.	O
+
+# id	04dbbf37-f6b2-41fa-a70d-8390093e4c49	domain=dev
+on	O
+rotten	B-CORP
+tomatoes	I-CORP
+,	O
+the	O
+film	O
+has	O
+a	O
+rating	O
+of	O
+84	O
+%	O
+based	O
+on	O
+97	O
+reviews	O
+and	O
+an	O
+average	O
+rating	O
+of	O
+7.4	O
+/	O
+10	O
+.	O
+
+# id	d55d5094-f2d8-4be5-9798-0a7c21dc38b4	domain=dev
+especially	O
+the	O
+family	B-CORP
+farm	I-CORP
+had	O
+a	O
+benign	O
+influence	O
+as	O
+a	O
+natural	O
+cooperative	O
+unit	O
+where	O
+everybody	O
+had	O
+real	O
+duties	O
+and	O
+responsibilities	O
+.	O
+
+# id	ffccd97f-37a0-49e8-969d-c5a641295e4d	domain=dev
+they	O
+summarize	O
+the	O
+essential	O
+teaching	O
+of	O
+guru	B-PER
+nanak	I-PER
+.	O
+
+# id	032e67d1-ae17-40ed-9b46-1f073b791dc2	domain=dev
+after	O
+a	O
+few	O
+months	O
+,	O
+a	O
+cartier	B-CORP
+branded	O
+clock	O
+became	O
+standard	O
+equipment	O
+.	O
+
+# id	342ef979-e7ff-4077-bcfa-4387ca5b728e	domain=dev
+the	O
+facility	O
+was	O
+shared	O
+with	O
+farsund	B-LOC
+airport	I-LOC
+,	O
+which	O
+remains	O
+in	O
+operation	O
+.	O
+
+# id	c5129cf5-2b67-4dcd-bc88-64631d2d3a28	domain=dev
+bed	O
+burial	O
+of	O
+a	O
+young	O
+woman	O
+,	O
+aged	O
+about	O
+16	O
+,	O
+buried	O
+with	O
+a	O
+gold	O
+pectoral	O
+cross	O
+inlaid	O
+with	O
+garnets	O
+,	O
+an	O
+iron	O
+knife	O
+,	O
+a	O
+chatelaine	B-PROD
+,	O
+and	O
+some	O
+glass	O
+beads	O
+.	O
+
+# id	2769c643-0e17-429e-8fb1-7ae26ca37517	domain=dev
+a	O
+few	O
+weeks	O
+later	O
+,	O
+its	O
+regional	O
+airline	O
+subsidiary	O
+utair	B-CORP
+express	I-CORP
+ceased	O
+operations	O
+.	O
+
+# id	952575f4-7f99-438f-9292-d9cb8147a080	domain=dev
+at	O
+that	O
+time	O
+,	O
+the	O
+tour	O
+'s	O
+producers	O
+live	B-CORP
+nation	I-CORP
+entertainment	I-CORP
+reported	O
+that	O
+over	O
+one	O
+million	O
+tickets	O
+for	O
+the	O
+tour	O
+had	O
+been	O
+sold	O
+in	O
+a	O
+single	O
+day	O
+.	O
+
+# id	c09f06d7-f4e5-4d74-8cd6-75ad78c56db7	domain=dev
+he	O
+served	O
+as	O
+the	O
+tehsildar	O
+in	O
+akhnoor	B-LOC
+.	O
+
+# id	e1b0d3f6-b15b-4da9-83ab-7281e90c5541	domain=dev
+matthew	B-PER
+fox	I-PER
+–	O
+lost	B-CW
+(	O
+american	B-CORP
+broadcasting	I-CORP
+company	I-CORP
+)	O
+as	O
+jack	B-PER
+shephard	I-PER
+
+# id	4f44b32a-5bc5-4099-aa7d-5fe1135710cd	domain=dev
+gerry	B-PER
+ingram	I-PER
+(	O
+preston	B-GRP
+north	I-GRP
+end	I-GRP
+f.c.	I-GRP
+)	O
+and	O
+dudley	B-PER
+roberts	I-PER
+(	O
+mansfield	B-GRP
+town	I-GRP
+f.c.	I-GRP
+)	O
+–	O
+22	O
+goals	O
+
+# id	6ca1b2e6-e300-438b-aa85-a95f4844e97c	domain=dev
+the	O
+interiors	O
+of	O
+the	O
+imperial	O
+suites	O
+,	O
+furniture	O
+and	O
+tableware	O
+were	O
+designed	O
+by	O
+ippolit	B-PER
+monighetti	I-PER
+.	O
+
+# id	fd805a2a-1671-487b-88f1-caedb95c9381	domain=dev
+ithacans	O
+are	O
+persons	O
+affiliated	O
+with	O
+ithaca	B-GRP
+college	I-GRP
+,	O
+especially	O
+alumni	O
+.	O
+
+# id	67fc37ff-e271-4c1b-b2d6-9ba31b1ab0ca	domain=dev
+initially	O
+the	O
+company	O
+board	O
+sought	O
+papermaker	O
+and	O
+former	O
+congressman	O
+william	B-PER
+whiting	I-PER
+ii	I-PER
+to	O
+serve	O
+as	O
+its	O
+chief	O
+executive	O
+.	O
+
+# id	d0162da0-e367-4a7c-9a5a-3b35de84ccd2	domain=dev
+abenia	O
+began	O
+her	O
+career	O
+as	O
+a	O
+model	O
+in	O
+milan	B-LOC
+,	O
+where	O
+she	O
+has	O
+worked	O
+with	O
+designers	O
+such	O
+as	O
+armani	B-CORP
+and	O
+prada	B-CORP
+.	O
+
+# id	47430420-04a6-49bc-bcf5-ff31b102c7cd	domain=dev
+these	O
+kinescopes	O
+,	O
+along	O
+with	O
+pre	O
+filmed	O
+shows	O
+,	O
+and	O
+later	O
+,	O
+videotape	B-PROD
+,	O
+paved	O
+the	O
+way	O
+for	O
+extensive	O
+reruns	O
+of	O
+syndicated	O
+television	O
+series	O
+.	O
+
+# id	8f902416-49a1-44ad-951d-e9c627895031	domain=dev
+the	O
+bank	O
+was	O
+a	O
+subsidiary	O
+of	O
+banca	B-CORP
+monte	I-CORP
+dei	I-CORP
+paschi	I-CORP
+di	I-CORP
+siena	I-CORP
+.	O
+
+# id	2f5bd934-0add-4d6f-bc44-c2f3d70c0b3f	domain=dev
+co	O
+production	O
+with	O
+nippon	B-CORP
+television	I-CORP
+,	O
+shueisha	B-CORP
+,	O
+horipro	B-CORP
+,	O
+yomiuri	B-CORP
+telecasting	I-CORP
+corporation	I-CORP
+,	O
+vap	B-CORP
+inc.	I-CORP
+,	O
+shochiku	B-CORP
+and	O
+nikkatsu	B-GRP
+
+# id	1b56998b-b773-4c13-a82e-dc1a8d2c346e	domain=dev
+the	O
+series	O
+is	O
+filmed	O
+at	O
+the	O
+special	B-CORP
+broadcasting	I-CORP
+service	I-CORP
+in	O
+the	O
+sydney	B-LOC
+suburb	O
+of	O
+artarmon	B-LOC
+.	O
+
+# id	399d3903-5d70-49d3-bcdf-ce6853c3234e	domain=dev
+he	O
+was	O
+a	O
+researcher	O
+at	O
+the	O
+university	B-GRP
+of	I-GRP
+stuttgart	I-GRP
+from	O
+1992	O
+to	O
+1994	O
+.	O
+
+# id	0b4943a4-105e-40e0-9d5f-87dfd1a1b818	domain=dev
+the	O
+modular	O
+design	O
+was	O
+scrapped	O
+in	O
+1987	O
+and	O
+was	O
+replaced	O
+with	O
+a	O
+more	O
+conventional	O
+truck	O
+design	O
+when	O
+the	O
+design	O
+was	O
+moved	O
+to	O
+the	O
+american	B-CORP
+motors	I-CORP
+corporation	I-CORP
+design	O
+studio	O
+.	O
+
+# id	a6bdcc11-b6db-45a5-8cea-c851d9475e9f	domain=dev
+abaeté	B-GRP
+futebol	I-GRP
+clube	I-GRP
+and	O
+bragantino	B-GRP
+clube	I-GRP
+do	I-GRP
+pará	I-GRP
+were	O
+relegated	O
+due	O
+to	O
+withdrawing	O
+.	O
+
+# id	5fd83e2b-401f-4d42-a469-493a29f1e271	domain=dev
+they	O
+subsequently	O
+announced	O
+that	O
+they	O
+will	O
+be	O
+going	O
+on	O
+tour	O
+with	O
+deafheaven	B-GRP
+and	O
+emma	B-PER
+ruth	I-PER
+rundle	I-PER
+in	O
+early	O
+2017	O
+.	O
+
+# id	34297242-6a77-4b94-a607-ddbdc7ea602d	domain=dev
+the	O
+character	O
+originated	O
+in	O
+a	O
+comic	O
+strip	O
+published	O
+in	O
+ym	B-CW
+.	O
+
+# id	e6e0f452-995e-4396-9509-20d168e15a0a	domain=dev
+the	O
+work	O
+begins	O
+with	O
+a	O
+sinfonia	O
+and	O
+then	O
+alternates	O
+choral	O
+movements	O
+and	O
+aria	B-CW
+.	O
+
+# id	57532239-6769-4891-a61b-d7934c988448	domain=dev
+it	O
+commenced	O
+distribution	O
+via	O
+the	O
+online	O
+streaming	O
+service	O
+netflix	B-CORP
+in	O
+2018	O
+.	O
+
+# id	e61ffc5a-7cba-4be4-90c2-91357974dc1d	domain=dev
+clarke	O
+'s	O
+brother	O
+–	O
+a	O
+sales	O
+manager	O
+at	O
+an	O
+amarillo	B-LOC
+,	O
+television	O
+station	O
+–	O
+put	O
+him	O
+into	O
+contact	O
+with	O
+the	O
+owner	O
+of	O
+several	O
+local	O
+drive	O
+in	O
+theaters	O
+.	O
+
+# id	8f757488-cc72-45d4-a2a5-84097342c081	domain=dev
+williams	O
+sang	O
+with	O
+various	O
+artists	O
+,	O
+including	O
+the	B-GRP
+carpenters	I-GRP
+,	O
+bonnie	B-PER
+raitt	I-PER
+,	O
+van	B-PER
+morrison	I-PER
+,	O
+etta	B-PER
+james	I-PER
+,	O
+and	O
+humble	B-GRP
+pie	I-GRP
+.	O
+
+# id	704403b3-0c07-4b65-af9e-936eeb950b17	domain=dev
+it	O
+is	O
+their	O
+first	O
+release	O
+for	O
+hellcat	B-CORP
+records	I-CORP
+.	O
+
+# id	ded30c03-83ad-4b21-8fd0-d4e41be13c95	domain=dev
+arthur	B-PER
+frank	I-PER
+burns	I-PER
+,	O
+distinguished	O
+scholar	O
+(	O
+1978	O
+–	O
+1981	O
+,	O
+1985	O
+–	O
+1987	O
+)	O
+
+# id	dcb126b9-e21c-4a14-a68f-12ea9ae5f8fb	domain=dev
+in	O
+2000	O
+,	O
+he	O
+moved	O
+to	O
+southern	B-GRP
+illinois	I-GRP
+university	I-GRP
+edwardsville	I-GRP
+as	O
+an	O
+assistant	O
+.	O
+
+# id	4cd5dc37-46f3-4eb1-9dee-55de9d68f2f1	domain=dev
+he	O
+not	O
+only	O
+served	O
+at	O
+key	O
+positions	O
+in	O
+the	O
+government	B-GRP
+of	I-GRP
+india	I-GRP
+but	O
+also	O
+made	O
+significant	O
+contribution	O
+towards	O
+nurture	O
+and	O
+education	O
+of	O
+young	O
+talents	O
+.	O
+
+# id	6721058e-3363-4a8f-b8f7-f1b5e6caedd5	domain=dev
+paul	B-PER
+beaver	I-PER
+keyboards	O
+,	O
+synthesizer	O
+,	O
+stereo	O
+harp	O
+
+# id	e04f37ec-b062-42d5-9fd4-681ecd8b2689	domain=dev
+on	O
+rotten	B-CORP
+tomatoes	I-CORP
+the	O
+film	O
+has	O
+an	O
+approval	O
+rating	O
+of	O
+63	O
+%	O
+based	O
+on	O
+128	O
+reviews	O
+,	O
+with	O
+an	O
+average	O
+rating	O
+of	O
+6.19	O
+/	O
+10	O
+.	O
+
+# id	36d73a20-e58e-41e1-80a2-326cc59908ac	domain=dev
+lal	B-PER
+bahadur	I-PER
+shastri	I-PER
+,	O
+freedom	O
+fighter	O
+,	O
+former	O
+prime	O
+minister	O
+;	O
+belonged	O
+to	O
+varanasi	B-LOC
+and	O
+allahabad	B-LOC
+
+# id	ef10f3f7-7187-462b-8fab-1a27bf72ca9b	domain=dev
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-GRP
+register	I-GRP
+of	I-GRP
+historic	I-GRP
+places	I-GRP
+in	O
+2004	O
+.	O
+
+# id	bad2ab09-8fe5-45b1-9e39-6908e66d38ce	domain=dev
+b	O
+.	O
+u	O
+.	O
+togata	O
+(	O
+carl	B-PER
+linnaeus	I-PER
+,	O
+1766	O
+)	O
+
+# id	2db17503-542a-4e5f-b819-4697706401e9	domain=dev
+he	O
+later	O
+studied	O
+at	O
+georgetown	B-GRP
+university	I-GRP
+.	O
+
+# id	929ba23f-4180-4db5-91f6-a08c1cfed427	domain=dev
+audi	B-PROD
+r8	I-PROD
+(	O
+rd	O
+.	O
+2	O
+,	O
+4	O
+6	O
+,	O
+3	O
+,	O
+8	O
+)	O
+
+# id	376d8d73-c0da-460b-80ee-91105c281cdd	domain=dev
+entäs	O
+nyt	O
+,	O
+niskavuori	O
+?	O
+is	O
+a	O
+finland	B-LOC
+play	O
+.	O
+
+# id	05df8f25-0033-46d3-91f1-8d73785da3c2	domain=dev
+stošić	O
+was	O
+born	O
+in	O
+smederevo	B-LOC
+,	O
+in	O
+what	O
+was	O
+then	O
+the	O
+socialist	B-LOC
+republic	I-LOC
+of	I-LOC
+serbia	I-LOC
+in	O
+the	O
+socialist	B-LOC
+federal	I-LOC
+republic	I-LOC
+of	I-LOC
+yugoslavia	I-LOC
+.	O
+
+# id	fe84e852-eedd-4c33-9ad5-820a18fdbf35	domain=dev
+she	O
+was	O
+insured	O
+at	O
+lloyd's	B-CORP
+of	I-CORP
+london	I-CORP
+for	O
+£	O
+10,000	O
+.	O
+
+# id	63614400-06e3-466c-a60f-20e3f9a4109b	domain=dev
+between	O
+1792	O
+and	O
+1796	O
+,	O
+he	O
+was	O
+nominal	O
+ambassador	O
+to	O
+the	O
+ottoman	B-LOC
+empire	I-LOC
+(	O
+he	O
+never	O
+occupied	O
+the	O
+post	O
+)	O
+.	O
+
+# id	b0da9a3e-ffae-481e-ba2a-246494eaaa39	domain=dev
+charlie	B-PER
+hayes	I-PER
+(	O
+born	O
+1965	O
+)	O
+,	O
+third	O
+baseman	O
+,	O
+(	O
+hattiesburg	B-LOC
+)	O
+
+# id	7fb62b07-856f-4ed5-8ff9-e04bf18b7721	domain=dev
+this	O
+is	O
+a	O
+list	O
+of	O
+commercial	O
+bank	B-CORP
+in	O
+cape	B-LOC
+verde	I-LOC
+.	O
+
+# id	b34196dc-b8e3-4663-8d26-551e166a6a21	domain=dev
+he	O
+began	O
+working	O
+for	O
+with	O
+dan	B-PER
+schneider	I-PER
+in	O
+2000	O
+serving	O
+as	O
+the	O
+stage	O
+manager	O
+for	O
+the	B-CW
+amanda	I-CW
+show	I-CW
+and	O
+all	B-CW
+that	I-CW
+.	O
+
+# id	0e79fee2-1ac3-4d75-9556-ffb1fb316308	domain=dev
+gifford	O
+was	O
+born	O
+in	O
+exeter	B-LOC
+,	O
+and	O
+entered	O
+the	O
+middle	B-LOC
+temple	I-LOC
+in	O
+1800	O
+.	O
+
+# id	6e2e2b07-235a-4446-acde-e2b62a900d04	domain=dev
+marin	B-PER
+čilić	I-PER
+def	O
+.	O
+andy	B-PER
+murray	I-PER
+,	O
+6	O
+–	O
+4	O
+,	O
+7	O
+–	O
+5	O
+
+# id	4264e05f-cc6d-4282-b90b-837696d9f0e0	domain=dev
+the	O
+station	O
+is	O
+located	O
+on	O
+the	O
+toulouse–bayonne	B-LOC
+railway	I-LOC
+.	O
+
+# id	64844149-c43a-4da5-87c6-96f5473231ce	domain=dev
+for	O
+instance	O
+his	O
+old	O
+mentor	O
+during	O
+his	O
+year	O
+in	O
+berlin	B-LOC
+,	O
+franz	B-PER
+von	I-PER
+liszt	I-PER
+,	O
+described	O
+crime	O
+as	O
+a	O
+social	O
+phenomenon	O
+early	O
+on	O
+in	O
+his	O
+career	O
+.	O
+
+# id	e3e218cd-8d50-4afa-b1f4-a7662462ac97	domain=dev
+rocco	O
+now	O
+owns	O
+the	O
+rocco	B-CORP
+forte	I-CORP
+hotels	I-CORP
+group	O
+.	O
+
+# id	9655e1c4-c166-48e7-abc4-3a771d7dc21b	domain=dev
+file	O
+:	O
+oldcuriosityshop	O
+.	O
+jpg	O
+|	O
+the	B-CW
+old	I-CW
+curiosity	I-CW
+shop	I-CW
+inspired	O
+by	O
+the	O
+charles	B-PER
+dickens	I-PER
+novel	O
+of	O
+the	O
+same	O
+name	O
+
+# id	88c89c13-a7a7-4a26-a311-2479bd8ebada	domain=dev
+it	O
+shared	O
+some	O
+appearances	O
+with	O
+the	O
+opel	B-PROD
+kapitän	I-PROD
+.	O
+
+# id	f3c8c1df-f3ad-43f0-b31c-24b1105d5868	domain=dev
+the	O
+core	O
+town	O
+lies	O
+at	O
+the	O
+mouth	O
+of	O
+the	O
+stream	O
+into	O
+the	O
+lauter	B-LOC
+.	O
+
+# id	d7e2ed70-9ad7-4168-9704-31dc5419d8f6	domain=dev
+alice	B-CW
+in	I-CW
+wonderland	I-CW
+–	O
+ken	B-PER
+ralston	I-PER
+,	O
+david	B-PER
+schaub	I-PER
+,	O
+sean	B-PER
+phillips	I-PER
+,	O
+and	O
+carey	B-PER
+villegas	I-PER
+
+# id	a3a9526c-7867-470a-926c-98eb0c64e367	domain=dev
+the	O
+coal	O
+yard	O
+was	O
+in	O
+use	O
+until	O
+at	O
+least	O
+1954	O
+,	O
+as	O
+it	O
+was	O
+listed	O
+at	O
+that	O
+time	O
+by	O
+the	O
+national	B-GRP
+coal	I-GRP
+board	I-GRP
+.	O
+
+# id	2b49a64a-5019-45d6-988f-59bfd5a11d90	domain=dev
+two	O
+years	O
+later	O
+,	O
+he	O
+started	O
+a	O
+catering	O
+venture	O
+,	O
+with	O
+customers	O
+including	O
+the	O
+u.s.	O
+military	O
+and	O
+bechtel	B-CORP
+.	O
+
+# id	a450df99-d8be-4808-bb6d-f2cd7a389f63	domain=dev
+it	O
+was	O
+constructed	O
+in	O
+the	O
+parish	O
+of	O
+pragal	B-LOC
+,	O
+which	O
+was	O
+merged	O
+with	O
+the	O
+parishes	O
+of	O
+almada,	B-LOC
+cova	I-LOC
+da	I-LOC
+piedade,	I-LOC
+pragal	I-LOC
+e	I-LOC
+cacilhas	I-LOC
+in	O
+2013	O
+,	O
+into	O
+the	O
+municipality	O
+of	O
+almada	B-LOC
+.	O
+
+# id	baae77c6-e83a-46f8-94a3-b97653d5f780	domain=dev
+listing	O
+it	O
+among	O
+their	O
+top	O
+ten	O
+3do	O
+games	O
+,	O
+retro	B-CW
+gamer	I-CW
+summarized	O
+it	O
+as	O
+short	O
+,	O
+light	O
+hearted	O
+,	O
+and	O
+blithe	O
+,	O
+but	O
+enjoyable	O
+and	O
+worthy	O
+of	O
+its	O
+praise	O
+.	O
+
+# id	b7c7cb03-3cda-48ea-a956-7da2c5834caf	domain=dev
+it	O
+is	O
+a	O
+traditional	O
+double	O
+crusted	O
+pie	O
+made	O
+with	O
+flaky	O
+shortcrust	B-PROD
+pastry	I-PROD
+filled	O
+with	O
+only	O
+chunks	O
+of	O
+poached	O
+chicken	O
+meat	O
+and	O
+a	O
+thick	O
+broth	O
+based	O
+sauce	O
+.	O
+
+# id	0229846c-9354-4da4-ab4f-28e8c24f49e2	domain=dev
+the	O
+project	O
+is	O
+owned	O
+by	O
+the	O
+toronto	B-LOC
+based	O
+company	O
+gabriel	B-CORP
+resources	I-CORP
+.	O
+
+# id	6782e13c-4658-4e93-b881-2e175eb171cc	domain=dev
+his	O
+time	O
+in	O
+batavian	B-LOC
+republic	I-LOC
+was	O
+relatively	O
+brief	O
+,	O
+however	O
+.	O
+
+# id	e724a150-1926-4e1f-bfc4-cc2d178e3b7f	domain=dev
+he	O
+has	O
+worked	O
+as	O
+conductor	O
+for	O
+diana	B-PER
+krall	I-PER
+.	O
+
+# id	9cd48b6d-47e1-4b6c-9e08-4910b6d1ad24	domain=dev
+in	O
+2002	O
+,	O
+he	O
+became	O
+order	B-GRP
+of	I-GRP
+canada	I-GRP
+.	O
+
+# id	f6cffc35-2a6b-4950-ac9d-46996f314c44	domain=dev
+made	O
+from	O
+cow	O
+'s	O
+milk	B-PROD
+,	O
+it	O
+has	O
+a	O
+smooth	O
+texture	O
+and	O
+a	O
+sharp	O
+and	O
+citrus	O
+flavor	O
+,	O
+along	O
+with	O
+a	O
+strong	O
+and	O
+salty	O
+bite	O
+.	O
+
+# id	ec169865-74e8-4bf8-9c32-32e66ccc34cf	domain=dev
+rowan	B-PER
+elaraby	I-PER
+7	O
+–	O
+11	O
+,	O
+11	O
+–	O
+6	O
+,	O
+7	O
+–	O
+11	O
+,	O
+11	O
+–	O
+6	O
+,	O
+11	O
+–	O
+9	O
+
+# id	53764ae9-db95-45f3-84ca-4791a597a04f	domain=dev
+mataram	O
+'s	O
+expansions	O
+just	O
+before	O
+mangkurat	B-PER
+i	I-PER
+of	I-PER
+mataram	I-PER
+took	O
+the	O
+throne	O
+in	O
+1646	O
+]	O
+]	O
+
+# id	14f1820d-f7b9-403d-89b5-88e69c0e8cba	domain=dev
+the	O
+satellite	O
+rights	O
+of	O
+the	O
+film	O
+were	O
+sold	O
+to	O
+sun	B-CORP
+tv	I-CORP
+.	O
+
+# id	b7cbf42f-5ea3-41f5-84ff-505668e80bce	domain=dev
+a	O
+male	O
+version	O
+of	O
+the	O
+character	O
+appeared	O
+in	O
+the	O
+2014	O
+film	O
+the	B-CW
+amazing	I-CW
+spider-man	I-CW
+2	I-CW
+portrayed	O
+by	O
+marton	B-PER
+csokas	I-PER
+.	O
+
+# id	79da79e3-0d81-4c2a-a3e8-09a681caa390	domain=dev
+one	O
+vhs	O
+tape	O
+featuring	O
+live	O
+tracks	O
+from	O
+1982	O
+,	O
+for	O
+an	O
+hbo	B-CORP
+special	O
+broadcast	O
+in	O
+1983	O
+.	O
+
+# id	b778d595-f8a3-48bd-bfd7-b67f7dde76c2	domain=dev
+the	O
+aircraft	O
+was	O
+operated	O
+by	O
+the	O
+german	B-GRP
+air	I-GRP
+force	I-GRP
+between	O
+1957	O
+and	O
+1990	O
+.	O
+
+# id	2290d334-17aa-4ba8-be88-6eaa8ccda969	domain=dev
+it	O
+is	O
+located	O
+about	O
+north	O
+east	O
+of	O
+the	O
+town	O
+of	O
+scottsdale	B-LOC
+.	O
+
+# id	72e1ae06-14d6-4500-b3a8-3a3aa7d6ae6c	domain=dev
+sometimes	O
+holy	B-PROD
+water	I-PROD
+will	O
+be	O
+either	O
+sprinkled	O
+into	O
+the	O
+dough	O
+or	O
+on	O
+the	O
+kneading	O
+trough	O
+at	O
+the	O
+beginning	O
+of	O
+the	O
+process	O
+.	O
+
+# id	c7aef383-9f0a-493c-b010-cf4e9d47dc5d	domain=dev
+in	O
+1957	O
+he	O
+graduated	O
+from	O
+the	O
+united	B-GRP
+states	I-GRP
+army	I-GRP
+war	I-GRP
+college	I-GRP
+.	O
+
+# id	37320b1b-8e36-4299-a45b-364436539f7e	domain=dev
+garcía	O
+was	O
+born	O
+in	O
+granada	B-LOC
+,	O
+andalusia	B-LOC
+.	O
+
+# id	58ace672-994c-4db0-8758-22e4abcedcbf	domain=dev
+harry	B-PER
+benson	I-PER
+(	O
+born	O
+1929	O
+)	O
+,	O
+celebrity	O
+and	O
+pop	O
+culture	O
+photographer	O
+
+# id	65c200d9-0e92-47c6-8fd9-cce37a60d062	domain=dev
+he	O
+and	O
+his	O
+work	O
+have	O
+been	O
+profiled	O
+on	O
+cnn	B-CORP
+and	O
+good	B-CW
+morning	I-CW
+america	I-CW
+.	O
+
+# id	f52cf0cb-4d84-493a-8593-8187a2eaf770	domain=dev
+united	B-LOC
+states	I-LOC
+of	I-LOC
+america	I-LOC
+teen	B-CW
+vogue	I-CW
+and	O
+also	O
+appeared	O
+in	O
+harper's	B-CW
+bazaar	I-CW
+.	O
+
+# id	932b51ac-3f52-48aa-9d61-4ac174a077b6	domain=dev
+reading	O
+the	O
+high	B-PROD
+precision	I-PROD
+event	I-PROD
+timer	I-PROD
+comparator	O
+timer	O
+immediately	O
+after	O
+a	O
+write	O
+returns	O
+the	O
+old	O
+value	O
+(	O
+erratum	O
+14	O
+)	O
+
+# id	98f1e8f6-869c-4807-8d85-e1b7896f0d19	domain=dev
+the	O
+town	O
+is	O
+noted	O
+for	O
+its	O
+atole	B-PROD
+,	O
+cooked	O
+traditionally	O
+over	O
+a	O
+wood	O
+fire	O
+.	O
+
+# id	16dc5460-e046-4213-aa87-59646fe7bdaf	domain=dev
+the	O
+ribbon	O
+of	O
+the	O
+decoration	O
+first	O
+class	O
+is	O
+adorned	O
+with	O
+a	O
+rosette	B-PROD
+in	O
+the	O
+same	O
+colours	O
+.	O
+
+# id	d4ea6c2e-0efd-456a-92d3-e7e2e86a29ea	domain=dev
+at	O
+the	O
+age	O
+of	O
+15	O
+he	O
+ran	O
+away	O
+from	O
+home	O
+and	O
+an	O
+abusive	O
+alcoholic	O
+father	O
+to	O
+join	O
+the	O
+anti-apartheid	B-GRP
+movement	I-GRP
+movement	O
+.	O
+
+# id	68a7b1d7-10c6-4947-baed-2dd73e5894e9	domain=dev
+this	O
+is	O
+a	O
+list	O
+of	O
+bridges	O
+and	O
+other	O
+crossings	O
+of	O
+the	O
+schuylkill	B-LOC
+river	I-LOC
+,	O
+from	O
+the	O
+delaware	B-LOC
+river	I-LOC
+upstream	O
+to	O
+the	O
+source	O
+.	O
+
+# id	23abe4bc-3171-4b77-bd19-436e562331c1	domain=dev
+harvey	O
+began	O
+her	O
+career	O
+as	O
+an	O
+assistant	O
+professor	O
+at	O
+the	O
+lesley	B-GRP
+university	I-GRP
+where	O
+she	O
+worked	O
+for	O
+ten	O
+years	O
+.	O
+
+# id	b1a49429-f573-40ac-ab11-e237be237e80	domain=dev
+in	O
+2019	O
+a	O
+blizzard	B-CW
+of	I-CW
+souls	I-CW
+based	O
+on	O
+the	O
+novel	O
+premiered	O
+.	O
+
+# id	e1dd67e7-9f39-44c9-9c7a-c99702aba563	domain=dev
+three	O
+days	O
+later	O
+he	O
+made	O
+his	O
+ligue	B-CORP
+1	I-CORP
+debut	O
+,	O
+starting	O
+in	O
+a	O
+1	O
+–	O
+2	O
+defeat	O
+at	O
+f.c.	B-GRP
+lorient	I-GRP
+.	O
+
+# id	b0f2c99e-4e8b-4c0b-bb3f-9e7604b8b18b	domain=dev
+pushover	B-CW
+,	O
+a	O
+1992	O
+platform	O
+puzzle	O
+game	O
+
+# id	cfeb573a-8daf-4e15-b201-ad89374bb207	domain=dev
+southern	O
+coastal	O
+areas	O
+harbour	O
+citrus	B-PROD
+plants	O
+.	O
+
+# id	aeec31f4-7b2e-4e9e-8630-293deca8ea81	domain=dev
+the	O
+result	O
+was	O
+a	O
+victory	O
+for	O
+rafael	B-PER
+núñez	I-PER
+of	O
+the	O
+colombian	B-GRP
+liberal	I-GRP
+party	I-GRP
+.	O
+
+# id	5d2a4d75-2a02-4600-8180-ac81bc1d036b	domain=dev
+it	O
+was	O
+reported	O
+that	O
+£	O
+100,000	O
+of	O
+art	O
+was	O
+given	O
+away	O
+with	O
+people	O
+queuing	O
+up	O
+for	O
+two	O
+nights	O
+to	O
+get	O
+artwork	O
+by	O
+artists	O
+including	O
+gavin	B-PER
+turk	I-PER
+and	O
+stella	B-PER
+vine	I-PER
+.	O
+
+# id	17e73dc6-a114-4e3a-b407-adf92363b8ca	domain=dev
+the	O
+start	O
+of	O
+the	O
+expressway	O
+;	O
+a	O
+continuation	O
+of	O
+the	O
+outer	B-LOC
+circular	I-LOC
+highway	I-LOC
+
+# id	52edc8b1-d861-4328-af4b-46197861cb21	domain=dev
+according	O
+to	O
+the	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+,	O
+the	O
+town	O
+has	O
+a	O
+total	O
+area	O
+of	O
+,	O
+of	O
+which	O
+is	O
+land	O
+and	O
+,	O
+or	O
+1.22	O
+%	O
+,	O
+is	O
+water	O
+.	O
+
+# id	64a00828-a631-4a30-83be-5b9baebdcddc	domain=dev
+in	O
+some	O
+versions	O
+the	O
+warhead	O
+is	O
+apparently	O
+laced	O
+with	O
+about	O
+of	O
+depleted	B-PROD
+uranium	I-PROD
+to	O
+increase	O
+the	O
+penetrating	O
+power	O
+of	O
+the	O
+warhead	O
+.	O
+
+# id	d8a2ae72-ec63-400c-90ab-0b6e8b9aa8b8	domain=dev
+her	O
+mother	O
+,	O
+janet	B-PER
+leigh	I-PER
+,	O
+had	O
+famously	O
+starred	O
+in	O
+psycho	B-CW
+.	O
+
+# id	223cf7d1-a068-48b1-9a8f-a6a3dfeb5850	domain=dev
+soil	O
+temperature	O
+is	O
+important	O
+for	O
+the	O
+survival	O
+and	O
+early	O
+growth	O
+of	O
+seedling	B-PROD
+.	O
+
+# id	0fcdb00e-2003-4d84-aa73-a1dd38b45f07	domain=dev
+he	O
+is	O
+voiced	O
+by	O
+zachary	B-PER
+bennett	I-PER
+.	O
+
+# id	6a54eefb-3d14-4e86-9154-512bd87c5da0	domain=dev
+mark	B-PER
+levin	I-PER
+–	O
+conservative	O
+author	O
+,	O
+lawyer	O
+,	O
+and	O
+radio	O
+talk	O
+show	O
+host	O
+on	O
+wabc	B-CORP
+
+# id	a92c9c06-68da-4d3e-84a5-398f5933980c	domain=dev
+the	O
+films	O
+those	B-CW
+magnificent	I-CW
+men	I-CW
+in	I-CW
+their	I-CW
+flying	I-CW
+machines	I-CW
+,	O
+along	O
+with	O
+aces	B-CW
+high	I-CW
+were	O
+filmed	O
+here	O
+.	O
+
+# id	849991b6-7a89-4922-b90e-3fd112b3e3a6	domain=dev
+in	O
+the	O
+same	O
+year	O
+,	O
+she	O
+made	O
+her	O
+film	O
+debut	O
+in	O
+the	O
+cem	B-PER
+yılmaz	I-PER
+film	O
+g.o.r.a.	B-CW
+.	O
+
+# id	f9694087-ee27-43ad-9d1f-d9a9f36f075c	domain=dev
+brendon	B-PER
+urie	I-PER
+–	O
+singer	O
+and	O
+songwriter	O
+,	O
+frontman	O
+of	O
+panic!	B-GRP
+at	I-GRP
+the	I-GRP
+disco	I-GRP
+
+# id	a6167441-60c7-4900-bb66-da3c970e2aa3	domain=dev
+it	O
+is	O
+a	O
+cross	O
+over	O
+featuring	O
+the	O
+science	O
+fiction	O
+series	O
+doctor	B-CW
+who	I-CW
+and	O
+star	B-CW
+trek:	I-CW
+the	I-CW
+next	I-CW
+generation	I-CW
+.	O
+
+# id	e198b906-7ec7-4709-be51-f9ac586ae1ae	domain=dev
+the	O
+tail	O
+is	O
+not	O
+docked	O
+in	O
+australia	B-LOC
+,	O
+and	O
+serves	O
+a	O
+useful	O
+purpose	O
+in	O
+increasing	O
+agility	O
+and	O
+the	O
+ability	O
+to	O
+turn	O
+quickly	O
+.	O
+
+# id	2b86a8a0-dee7-4ce8-9ef2-da130a5e9ae8	domain=dev
+todd	B-PER
+mccarthy	I-PER
+of	O
+variety	B-CORP
+called	O
+the	O
+film	O
+a	O
+hopeless	O
+and	O
+hapless	O
+attempt	O
+at	O
+cool	O
+.	O
+
+# id	26dcd12e-dff6-4deb-90b5-0a70516b3c95	domain=dev
+he	O
+defended	O
+the	O
+title	O
+twice	O
+before	O
+losing	O
+it	O
+to	O
+julio	B-PER
+gervacio	I-PER
+later	O
+that	O
+year	O
+.	O
+
+# id	da8241ab-e57e-4fb9-bb0a-166a13997906	domain=dev
+1933	O
+was	O
+built	O
+chelyabinsk	B-CORP
+tractor	I-CORP
+plant	I-CORP
+.	O
+
+# id	09b1995b-acf2-4ded-ac0e-4a9015c8358e	domain=dev
+the	O
+183t	O
+was	O
+basically	O
+an	O
+updated	O
+version	O
+of	O
+the	O
+teams	O
+car	O
+,	O
+the	O
+alfa	B-PROD
+romeo	I-PROD
+182	I-PROD
+.	O
+
+# id	4020e53f-8785-41b1-a43c-c3f68bbce697	domain=dev
+the	O
+toyota	B-PROD
+prius	I-PROD
+was	O
+rated	O
+a	O
+9.4	O
+.	O
+
+# id	a5fc2053-9b03-46c9-a4df-1414501d0111	domain=dev
+his	O
+documentary	O
+archive	O
+,	O
+together	O
+with	O
+a	O
+large	O
+collection	O
+of	O
+photographs	O
+and	O
+camera	O
+equipment	O
+,	O
+are	O
+held	O
+at	O
+the	O
+society	B-GRP
+of	I-GRP
+antiquaries	I-GRP
+of	I-GRP
+london	I-GRP
+.	O
+
+# id	b9a960ce-d38d-44a2-8014-d194ff77eb63	domain=dev
+andorka	O
+started	O
+his	O
+career	O
+at	O
+debreceni	B-GRP
+vsc	I-GRP
+.	O
+
+# id	ce6dae88-2ee3-42ae-b811-da87e8e75fff	domain=dev
+the	O
+main	O
+hall	O
+also	O
+includes	O
+a	O
+blue	O
+and	O
+gold	O
+fordson	B-CORP
+with	O
+lettering	O
+of	O
+state	O
+champions	O
+imprinted	O
+on	O
+its	O
+top	O
+.	O
+
+# id	5cd8be8e-9d77-4eec-beeb-52bcf57b3be3	domain=dev
+alan	B-PER
+henderson	I-PER
+,	O
+national	B-CORP
+basketball	I-CORP
+association	I-CORP
+player	O
+:	O
+atlanta	B-GRP
+hawks	I-GRP
+,	O
+dallas	B-GRP
+mavericks	I-GRP
+,	O
+cleveland	B-GRP
+cavaliers	I-GRP
+,	O
+philadelphia	B-GRP
+76ers	I-GRP
+
+# id	24fc6733-69fd-415a-9a0a-86d7025048f9	domain=dev
+speech	O
+pathologist	O
+lionel	B-PER
+logue	I-PER
+taught	O
+at	O
+the	O
+school	O
+from	O
+1910	O
+to	O
+1911	O
+.	O
+
+# id	a117b2a5-4b5b-45b9-819c-39411074ab2e	domain=dev
+the	O
+name	O
+amphenol	B-CORP
+comes	O
+from	O
+the	O
+company	O
+that	O
+first	O
+manufactured	O
+it	O
+.	O
+
+# id	9d74a1b5-d2b0-43ef-9b3b-cb23971812f9	domain=dev
+videoland	O
+,	O
+the	O
+world	O
+where	O
+the	O
+captain	B-CW
+n:	I-CW
+the	I-CW
+game	I-CW
+master	I-CW
+series	O
+takes	O
+place	O
+
+# id	68b6064d-6335-4234-b027-a7278ecdd12e	domain=dev
+the	O
+family	O
+'s	O
+summer	O
+residence	O
+was	O
+situated	O
+at	O
+étupes	B-LOC
+.	O
+
+# id	dcab0019-08b0-4b4a-83d8-91006751e454	domain=dev
+an	O
+experimental	O
+port	O
+was	O
+produced	O
+for	O
+the	O
+original	O
+playstation	B-PROD
+shortly	O
+after	O
+its	O
+release	O
+.	O
+
+# id	b2feabd1-8257-4586-a59b-331967598728	domain=dev
+he	O
+wrote	O
+songs	O
+and	O
+signed	O
+with	O
+capitol	B-CORP
+records	I-CORP
+,	O
+which	O
+released	O
+one	O
+album	O
+.	O
+
+# id	424a238e-e24d-4efd-8872-8ab3c6d900be	domain=dev
+mir	O
+iskusstwa	O
+cover	O
+1899	O
+by	O
+maria	B-PER
+yakunchikova	I-PER
+
+# id	f4226ad2-81f9-4bc3-a033-8b2fb0ba8326	domain=dev
+jajangmyeon	O
+by	O
+kfoodaddict	O
+.	O
+jpg	O
+|	O
+jajangmyeon	B-PROD
+(	O
+black	O
+sauce	O
+noodles	O
+)	O
+
+# id	7edbcd72-54b8-4480-bdc5-ff24d0056c49	domain=dev
+system	B-CW
+software	I-CW
+is	O
+a	O
+generic	O
+term	O
+referring	O
+to	O
+the	O
+computer	O
+programs	O
+used	O
+to	O
+start	O
+and	O
+run	O
+computer	O
+systems	O
+including	O
+diverse	O
+application	O
+software	O
+and	O
+networks	O
+.	O
+
+# id	e6e33f56-4781-47a2-88bb-807407dccb87	domain=dev
+he	O
+enjoys	O
+nut	B-PROD
+,	O
+and	O
+has	O
+a	O
+car	O
+with	O
+a	O
+giant	O
+acorn	B-PROD
+for	O
+a	O
+roof	O
+.	O
+
+# id	481da40a-ec6f-4cc6-b9e2-13ee9f80f7cd	domain=dev
+it	O
+was	O
+initially	O
+constituted	O
+with	O
+four	O
+members	O
+,	O
+chile	B-LOC
+,	O
+peru	B-LOC
+,	O
+zaire	B-LOC
+and	O
+zambia	B-LOC
+.	O
+
+# id	d4f03276-5b6f-4cf2-8bfc-7b72c9190b2d	domain=dev
+when	O
+it	O
+opened	O
+,	O
+it	O
+was	O
+the	O
+only	O
+legal	O
+digital	O
+catalog	O
+of	O
+music	O
+to	O
+offer	O
+songs	O
+from	O
+all	O
+five	O
+major	O
+record	B-CORP
+label	I-CORP
+.	O
+
+# id	b7876940-7372-4c58-b921-fe6a3b54d518	domain=dev
+the	O
+term	O
+was	O
+used	O
+in	O
+1961	O
+by	O
+the	O
+association	B-GRP
+for	I-GRP
+computing	I-GRP
+machinery	I-GRP
+(	O
+acm	O
+)	O
+,	O
+an	O
+academic	O
+and	O
+professional	O
+computer	O
+society	O
+.	O
+
+# id	3ba399fe-1975-4ba4-ba22-3eaa68a50fa9	domain=dev
+67	O
+points	O
+in	O
+1990	O
+were	O
+scored	O
+with	O
+the	O
+benetton	B-PROD
+b190	I-PROD
+
+# id	74e61ab4-8417-4bf1-a12d-f1673cd47067	domain=dev
+tells	O
+grumman	B-CORP
+story	O
+of	O
+building	O
+the	O
+lunar	O
+modules	O
+.	O
+
+# id	35efa4a6-0849-4b15-a15b-a46f22eb2e59	domain=dev
+the	O
+wing	O
+flew	O
+fairchild	B-PROD
+c-119	I-PROD
+flying	I-PROD
+boxcar	I-PROD
+troop	O
+carrier	O
+transports	O
+.	O
+
+# id	968b373c-bcf8-47f2-a4c2-bd88a4b327be	domain=dev
+they	O
+were	O
+designed	O
+for	O
+interim	O
+use	O
+until	O
+the	O
+m73	B-PROD
+machine	I-PROD
+gun	I-PROD
+could	O
+be	O
+fielded	O
+.	O
+
+# id	3fa0905e-cecb-4eee-9a70-2d0a864a3d37	domain=dev
+comarit	B-CORP
+(	O
+morocco	B-LOC
+–	O
+spain	B-LOC
+,	O
+france	B-LOC
+,	O
+italy	B-LOC
+)	O
+
+# id	450f5c32-66a8-4d32-b2c5-d2111c9d489e	domain=dev
+john	B-PER
+gay	I-PER
+’s	O
+18th	O
+century	O
+play	O
+,	O
+the	B-CW
+beggar's	I-CW
+opera	I-CW
+has	O
+been	O
+reconfigured	O
+into	O
+our	O
+not	O
+too	O
+distant	O
+future	O
+.	O
+
+# id	1e790174-fa90-4035-9e49-d538ed460a84	domain=dev
+its	O
+aircraft	O
+and	O
+crews	O
+also	O
+operate	O
+for	O
+its	O
+partly	O
+owned	O
+leisure	O
+subsidiary	O
+holiday	B-CORP
+europe	I-CORP
+.	O
+
+# id	8c9f58fc-553e-42b3-94f0-f523281365bc	domain=dev
+several	O
+court	O
+hearings	O
+against	O
+the	O
+pochayiv	B-GRP
+lavra	I-GRP
+also	O
+took	O
+place	O
+.	O
+
+# id	4fa4dcf6-6375-4132-9b85-c3982457da00	domain=dev
+on	O
+rotten	B-CORP
+tomatoes	I-CORP
+,	O
+it	O
+has	O
+a	O
+93	O
+%	O
+approval	O
+rating	O
+with	O
+an	O
+average	O
+rating	O
+of	O
+8.67	O
+out	O
+of	O
+10	O
+based	O
+on	O
+89	O
+reviews	O
+.	O
+
+# id	e54044db-2b72-4db9-93e6-c5cb95061489	domain=dev
+when	O
+cut	O
+or	O
+injured	O
+,	O
+this	O
+plant	O
+exudes	O
+a	O
+caustic	O
+latex	B-PROD
+that	O
+can	O
+burn	O
+the	O
+skin	O
+of	O
+a	O
+human	O
+who	O
+is	O
+not	O
+adequately	O
+protected	O
+.	O
+
+# id	13e8c639-97d9-4c5b-bfe5-12950ff16f97	domain=dev
+the	O
+largest	O
+use	O
+is	O
+as	O
+filler	B-PROD
+in	O
+powdered	O
+home	O
+laundry	O
+detergents	O
+,	O
+consuming	O
+approx	O
+.	O
+50	O
+%	O
+of	O
+world	O
+production	O
+.	O
+
+# id	564337f8-3c42-4b7b-8e8f-19515af8f175	domain=dev
+du	O
+borde	O
+tycka	O
+om	O
+mig	O
+is	O
+an	O
+album	B-CW
+by	O
+bo	B-GRP
+kaspers	I-GRP
+orkester	I-GRP
+,	O
+released	O
+in	O
+2012	O
+.	O
+
+# id	c7b96f02-9950-4021-a2a7-b7d4129b60ab	domain=dev
+the	O
+theatre	O
+'s	O
+most	O
+popular	O
+plays	O
+in	O
+this	O
+decade	O
+were	O
+diff	O
+rent	O
+by	O
+eugene	B-PER
+o'neill	I-PER
+and	O
+a	O
+production	O
+of	O
+six	B-CW
+characters	I-CW
+in	I-CW
+search	I-CW
+of	I-CW
+an	I-CW
+author	I-CW
+.	O
+
+# id	555fefa3-007b-4c08-bbb5-635fc135dc14	domain=dev
+green	O
+sold	O
+to	O
+life	B-CW
+magazine	O
+the	O
+rights	O
+of	O
+taking	O
+and	O
+publishing	O
+photos	O
+of	O
+the	O
+event	O
+.	O
+
+# id	31c7ebd6-949b-4fc1-89e8-6ecf2c8b4c54	domain=dev
+it	O
+is	O
+found	O
+in	O
+zimbabwe	B-LOC
+and	O
+south	B-LOC
+africa	I-LOC
+.	O
+
+# id	155ced12-ea0b-4058-8072-157ce41c6338	domain=dev
+the	O
+ferries	O
+are	O
+operated	O
+by	O
+caledonian	B-CORP
+macbrayne	I-CORP
+.	O
+serves	O
+the	O
+island	O
+year	O
+round	O
+,	O
+with	O
+providing	O
+additional	O
+sailings	O
+during	O
+the	O
+summer	O
+.	O
+
+# id	c967ecd3-4bd8-4460-a64a-f39ad9d191e9	domain=dev
+mistawasis	O
+further	O
+argued	O
+…	O
+that	O
+the	O
+queen	B-PER
+victoria	I-PER
+has	O
+offered	O
+us	O
+a	O
+way	O
+of	O
+life	O
+when	O
+the	O
+buffalo	O
+are	O
+no	O
+more	O
+.	O
+
+# id	866f4e19-ecb1-4eb5-8739-7d5377441caf	domain=dev
+many	O
+of	O
+the	O
+protests	O
+were	O
+orchestrated	O
+by	O
+the	O
+iraqi	B-GRP
+communist	I-GRP
+party	I-GRP
+.	O
+
+# id	16536165-d52a-4219-a487-f64e540f7eb8	domain=dev
+regalbuto	O
+also	O
+was	O
+an	O
+early	O
+spokesman	O
+for	O
+directv	B-CORP
+when	O
+it	O
+first	O
+came	O
+out	O
+.	O
+
+# id	72c906fb-f590-4a98-93b7-b8573167d088	domain=dev
+michael	B-PER
+boddicker	I-PER
+–	O
+synthesizer	O
+(	O
+1	O
+,	O
+4	O
+,	O
+5	O
+,	O
+7	O
+,	O
+9	O
+,	O
+10	O
+)	O
+
+# id	a5258213-b91e-4ecd-8f97-a8f2c12294e0	domain=dev
+he	O
+also	O
+worked	O
+the	O
+single	O
+game	O
+playoff	O
+to	O
+decide	O
+the	O
+american	B-GRP
+league	I-GRP
+west	I-GRP
+champion	O
+in	O
+.	O
+
+# id	df03450a-b34e-4f00-8ce4-605394cf99c4	domain=dev
+their	O
+final	O
+show	O
+of	O
+that	O
+tour	O
+was	O
+at	O
+webster	B-CORP
+hall	I-CORP
+in	O
+new	B-LOC
+york	I-LOC
+city	I-LOC
+.	O
+
+# id	4d75ee5d-fa67-4828-82b6-485505f85922	domain=dev
+riding	O
+jacket	O
+,	O
+part	O
+of	O
+a	O
+riding	B-PROD
+habit	I-PROD
+
+# id	85f7f169-a04c-4603-a1e9-aa86d71979ab	domain=dev
+according	O
+to	O
+google	B-CW
+scholar	I-CW
+,	O
+his	O
+four	O
+most	O
+cited	O
+articles	O
+are	O
+:	O
+
+# id	b5be75b8-1808-4515-b0d2-32fea36da8cb	domain=dev
+singh	O
+stood	O
+as	O
+the	O
+indian	B-GRP
+national	I-GRP
+congress	I-GRP
+candidate	O
+in	O
+the	O
+safdarjung	B-LOC
+constituency	O
+.	O
+
+# id	235033e8-0f00-46fa-b38d-2d78eb7c6984	domain=dev
+the	O
+case	O
+,	O
+which	O
+remains	O
+unsolved	O
+,	O
+would	O
+be	O
+the	O
+subject	O
+47	O
+years	O
+later	O
+in	O
+a	O
+netflix	B-CORP
+documentary	O
+television	O
+series	O
+,	O
+the	B-CW
+keepers	I-CW
+.	O
+
+# id	d8c94184-11b2-401f-92c1-961dfc9eb516	domain=dev
+according	O
+to	O
+the	O
+united	B-GRP
+states	I-GRP
+census	I-GRP
+bureau	I-GRP
+,	O
+the	O
+city	O
+has	O
+a	O
+total	O
+area	O
+of	O
+,	O
+all	O
+land	O
+.	O
+
+# id	17f880ec-815b-4fbb-b8f2-a1a10c3a502a	domain=dev
+it	O
+ended	O
+the	O
+activities	O
+of	O
+the	O
+east	B-CORP
+india	I-CORP
+company	I-CORP
+as	O
+a	O
+commercial	O
+body	O
+and	O
+it	O
+became	O
+a	O
+purely	O
+administrative	O
+body	O
+.	O
+
+# id	ea3c0c16-0c47-4d37-ab4b-c863d636687e	domain=dev
+joanne	B-PER
+missingham	I-PER
+is	O
+known	O
+for	O
+her	O
+protests	O
+to	O
+this	O
+issue	O
+.	O
+
+# id	f18642e5-8c62-405d-8db0-d3f413cdb7fc	domain=dev
+he	O
+was	O
+also	O
+reported	O
+to	O
+film	B-CW
+score	I-CW
+an	O
+upcoming	O
+television	O
+series	O
+.	O
+
+# id	e839af4d-560a-4d66-93b7-fa8267225df4	domain=dev
+the	O
+show	O
+'s	O
+trophy	O
+girls	O
+were	O
+lexus	B-PER
+locklear	I-PER
+and	O
+lisa	B-PER
+ann	I-PER
+.	O
+
+# id	33ac1171-75ca-4eb7-b0ae-52ba787a4eea	domain=dev
+in	O
+1910	O
+she	O
+joined	O
+the	O
+theosophical	B-GRP
+society	I-GRP
+.	O
+
+# id	1a34e97c-3542-4b4b-8377-f755d5313365	domain=dev
+powers	O
+the	O
+tupolev	B-PROD
+tu-160	I-PROD
+and	O
+the	O
+later	O
+models	O
+of	O
+the	O
+tupolev	B-PROD
+tu-144	I-PROD
+.	O
+
+# id	bf77b1c5-5958-4e0b-befd-926c919f654a	domain=dev
+his	O
+next	O
+move	O
+was	O
+to	O
+the	O
+university	B-GRP
+of	I-GRP
+california,	I-GRP
+los	I-GRP
+angeles	I-GRP
+as	O
+assistant	O
+virologist	O
+where	O
+he	O
+spent	O
+three	O
+years	O
+.	O
+
+# id	daab5ce4-cb3e-429b-a0ee-15dd61f6cf0a	domain=dev
+in	O
+1975	O
+,	O
+he	O
+enjoyed	O
+further	O
+success	O
+with	O
+the	O
+release	O
+of	O
+dog	B-CW
+day	I-CW
+afternoon	I-CW
+,	O
+based	O
+on	O
+the	O
+true	O
+story	O
+of	O
+bank	O
+robber	O
+john	B-PER
+wojtowicz	I-PER
+.	O
+
+# id	051d12c7-1d8a-4cd5-b3d1-1cf0f13c2887	domain=dev
+it	O
+has	O
+an	O
+excellent	O
+infrastructure	O
+,	O
+especially	O
+well	O
+developed	O
+for	O
+wine	B-PROD
+production	O
+.	O
+
+# id	4a7308f6-27d8-46f3-9acd-f59399198c47	domain=dev
+for	O
+the	O
+men	O
+'s	O
+marathon	O
+,	O
+each	O
+national	B-GRP
+olympic	I-GRP
+committee	I-GRP
+was	O
+permitted	O
+to	O
+enter	O
+up	O
+to	O
+three	O
+athletes	O
+that	O
+had	O
+run	O
+the	O
+race	O
+in	O
+2	O
+:	O
+15	O
+:	O
+00	O
+or	O
+faster	O
+during	O
+the	O
+qualification	O
+period	O
+.	O
+
+# id	2870f3d7-5abd-44cc-b060-b0503072dc20	domain=dev
+in	O
+1162	O
+a.h.	O
+(	O
+~	O
+1748	O
+ce	O
+)	O
+it	O
+was	O
+fortified	O
+by	O
+daher	B-PER
+el-omar	I-PER
+,	O
+and	O
+traces	O
+of	O
+the	O
+wall	O
+still	O
+existed	O
+in	O
+the	O
+late	O
+19th	O
+century	O
+.	O
+
+# id	ff72397d-d0b4-4793-a752-6723520e2916	domain=dev
+the	O
+character	O
+was	O
+originally	O
+played	O
+by	O
+mitr	B-PER
+chaibancha	I-PER
+who	O
+died	O
+shooting	O
+the	O
+last	O
+scene	O
+in	O
+the	O
+1960s	O
+film	O
+series	O
+of	O
+the	O
+same	O
+name	O
+.	O
+
+# id	6121befb-06e6-4edb-aa5f-98c350682ed1	domain=dev
+they	O
+began	O
+their	O
+collaboration	O
+by	O
+producing	O
+electronic	O
+soundtracks	O
+for	O
+self	O
+made	O
+video	B-CW
+art	I-CW
+in	O
+the	O
+early	O
+1990s	O
+.	O
+
+# id	41049854-d50c-4997-acf4-725d4dc2b392	domain=dev
+the	O
+designation	O
+stands	O
+for	O
+andrey	B-PER
+andreyev	I-PER
+(	O
+who	O
+sponsored	O
+its	O
+construction	O
+)	O
+,	O
+20	O
+ton	O
+axle	O
+load	O
+.	O
+
+# id	0481a443-0712-46da-90e0-59169e876723	domain=dev
+he	O
+published	O
+monographs	O
+on	O
+contemporary	O
+artists	O
+,	O
+and	O
+a	O
+catalogue	O
+raisonnee	O
+of	O
+the	O
+works	O
+of	O
+his	O
+friend	O
+the	O
+painter	O
+l.	B-PER
+s.	I-PER
+lowry	I-PER
+.	O
+
+# id	e5872941-4b7f-4057-86fd-2c5970a0f781	domain=dev
+he	O
+amassed	O
+laliga	B-CORP
+totals	O
+of	O
+144	O
+games	O
+and	O
+101	O
+goals	O
+,	O
+with	O
+athletic	B-GRP
+club	I-GRP
+and	O
+real	B-GRP
+betis	I-GRP
+balompié	I-GRP
+.	O
+
+# id	9a1e91e9-9bf9-47d2-b4c1-1336df3b7e41	domain=dev
+later	O
+influences	O
+were	O
+tracy	B-PER
+chapman	I-PER
+,	O
+ray	B-PER
+lamontagne	I-PER
+,	O
+damien	B-PER
+rice	I-PER
+,	O
+gillian	B-PER
+welch	I-PER
+,	O
+ron	B-PER
+sexsmith	I-PER
+,	O
+and	O
+the	B-GRP
+shins	I-GRP
+.	O
+
+# id	898752d4-c2de-46d9-8d0b-d3fd4f0d7a4e	domain=dev
+she	O
+shared	O
+the	O
+role	O
+with	O
+charlize	B-PER
+theron	I-PER
+,	O
+who	O
+played	O
+the	O
+older	O
+version	O
+of	O
+her	O
+character	O
+.	O
+
+# id	2c0beca4-00b7-4c47-a67b-f2de6fd526e9	domain=dev
+beroe	O
+'s	O
+heaviest	O
+defeat	O
+,	O
+2	O
+–	O
+10	O
+,	O
+came	O
+against	O
+pfc	B-GRP
+cska	I-GRP
+-	I-GRP
+sofia	I-GRP
+in	O
+1991	O
+–	O
+92	O
+.	O
+
+# id	3a35be13-c7f6-459c-a891-34ca50dabc10	domain=dev
+during	O
+the	O
+period	O
+1993	O
+1997	O
+,	O
+he	O
+worked	O
+with	O
+per	B-PER
+magnusson	I-PER
+on	O
+several	O
+projects	O
+.	O
+
+# id	6cdceae2-03f7-4755-859c-ea29caa8b2db	domain=dev
+sidlow	O
+featured	O
+in	O
+the	O
+pre	O
+season	O
+friendly	O
+against	O
+leeds	B-GRP
+rhinos	I-GRP
+.	O
+
+# id	e1555679-059c-401d-8a61-d8ef6113969e	domain=dev
+asmedia	O
+technology	O
+inc	O
+.	O
+(	O
+)	O
+is	O
+a	O
+taiwan	B-LOC
+integrated	B-PROD
+circuit	I-PROD
+design	O
+company	O
+owned	O
+by	O
+asus	B-CORP
+.	O
+
+# id	a52ab7f4-fe0a-4b4e-8589-70cacd6a707e	domain=dev
+online	O
+–	O
+is	O
+modelled	O
+after	O
+entertainment	B-CW
+weekly	I-CW
+e	O
+!	O
+
+# id	bcdb3bfe-55d6-4dee-92b6-17b84f72d37d	domain=dev
+he	O
+was	O
+lord	O
+of	O
+wijngaarden	B-LOC
+from	O
+an	O
+unknown	O
+date	O
+.	O
+
+# id	bd737776-efb5-441e-be68-6806c4ca1c48	domain=dev
+the	O
+state	O
+was	O
+the	O
+first	O
+to	O
+adopt	O
+the	O
+electric	B-PROD
+chair	I-PROD
+as	O
+a	O
+method	O
+of	O
+execution	O
+,	O
+which	O
+replaced	O
+hanging	O
+.	O
+
+# id	e923d63d-f63e-4068-ba2c-0281d2b16747	domain=dev
+he	O
+requested	O
+that	O
+his	O
+occupation	O
+on	O
+his	O
+death	B-CW
+record	I-CW
+be	O
+listed	O
+as	O
+pirate	O
+.	O
+
+# id	606de022-384f-4c5d-9745-7762dba5e535	domain=dev
+the	O
+other	O
+two	O
+on	O
+display	O
+are	O
+located	O
+in	O
+manitou	B-LOC
+springs	I-LOC
+:	O
+one	O
+(	O
+no	O
+.	O
+2	O
+)	O
+near	O
+city	O
+hall	O
+and	O
+the	O
+other	O
+(	O
+no	O
+.	O
+5	O
+)	O
+at	O
+the	O
+manitou	B-LOC
+and	I-LOC
+pike's	I-LOC
+peak	I-LOC
+railway	I-LOC
+depot	O
+.	O
+
+# id	7b3da029-cec1-4cae-8db3-c89c43904e04	domain=dev
+he	O
+was	O
+a	O
+specialist	O
+of	O
+polybius	B-PER
+and	O
+cicero	B-PER
+.	O
+
+# id	0ba66c67-7d38-4102-8dd6-1494ffe6b680	domain=dev
+he	O
+joined	O
+doncaster	B-GRP
+rovers	I-GRP
+f.c.	I-GRP
+in	O
+the	O
+summer	O
+of	O
+2005	O
+for	O
+£	O
+125,000	O
+,	O
+which	O
+was	O
+then	O
+a	O
+new	O
+record	O
+transfer	O
+fee	O
+paid	O
+by	O
+the	O
+club	O
+.	O
+
+# id	74ebcc24-7901-43a7-8e12-18dac65a5fe0	domain=dev
+sunderland	B-LOC
+bridge	I-LOC
+,	O
+village	O
+near	O
+the	O
+bridge	O
+
+# id	756a9380-6a42-4256-8f73-5c0f32deee3c	domain=dev
+in	O
+1964	O
+the	O
+railway	O
+needed	O
+more	O
+equipment	O
+,	O
+but	O
+general	B-CORP
+electric	I-CORP
+was	O
+not	O
+interested	O
+in	O
+the	O
+business	O
+.	O
+
+# id	9a2f6991-2adc-498e-ac3a-e36b60141b4f	domain=dev
+the	O
+show	O
+was	O
+also	O
+described	O
+as	O
+having	O
+similarities	O
+to	O
+leverage	B-CW
+.	O
+
+# id	f8ae87b3-5d1f-47e3-911f-68f3627f3bce	domain=dev
+nationality	O
+words	O
+link	O
+to	O
+articles	O
+with	O
+information	O
+on	O
+the	O
+nation	O
+'s	O
+poetry	O
+or	O
+literature	O
+(	O
+for	O
+instance	O
+,	O
+irish	B-CW
+poetry	I-CW
+or	O
+french	B-CW
+poetry	I-CW
+)	O
+.	O
+
+# id	f9a502c0-c0d0-4fef-8d52-838a4592fb7f	domain=dev
+this	O
+tipped	O
+off	O
+beijing	B-LOC
+that	O
+taipei	B-LOC
+had	O
+a	O
+high	O
+level	O
+mole	O
+working	O
+on	O
+the	O
+mainland	O
+.	O
+
+# id	9c02c61a-b38c-42cf-8fed-d4e75235f8f6	domain=dev
+november	O
+:	O
+david	B-PER
+toro	I-PER
+overthrows	O
+the	O
+government	O
+of	O
+bolivia	B-LOC
+in	O
+a	O
+military	O
+coup	O
+.	O
+
+# id	6db71af9-30b3-4c32-9790-e2c9c7c4aba8	domain=dev
+it	O
+was	O
+listed	O
+on	O
+the	O
+national	B-GRP
+register	I-GRP
+of	I-GRP
+historic	I-GRP
+places	I-GRP
+in	O
+2012	O
+.	O
+
+# id	10c73396-fe21-47ef-8985-3e9e520d9a00	domain=dev
+at	O
+about	O
+that	O
+same	O
+time	O
+he	O
+was	O
+also	O
+an	O
+invitee	O
+to	O
+the	O
+team	B-GRP
+america	I-GRP
+try	O
+outs	O
+,	O
+but	O
+did	O
+not	O
+make	O
+the	O
+squad	O
+.	O
+
+# id	2fb839b6-bab7-4c50-8d6b-eecf0d49b385	domain=dev
+when	O
+detective	O
+garda	O
+ben	O
+o	O
+sullivan	O
+noticed	O
+a	O
+mitsubishi	B-PROD
+pajero	I-PROD
+heading	O
+towards	O
+them	O
+from	O
+behind	O
+.	O
+
+# id	35ab76ad-45ac-4809-a526-b7c82d51bbca	domain=dev
+directed	O
+by	O
+chris	B-PER
+weitz	I-PER
+,	O
+the	O
+production	O
+had	O
+a	O
+mixed	O
+reception	O
+,	O
+and	O
+though	O
+worldwide	O
+sales	O
+were	O
+strong	O
+,	O
+its	O
+u.s.	O
+earnings	O
+were	O
+not	O
+as	O
+high	O
+as	O
+the	O
+studio	O
+had	O
+hoped	O
+.	O
+
+# id	34ed4caa-d520-4f3d-b358-7509ade5f95e	domain=dev
+it	O
+was	O
+painted	O
+at	O
+the	O
+height	O
+of	O
+the	O
+artist	O
+'s	O
+stay	O
+in	O
+paris	B-LOC
+from	O
+1621	O
+to	O
+1640	O
+/	O
+1641	O
+.	O
+
+# id	cc6d9ec1-537c-451e-9342-d3f9975db35b	domain=dev
+his	O
+father	O
+operated	O
+a	O
+sawmill	B-CORP
+.	O
+
+# id	248eb975-23b5-410d-837e-1112b5fa56c0	domain=dev
+fk	B-GRP
+bregalnica	I-GRP
+štip	I-GRP
+(	O
+fourth	O
+placed	O
+;	O
+won	O
+play	O
+off	O
+match	O
+)	O
+
+# id	665951f3-6e04-4536-8bf3-ec2935dfc673	domain=dev
+paulson	O
+'s	O
+career	O
+as	O
+a	O
+record	O
+producer	O
+did	O
+nt	O
+take	O
+off	O
+until	O
+he	O
+recorded	O
+slint	B-GRP
+final	O
+album	O
+,	O
+spiderland	B-CW
+.	O
+
+# id	7aa8e890-d23d-44cd-99c3-e68949fd2331	domain=dev
+(	O
+this	O
+new	O
+stock	O
+was	O
+eventually	O
+classified	O
+british	B-PROD
+rail	I-PROD
+class	I-PROD
+487	I-PROD
+.	O
+)	O
+
+# id	8b1a7071-8497-4341-b0f5-3de7d3898bfc	domain=dev
+in	O
+2013	O
+,	O
+she	O
+was	O
+in	O
+american	B-CW
+horror	I-CW
+story:	I-CW
+asylum	I-CW
+.	O
+
+# id	906b9d05-a0d7-40ab-ad88-3b19ec698b24	domain=dev
+it	O
+criticized	O
+stores	O
+for	O
+featuring	O
+the	O
+magazine	O
+on	O
+the	O
+bottom	O
+shelf	O
+alongside	O
+conventional	O
+children	O
+'s	O
+comics	O
+such	O
+as	O
+postman	B-CW
+pat	I-CW
+.	O
+
+# id	b26e8b69-029a-43af-b49e-0927ba76512e	domain=dev
+production	O
+companies	O
+expected	O
+to	O
+be	O
+involved	O
+with	O
+the	O
+series	O
+included	O
+universal	B-GRP
+television	I-GRP
+.	O
+
+# id	46466838-22f4-417a-8163-639a94dd1ba4	domain=dev
+named	O
+after	O
+the	O
+river	O
+tarn	B-LOC
+,	O
+it	O
+had	O
+a	O
+population	O
+of	O
+387,890	O
+as	O
+of	O
+2017	O
+.	O
+
+# id	736fab1d-67ce-41dd-bae8-b66ec55bc14b	domain=dev
+ign	B-CORP
+described	O
+the	O
+game	O
+'s	O
+puzzles	O
+as	O
+run	O
+of	O
+the	O
+mill	O
+and	O
+complained	O
+of	O
+the	O
+lack	O
+of	O
+audio	O
+in	O
+certain	O
+sections	O
+of	O
+the	O
+game	O
+.	O
+
+# id	1da2f18c-67fc-46c4-abee-87a3918a2da9	domain=dev
+#	O
+i	B-CW
+should	I-CW
+care	I-CW
+(	O
+axel	B-PER
+stordahl	I-PER
+,	O
+paul	B-PER
+weston	I-PER
+,	O
+sammy	B-PER
+cahn	I-PER
+)	O
+
+# id	5fb7126d-32e4-4f70-88d8-d8006207fae2	domain=dev
+the	O
+president	O
+also	O
+travel	O
+in	O
+a	O
+heavily	O
+armored	O
+2007	O
+–	O
+2014	O
+model	O
+chevrolet	B-PROD
+suburban	I-PROD
+xd	I-PROD
+and	O
+a	O
+spare	O
+.	O
+
+# id	23c39570-8e4b-45e8-a946-0d5177f9e8db	domain=dev
+in	O
+puerto	B-LOC
+maldonado	I-LOC
+,	O
+more	O
+than	O
+twenty	O
+people	O
+were	O
+detained	O
+and	O
+one	O
+journalist	O
+was	O
+injured	O
+during	O
+demonstrations	O
+.	O
+
+# id	51a6f0cb-a757-42a2-8329-9b6b7153f26c	domain=dev
+he	O
+subsequently	O
+worked	O
+in	O
+the	O
+firearms	O
+industry	O
+,	O
+including	O
+at	O
+colt's	B-CORP
+manufacturing	I-CORP
+company	I-CORP
+.	O
+
+# id	41d6f286-7539-4934-9d8b-82710f1b7a51	domain=dev
+each	O
+episode	O
+involves	O
+a	O
+pearl	O
+handled	O
+.45	O
+semi-automatic	B-PROD
+pistol	I-PROD
+as	O
+an	O
+important	O
+part	O
+of	O
+the	O
+plot	O
+.	O
+
+# id	7c3d15c4-b194-4d92-9513-4be2d594381a	domain=dev
+it	O
+is	O
+found	O
+in	O
+paraná	B-LOC
+,	O
+brazil	B-LOC
+.	O
+
+# id	80673806-0539-4743-8cce-bd73c1f2c521	domain=dev
+vocal	O
+producer	O
+,	O
+audio	O
+engineer	O
+(	O
+rose	B-CW
+colored	I-CW
+glasses	I-CW
+)	O
+
+# id	743e377c-ec98-4a73-aff9-9204a2fe0471	domain=dev
+both	O
+were	O
+used	O
+in	O
+the	O
+cadillac	B-PROD
+v-16	I-PROD
+automobile	O
+,	O
+the	O
+first	O
+from	O
+1930	O
+until	O
+1937	O
+,	O
+and	O
+the	O
+second	O
+between	O
+1938	O
+and	O
+1940	O
+.	O
+
+# id	1605a3f8-f00c-44a5-827b-4f0a81c8619b	domain=dev
+secured	O
+file	B-CW
+allocation	I-CW
+table	I-CW
+partition	O
+(	O
+smaller	O
+than	O
+32	O
+mb	O
+)	O
+
+# id	345ea54c-38ab-489c-b7fc-d23452c0cb2b	domain=dev
+guitar	B-CW
+hero:	I-CW
+aerosmith	I-CW
+is	O
+a	O
+music	B-CW
+video	I-CW
+game	I-CW
+developed	O
+by	O
+neversoft	B-CORP
+and	O
+published	O
+by	O
+activision	B-CORP
+publishing	I-CORP
+.	O
+
+# id	5c12730b-5cf7-43b1-83a5-24a8930408fe	domain=dev
+he	O
+studied	O
+law	O
+at	O
+the	O
+university	B-GRP
+of	I-GRP
+toronto	I-GRP
+,	O
+however	O
+his	O
+fascination	O
+with	O
+sports	O
+diverted	O
+him	O
+away	O
+from	O
+that	O
+career	O
+path	O
+.	O
+
+# id	a688c03a-bc3e-4585-a2af-d4207929ed5d	domain=dev
+following	O
+his	O
+release	O
+he	O
+was	O
+invited	O
+on	O
+trial	O
+by	O
+premier	B-CORP
+league	I-CORP
+side	O
+burnley	B-GRP
+f.c.	I-GRP
+after	O
+hearing	O
+of	O
+his	O
+availability	O
+.	O
+
+# id	3a39fedc-5706-4860-b713-98117f1d2ca2	domain=dev
+british	O
+patent	O
+no	O
+.	O
+288,680	O
+was	O
+granted	O
+in	O
+1928	O
+,	O
+but	O
+the	O
+forerunner	O
+of	O
+videotape	B-PROD
+was	O
+never	O
+manufactured	O
+.	O
+
+# id	f0de8d84-bb9c-4092-b4aa-73f844980bb6	domain=dev
+kabukuru	O
+has	O
+walked	O
+for	O
+fashion	O
+houses	O
+including	O
+christian	B-CORP
+dior	I-CORP
+s.a.	I-CORP
+,	O
+versace	B-CORP
+,	O
+calvin	B-PER
+klein	I-PER
+,	O
+chanel	B-CORP
+,	O
+and	O
+balmain	B-CORP
+.	O
+
+# id	ffd47c24-6e7f-42bb-a882-db340df4e191	domain=dev
+costello	O
+appeared	O
+in	O
+documentaries	O
+about	O
+singers	O
+dusty	B-PER
+springfield	I-PER
+,	O
+brian	B-PER
+wilson	I-PER
+,	O
+wanda	B-PER
+jackson	I-PER
+,	O
+ron	B-PER
+sexsmith	I-PER
+and	O
+memphis	B-LOC
+based	O
+stax	B-CORP
+.	O
+
+# id	a63f83f5-893f-4726-92dd-bdff2b064119	domain=dev
+ipad	B-PROD
+(2020)	I-PROD
+,	O
+successor	O
+to	O
+the	O
+2019	O
+model	O
+
+# id	248cdb12-bbd1-4213-a4f0-df36a5a16dfd	domain=dev
+as	O
+with	O
+the	O
+previous	O
+year	O
+'s	O
+entry	O
+,	O
+the	O
+haas	B-PROD
+vf-19	I-PROD
+,	O
+the	O
+car	O
+has	O
+struggled	O
+with	O
+consistency	O
+issues	O
+.	O
+
+# id	2235e405-4a34-4898-aa5a-e5346b96d16b	domain=dev
+replacing	O
+zara	B-PER
+cully	I-PER
+and	O
+damon	B-PER
+evans	I-PER
+,	O
+jay	B-PER
+hammer	I-PER
+joins	O
+the	O
+cast	O
+of	O
+the	O
+cbs	B-CORP
+comedy	O
+the	B-CW
+jeffersons	I-CW
+,	O
+for	O
+a	O
+short	O
+period	O
+of	O
+time	O
+.	O
+
+# id	ad4dff8a-2abc-473f-a633-b44b0ee2e040	domain=dev
+image	O
+:	O
+yarmouthstation1	O
+.	O
+jpg	O
+|	O
+looking	O
+across	O
+to	O
+asda	B-CORP
+where	O
+the	O
+old	O
+rail	O
+yards	O
+were	O
+.	O
+
+# id	75b5fafd-b7d5-4900-85de-94604f72fef1	domain=dev
+she	O
+compensates	O
+the	O
+lack	O
+of	O
+ice	O
+with	O
+training	O
+on	O
+roller	B-PROD
+skate	I-PROD
+and	O
+temporarily	O
+finds	O
+work	O
+as	O
+a	O
+tanker	O
+at	O
+a	O
+gas	O
+station	O
+.	O
+
+# id	0d353d67-d0c0-4854-9cd0-15ca7d27e7ce	domain=dev
+born	O
+to	O
+a	O
+musical	O
+family	O
+that	O
+includes	O
+johan	B-PER
+wagenaar	I-PER
+,	O
+he	O
+began	O
+playing	O
+piano	O
+at	O
+the	O
+age	O
+of	O
+eight	O
+and	O
+by	O
+the	O
+time	O
+he	O
+was	O
+fourteen	O
+had	O
+set	O
+his	O
+sights	O
+on	O
+a	O
+musical	O
+vocation	O
+.	O
+
+# id	609d0aa7-ff34-40bf-b2e7-cd8be7237d4c	domain=dev
+ledeberg	O
+is	O
+a	O
+submunicipality	O
+of	O
+the	O
+city	O
+of	O
+ghent	B-LOC
+.	O
+
+# id	f10899d3-7b33-470f-8d96-168027a7a8f2	domain=dev
+the	O
+end	O
+of	O
+the	O
+run	O
+was	O
+marked	O
+by	O
+the	O
+limited	O
+edition	O
+(	O
+25	O
+examples	O
+only	O
+)	O
+3.9	O
+litre	O
+tvr	B-PROD
+350se	I-PROD
+of	O
+1990	O
+91	O
+.	O
+
+# id	a9834937-7f0f-4eec-92a0-cd244689043f	domain=dev
+goodies	O
+is	O
+heavily	O
+influenced	O
+by	O
+male	O
+counterpart	O
+crunk	O
+song	O
+yeah!	B-CW
+and	O
+also	O
+has	O
+been	O
+compared	O
+to	O
+kelis	B-PER
+milkshake	B-CW
+.	O
+
+# id	70ea6129-9e42-4050-82df-176124b2acf6	domain=dev
+this	O
+was	O
+exemplified	O
+in	O
+his	O
+1948	O
+takeover	O
+of	O
+the	O
+barcelona	B-CORP
+traction,	I-CORP
+light	I-CORP
+and	I-CORP
+power	I-CORP
+(	O
+btlp	O
+)	O
+for	O
+a	O
+small	O
+fraction	O
+of	O
+its	O
+real	O
+worth	O
+.	O
+
+# id	31945ce5-72c8-499e-b507-46329e8c4872	domain=dev
+the	O
+review	O
+aggregation	O
+website	O
+rotten	B-CORP
+tomatoes	I-CORP
+reports	O
+that	O
+55	O
+%	O
+of	O
+critics	O
+gave	O
+the	O
+film	O
+a	O
+positive	O
+review	O
+based	O
+on	O
+56	O
+reviews	O
+,	O
+with	O
+an	O
+average	O
+score	O
+of	O
+5.91	O
+/	O
+10	O
+.	O
+
+# id	ba401673-a370-4856-b01a-e8b78eaca8b4	domain=dev
+based	O
+on	O
+the	O
+u.s	O
+subscription	O
+networks	O
+techtv	B-CORP
+and	O
+g4	B-CORP
+,	O
+the	O
+channel	O
+was	O
+originally	O
+focused	O
+on	O
+technology	O
+themed	O
+programming	O
+.	O
+
+# id	cb1ee3db-062c-43c0-abec-09b53ac6803e	domain=dev
+castaway	O
+island	O
+:	O
+where	O
+the	O
+castaways	O
+live	O
+in	O
+pirate	B-CW
+islands	I-CW
+
+# id	8f5272b4-a460-42a4-8595-446507ebc92d	domain=dev
+his	O
+next	O
+film	O
+roles	O
+,	O
+in	O
+1998	O
+,	O
+were	O
+kissing	B-CW
+a	I-CW
+fool	I-CW
+,	O
+six	B-CW
+days	I-CW
+seven	I-CW
+nights	I-CW
+,	O
+and	O
+apt	B-CW
+pupil	I-CW
+.	O
+
+# id	b6ccd642-f9ea-4d29-b733-3c10307aca3d	domain=dev
+men	O
+'s	O
+halfpipe	O
+overall	O
+winner	O
+:	O
+scotty	B-PER
+lago	I-PER
+.	O
+
+# id	4429c910-578c-4322-8b0a-66f9f1d21d18	domain=dev
+grant	O
+died	O
+in	O
+1943	O
+,	O
+in	O
+the	O
+same	O
+house	O
+he	O
+was	O
+born	O
+in	O
+on	O
+davey	B-LOC
+street	I-LOC
+.	O
+
+# id	97d43f3a-3fd8-4510-8dd4-8fb8b10f639d	domain=dev
+no	B-CW
+deposit,	I-CW
+no	I-CW
+return	I-CW
+,	O
+starring	O
+david	B-PER
+niven	I-PER
+,	O
+darren	B-PER
+mcgavin	I-PER
+,	O
+don	B-PER
+knotts	I-PER
+,	O
+barbara	B-PER
+feldon	I-PER
+,	O
+kim	B-PER
+richards	I-PER
+
+# id	c39323ae-13d3-4fce-9142-397ebb0889ac	domain=dev
+this	O
+appearance	O
+broke	O
+his	O
+12	O
+years	O
+of	O
+silence	O
+;	O
+after	O
+that	O
+testimony	O
+,	O
+he	O
+gave	O
+an	O
+interview	O
+to	O
+the	O
+zagreb	B-LOC
+based	O
+globus	B-CW
+news	O
+magazine	O
+.	O
+
+# id	126f2b7e-c2ff-499b-b069-cc7e6f3c4084	domain=dev
+established	O
+in	O
+1973	O
+,	O
+the	O
+league	O
+has	O
+grown	O
+in	O
+popularity	O
+over	O
+the	O
+years	O
+,	O
+with	O
+national	B-CORP
+basketball	I-CORP
+association	I-CORP
+players	O
+regularly	O
+participating	O
+in	O
+its	O
+games	O
+.	O
+
+# id	6cf9b951-7430-4f25-9973-a0266cc37276	domain=dev
+the	O
+fork	O
+is	O
+initially	O
+held	O
+unseen	O
+by	O
+the	O
+magician	O
+,	O
+who	O
+introduces	O
+the	O
+trick	O
+and	O
+produces	O
+a	O
+handkerchief	B-PROD
+.	O
+
+# id	4bbc4e0a-d414-4964-a834-c79816b31259	domain=dev
+wallace	O
+started	O
+his	O
+career	O
+as	O
+a	O
+real	O
+estate	O
+analyst	O
+at	O
+goldman	B-CORP
+sachs	I-CORP
+and	O
+worked	O
+for	O
+the	B-CORP
+blackstone	I-CORP
+group	I-CORP
+real	O
+estate	O
+division	O
+.	O
+
+# id	144a6b0f-3391-49eb-9a69-322a7ecc0c70	domain=dev
+he	O
+made	O
+his	O
+debut	O
+on	O
+the	O
+same	O
+day	O
+in	O
+a	O
+2	O
+–	O
+2	O
+draw	O
+against	O
+sheffield	B-GRP
+united	I-GRP
+f.c.	I-GRP
+.	O
+
+# id	75b2a2c4-2893-4fe9-8670-c31879698aed	domain=dev
+all	O
+tracks	O
+vocal	O
+are	O
+produced	O
+by	O
+mike	B-PER
+crossey	I-PER
+.	O
+
+# id	09e48814-3d3b-4b4f-aa6b-fa3ea7d1bc22	domain=dev
+she	O
+was	O
+nine	O
+years	O
+younger	O
+than	O
+her	O
+brother	O
+thomas	B-PER
+jefferson	I-PER
+.	O
+
+# id	eeafd3c0-c463-4f2f-ba43-ecf306e76fba	domain=dev
+the	O
+single	O
+player	O
+mode	O
+is	O
+a	O
+video	B-CW
+game	I-CW
+remake	I-CW
+of	O
+the	O
+2001	O
+game	O
+conker's	B-CW
+bad	I-CW
+fur	I-CW
+day	I-CW
+for	O
+the	O
+nintendo	B-PROD
+64	I-PROD
+.	O
+
+# id	8db9cb63-4bf8-4222-809b-5b2954fb8f48	domain=dev
+he	O
+moved	O
+to	O
+framingham	B-LOC
+,	O
+at	O
+the	O
+age	O
+of	O
+five	O
+with	O
+his	O
+widowed	O
+mother	O
+.	O
+
+# id	972392a4-5230-4662-b7fb-2d8433f5ce6f	domain=dev
+file	O
+:	O
+shane	O
+gould	O
+.	O
+jpg	O
+|	O
+shane	B-PER
+gould	I-PER
+,	O
+winner	O
+of	O
+the	O
+200	O
+metre	O
+freestyle	O
+,	O
+400	O
+metre	O
+freestyle	O
+,	O
+and	O
+200	O
+metre	O
+individual	O
+medley	O
+.	O
+
+# id	3435438b-cdee-415c-b71e-48d037adfdd5	domain=dev
+there	O
+are	O
+local	O
+variants	O
+of	O
+kyselo	O
+in	O
+krkonoše	O
+:	O
+without	O
+eggs	O
+or	O
+with	O
+boiled	B-PROD
+egg	I-PROD
+,	O
+boiled	O
+but	O
+not	O
+roasted	O
+potatoes	O
+,	O
+with	O
+or	O
+without	O
+cream	O
+,	O
+etc	O
+.	O
+
+# id	887d0a1e-d9b7-40a4-b183-f58f5ad62024	domain=dev
+he	O
+performs	O
+vaudeville	B-CW
+style	O
+singing	O
+,	O
+magic	O
+and	O
+dancing	O
+,	O
+often	O
+with	O
+burlesque	B-CW
+and	O
+other	O
+variety	O
+performers	O
+.	O
+

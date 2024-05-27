@@ -36,8 +36,6 @@ def mean_pooling(model_output, attention_mask):
     input_mask_expanded = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
     return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(input_mask_expanded.sum(1), min=1e-9)
 
-#srun --pty --gres=gpu:rtxa6000:4 -c 8 --mem=128G -q high --time=1-00:00:00 bash
-
 def remove_special_characters(text):
     pat = r'[^a-zA-z0-9.\-\_,!?/:;\"\'\s]'
     new_text =  re.sub(pat, '', text)
@@ -136,63 +134,22 @@ class ConstraintGeneration:
 
     def get_spacy_data(self, sent):
             doc = self.nlp(sent)
-            # keyword_list = []
             pos_list = []
-            # noun_list = []
-            # verb_list = []
-            # other_list = []
+
             for token in doc:
                 pos_list.append(token.pos_)
-                # if token.text == "''" or token.text == "'s" or token.text in stopwords.words('english') or len(token.text) < 2 or len(token.text.strip())==0:
-                #     continue
-                # keyword_list.append(token.text)
-                # if token.pos_ == "NOUN":
-                #     noun_list.append(token.text)
-                # elif token.pos_ == "VERB":
-                #     verb_list.append(token.text)
-                # else:
-                #     other_list.append(token.text)
-
-            # noun_list = list(set(noun_list))
-            # verb_list = list(set(verb_list))
-            # other_list = list(set(other_list))
 
             pos_sequence = " ".join(pos_list)
 
             return pos_sequence
 
     def get_exemplars(self, sent_ori):
-        # print(f"Label: {label}")
-        # label_df = self.df[self.df["label"] == label]
-        # print(sent_ori)
-        # print(f"Len of label_df: {len(label_df)}")
         label_sent_list = [x for x in self.df["text"].tolist() if x!=sent_ori]
-        # print(label_sent_list)
         rand_sent_list = random.sample(label_sent_list, min(len(label_sent_list), 3))
         random.shuffle(rand_sent_list)
         return ','.join(['\"{}\"'.format(sentence) for sentence in rand_sent_list])
 
     def generate_constraints(self):
-
-        # topic_dict = {
-        #     "ots": "online terms of service",
-        #     "yahoo": "categories",
-        #     "sst2": "movie review",
-        #     "imdb": "movie review",
-        #     "conll2003": "news stories",
-        #     "multiconer": "knowledge",
-        #     "onto": "named entity recognition"
-        # }
-
-        # topic_kw_dict = {
-        #     "ots": "topic",
-        #     "yahoo": "topic",
-        #     "sst2": "topic",
-        #     "imdb": "topic",
-        #     "conll2003": "topic",
-        #     "multiconer": "topic",
-        #     "onto": "topic"
-        # }
 
         ner_tag_to_keyword_dict = {
             "conll2003": {
@@ -340,9 +297,6 @@ Additionally, the document should have the following contraints:
             min_words_list.append(min_len)
             max_words_list.append(max_len)
 
-            # topic = row["label"]
-            # topic_list.append(topic)
-
             num_sents = len(sent_tokenize(sent))
             num_sents_list.append(num_sents)
 
@@ -353,7 +307,6 @@ Additionally, the document should have the following contraints:
 
             ner_list = list(eval(str(row["ner_tags"])))
 
-            # try:
             inc_kws, exc_kws, ner_phrases, ner_tags = self.lexical_constraint(sent, word_list, ner_list)
             inc_kws_list.append(inc_kws)
             exc_kws_list.append(exc_kws)
@@ -361,13 +314,6 @@ Additionally, the document should have the following contraints:
             ner_phrase_list.append(ner_phrases)
 
             ner_labels = ", ".join(f"{ner_phrase} is {ner_tag_to_keyword_dict[ner_tag]}" for ner_phrase, ner_tag in zip(ner_phrases, ner_tags))
-
-            # except Exception as ex:
-            # print(f"Exception : {ex}")
-            # exit()
-            # inc_kws, exc_kws = "", ""
-            # inc_kws_list.append(inc_kws)
-            # exc_kws_list.append(exc_kws)
 
             curr_prompt = []
 
@@ -388,7 +334,6 @@ Additionally, the document should have the following contraints:
                     if inc_exc:
                         prompt = prompt.format(
                             exemplars=rand_exemplars,
-                            # pos_seq=pos_sequence,
                             min_words=min_len,
                             max_words=max_len,
                             ner_labels=ner_labels,
@@ -398,7 +343,6 @@ Additionally, the document should have the following contraints:
                     elif inc:
                         prompt = prompt.format(
                             exemplars=rand_exemplars,
-                            # pos_seq=pos_sequence,
                             min_words=min_len,
                             max_words=max_len,
                              ner_labels=ner_labels,
@@ -407,18 +351,15 @@ Additionally, the document should have the following contraints:
                     else:
                         prompt = prompt.format(
                             exemplars=rand_exemplars,
-                            # pos_seq=pos_sequence,
                             min_words=min_len,
                             max_words=max_len,
                             ner_labels=ner_labels
                         )       
                     final_const_topic_list.append(prompt) 
-                    # print(final_const_topic_list)          
                 else:
                     if inc_exc:
                         prompt = prompt.format(
                             exemplars=rand_exemplars,
-                            # pos_seq=pos_sequence,
                             min_words=min_len,
                             max_words=max_len,
                             ner_labels=ner_labels,
@@ -428,7 +369,6 @@ Additionally, the document should have the following contraints:
                     elif inc:
                         prompt = prompt.format(
                             exemplars=rand_exemplars,
-                            # pos_seq=pos_sequence,
                             ner_labels=ner_labels,
                             min_words=min_len,
                             max_words=max_len,
@@ -437,13 +377,11 @@ Additionally, the document should have the following contraints:
                     else:
                         prompt = prompt.format(
                             exemplars=rand_exemplars,
-                            # pos_seq=pos_sequence,
                             ner_labels=ner_labels,
                             min_words=min_len,
                             max_words=max_len
                         ) 
                     final_const_list.append(prompt)
-                    # print(final_const_list)
 
         self.df["inc_kws"] = inc_kws_list
         self.df["exc_kws"] = exc_kws_list
@@ -457,16 +395,11 @@ Additionally, the document should have the following contraints:
         self.df["final_const"] = final_const_list
         self.df["final_topic_const"] = final_const_topic_list
 
-        # model_name = "sentence-transformers/all-MiniLM-L6-v2"
-        # tokenizer = AutoTokenizer.from_pretrained(model_name)
-        # model = AutoModel.from_pretrained(model_name)
-
         sim_df = self.df[["text"]]
 
         # List of input sentences
         sentences = sim_df["text"].to_list()
 
-        # sentences = [sentence[:512] for sentence in sentences]
 
         # Tokenize the sentences and convert them to tensors in batches
         batched_tokens = self.tokenizer(sentences, padding=True, max_length=512, truncation=True, return_tensors="pt")
@@ -486,48 +419,31 @@ Additionally, the document should have the following contraints:
         # Compute cosine similarity between every pair of sentences
         similarity_matrix = cosine_similarity(embeddings)
 
-        # Print the similarity matrix
-        # print("Cosine Similarity Matrix:")
-        # print(similarity_matrix)
 
         mix_const_1 = []
         mix_const_2 = []
         mix_const_idx_1 = []
         mix_const_idx_2 = []
-        # mix_const_3 = []
-        # mix_const_4 = []
-        # mix_const_5 = []
 
         # Print pairwise sentence similarities
         for i in range(len(sentences)):
             tar_sentences_idx = [k for k in range(0, len(sentences)) if k != i]
             sim_list = []
 
-            # print(f"Curr Idx : {i}")
-            # print(f"Target indexes : {tar_sentences_idx}")
-
             for j in tar_sentences_idx:
                 sim_list.append(similarity_matrix[i][j])
 
             top_5_indexes = sorted(range(len(sim_list)), key=lambda i: sim_list[i], reverse=True)[:2]
 
-            # print(f"top_5_indexes : {top_5_indexes}")
-
             mix_const_1.append(self.df.at[tar_sentences_idx[top_5_indexes[0]],'final_const'])
             mix_const_2.append(self.df.at[tar_sentences_idx[top_5_indexes[1]],'final_const'])
             mix_const_idx_1.append(tar_sentences_idx[top_5_indexes[0]])
             mix_const_idx_2.append(tar_sentences_idx[top_5_indexes[1]])
-            # mix_const_3.append(self.df.at[top_5_indexes[2],'final_const'])
-            # mix_const_4.append(self.df.at[top_5_indexes[3],'final_const'])
-            # mix_const_5.append(self.df.at[top_5_indexes[4],'final_const'])
 
         self.df["mix_const_1"] = mix_const_1
         self.df["mix_const_2"] = mix_const_2
         self.df["mix_const_idx_1"] = mix_const_idx_1
         self.df["mix_const_idx_2"] = mix_const_idx_2
-        # self.df["mix_const_3"] = mix_const_3
-        # self.df["mix_const_4"] = mix_const_4
-        # self.df["mix_const_5"] = mix_const_5
 
         self.df.to_csv(os.path.join(self.out_pth,self.out_file+".tsv"),sep="\t",index=False)
 
