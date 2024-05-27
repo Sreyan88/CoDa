@@ -296,7 +296,7 @@ def get_template_and_fix_tokenizer(
     return template
 
 model_name = args.model
-tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True, access_token="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", padding_side='left')
+tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True, padding_side='left')
 
 raw_datasets = get_raw_dataset()
 
