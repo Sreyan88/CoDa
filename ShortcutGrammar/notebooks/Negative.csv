@@ -1,0 +1,99 @@
+Root,Examples,MI,Count,Negative,Positive,Majority label idx,Majority label,% majority,Support count,Counter count
+6,"of the worst movies, of the worst films, , i ' m, didn ' t, don ' t, was supposed to be, of the movie was, i didn ' t",0.106897651556118,4355.0,3380.0,975.0,0,Negative,0.7759926554969016,3380.0,975.0
+3,"the worst movies, ' t, the worst movie, of time ., the worst films, didn ' t, the worst film, 1 / 10",0.09527914352989167,8527.0,5181.0,3346.0,0,Negative,0.6075741587524915,5181.0,3346.0
+27,"not funny ., to like this, was terrible ., not recommended ., t believe that, only good thing, t funny ., first place .",0.050567638747093066,2340.0,1861.0,479.0,0,Negative,0.7950469684030743,1861.0,479.0
+21,"waste of time ., hour and a half, of the movie ., for free, had no, was no, the worst, like he ' s",0.048968416844239304,2020.0,1650.0,370.0,0,Negative,0.8165182987141444,1650.0,370.0
+2,"this piece, terrible ., this ., horrible ., like this, annoying ., laugh ., so you",0.04716126501466364,5786.0,3717.0,2069.0,0,Negative,0.6423635107118175,3717.0,2069.0
+18,"absolutely no sense, for this one, of your life, . "", for the rest, she ' s, don ' t, , right ?",0.04283687293153059,2283.0,1774.0,509.0,0,Negative,0.7768052516411379,1774.0,509.0
+25,"can ', terrible ., did i, the only, at all costs ., . ., skip this, for -",0.042691354640699584,6042.0,3802.0,2240.0,0,Negative,0.6292190602250165,3802.0,2240.0
+22,"t even, or even, * * * *, all over, . but, horrible ,, must be, been made",0.02494372919098773,1209.0,974.0,235.0,0,Negative,0.8051197357555739,974.0,235.0
+12,"t waste your time ., ' m sorry, ' s nothing, ' t see, i could see, bother with this one ., i guess the, the only good",0.02395533882338952,806.0,699.0,107.0,0,Negative,0.8663366336633663,699.0,107.0
+15,"3 / 10, 2 / 10, don ' t waste your time ., avoid at all costs ., 1 / 2 from * * * *, don ' t bother ., give me a break ., this movie was terrible .",0.022021801408834238,541.0,500.0,41.0,0,Negative,0.9226519337016574,500.0,41.0
+23,"don ', i ' m, and why, absolutely nothing, i couldn ', think this, i don ', why do",0.02106338827416741,1551.0,1158.0,393.0,0,Negative,0.7462974887314875,1158.0,393.0
+30,"i watched it, this guy is, can say about, the script is, the only reason, for - tv, ' t even, he ' s",0.020463394822392858,1242.0,962.0,280.0,0,Negative,0.7741157556270096,962.0,280.0
+4,". ., i kept, this movie, t tell, i do, to do, to be, stay away",0.02020371489666918,1678.0,1227.0,451.0,0,Negative,0.7309523809523809,1227.0,451.0
+24,"i wouldn ', was not, ' t think this, waste your time, all of, ' s new groove, "" special effects, going to be",0.01848326586450815,771.0,643.0,128.0,0,Negative,0.833117723156533,643.0,128.0
+81,"waste, bad, have, was, not, minutes, trying, awful",0.01701727646590414,7767.0,4332.0,3435.0,0,Negative,0.5577294375080448,4332.0,3435.0
+29,"4 / 10, from * * * *, there ' s, * * *, that ' s, as i am, you ' ve been warned ., as if they",0.01574215137038157,499.0,440.0,59.0,0,Negative,0.8802395209580839,440.0,59.0
+78,"nothing, boring, 1, isn, sorry, someone, actually, there",0.015637639170060363,3015.0,1935.0,1080.0,0,Negative,0.6416970500497182,1935.0,1080.0
+28,"instead ,, mean ,, ' t, i know, nothing to, gave this, i can, these people",0.015080407302349882,2107.0,1423.0,684.0,0,Negative,0.6752015173067805,1423.0,684.0
+74,"3, even, 2, avoid, what, minutes, don, unfortunately",0.014330568709640543,3655.0,2260.0,1395.0,0,Negative,0.6182663385288488,2260.0,1395.0
+95,"thing, stupid, terrible, only, no, boring, to, fails",0.013490518287439045,3630.0,2234.0,1396.0,0,Negative,0.615363436123348,2234.0,1396.0
+10,"t waste your time, bother with this one, of time and money, waste of time ., i mean ,, of the movie ., have been much better, if you haven '",0.013158811729481943,411.0,364.0,47.0,0,Negative,0.8837772397094431,364.0,47.0
+69,"waste, even, t, terrible, boring, like, bad, pile",0.012972833597305361,9002.0,4826.0,4176.0,0,Negative,0.5360950688582852,4826.0,4176.0
+58,"no, 1, worst, do, be, low, could, movie",0.012931501645974189,3319.0,2060.0,1259.0,0,Negative,0.6205962059620597,2060.0,1259.0
+60,"badly, effects, mess, worse, were, someone, hours, ?",0.011983150217343894,2850.0,1793.0,1057.0,0,Negative,0.6290322580645161,1793.0,1057.0
+46,"horrible, terrible, make, annoying, poor, like, project, this",0.011430702078602,7707.0,4224.0,3483.0,0,Negative,0.5480607082630692,4224.0,3483.0
+45,"t, ?, ', this, i, either, look, wooden",0.009733016315420132,2536.0,1587.0,949.0,0,Negative,0.6256895193065406,1587.0,949.0
+43,"terrible, cheap, badly, no, were, they, did, instead",0.009649965761652807,7872.0,4271.0,3601.0,0,Negative,0.5425450850901702,4271.0,3601.0
+41,"they, ., 4, any, *, have, bad, interesting",0.009151269467162354,3830.0,2265.0,1565.0,0,Negative,0.5913361169102297,2265.0,1565.0
+59,"would, else, should, do, terrible, who, forward, what",0.00855468645534762,1470.0,976.0,494.0,0,Negative,0.6637228260869565,976.0,494.0
+90,"or, minutes, how, t, ., against, unless, next",0.008501426659075828,2087.0,1321.0,766.0,0,Negative,0.6328386787936812,1321.0,766.0
+20,"' t believe that, ' t funny ., do not watch this, what were they thinking, got to be the, ' t work ., i saw this film, saying things like """,0.008404188177926472,170.0,164.0,6.0,0,Negative,0.9593023255813954,164.0,6.0
+36,"4, *, not, there, ok, bad, insult, wow",0.008322824314785857,4025.0,2350.0,1675.0,0,Negative,0.5838092873106531,2350.0,1675.0
+87,"even, instead, mean, ?, ', ok, stupid, obviously",0.008141608777334448,6433.0,3556.0,2877.0,0,Negative,0.5527583527583527,3556.0,2877.0
+0,"crap ., 4 out of 10, laughable ., this movie didn ' t, again ., at least, ! "", they have kids saying things like "" oh my god ! """,0.008056518719604201,255.0,226.0,29.0,0,Negative,0.8832684824902723,226.0,29.0
+80,"do, there, terrible, script, was, did, 2, they",0.006826144406159317,1011.0,688.0,323.0,0,Negative,0.6801579466929911,688.0,323.0
+40,"horrible, ?, guy, ', could, crap, script, even",0.00661931586267735,8749.0,4620.0,4129.0,0,Negative,0.5280539366929494,4620.0,4129.0
+65,"this, cheap, piece, ., reason, pathetic, minutes, should",0.006539968130659848,8527.0,4517.0,4010.0,0,Negative,0.5297221245163559,4517.0,4010.0
+68,"nothing, waste, why, god, absolutely, be, ', put",0.006531541376250238,3576.0,2079.0,1497.0,0,Negative,0.5813303521520402,2079.0,1497.0
+82,"why, nothing, didn, does, am, the, rent, left",0.006444458397833402,1412.0,912.0,500.0,0,Negative,0.6456859971711457,912.0,500.0
+8,". . . at, see the movie ., sub - par ., not even funny ., . . . this, ! ! ! "", of the film ., ' m surprised that",0.006168942957728402,142.0,134.0,8.0,0,Negative,0.9375,134.0,8.0
+73,"even, c, like, would, so, this, fighting, imdb",0.006082270097454153,1492.0,951.0,541.0,0,Negative,0.6372155287817939,951.0,541.0
+53,"had, awful, another, original, movie, acting, were, .",0.005948208743690481,2958.0,1742.0,1216.0,0,Negative,0.5888513513513514,1742.0,1216.0
+85,"nothing, could, doing, point, people, t, no, know",0.0057261274137676045,3600.0,2073.0,1527.0,0,Negative,0.5757912270960578,2073.0,1527.0
+84,"even, -, t, reason, anything, watch, being, ludicrous",0.005244521648238045,4763.0,2657.0,2106.0,0,Negative,0.5578174186778594,2657.0,2106.0
+1,"a bad, worst movies, at all, so bad, really bad, no sense, ' t, crap .",0.005226119746636091,10724.0,5414.0,5310.0,0,Negative,0.5048480328174529,5414.0,5310.0
+34,"maybe, oh, sick, don, say, nothing, rainy, cliches",0.004825809362261235,1339.0,844.0,495.0,0,Negative,0.6301267710663684,844.0,495.0
+13,"was the, don ' t watch this, has got to be the, after watching this, i am not, don ' t see this, kids saying things like "", character is",0.004776787136127264,101.0,97.0,4.0,0,Negative,0.9514563106796117,97.0,4.0
+50,"., big, your, there, at, the, one, script",0.0047159101593639945,1153.0,738.0,415.0,0,Negative,0.6398268398268399,738.0,415.0
+86,"?, minutes, supposed, thing, on, t, her, or",0.00387949593936179,6661.0,3563.0,3098.0,0,Negative,0.534894191805493,3563.0,3098.0
+79,"crap, much, ?, shown, only, either, nothing, piece",0.0037429795899899497,982.0,625.0,357.0,0,Negative,0.6361788617886179,625.0,357.0
+91,"., ?, not, watch, them, gotten, got, my",0.003731362115874784,1461.0,890.0,571.0,0,Negative,0.6090225563909775,890.0,571.0
+35,"only, because, are, even, the, it, t, true",0.0036650992164694984,658.0,439.0,219.0,0,Negative,0.6666666666666666,439.0,219.0
+56,"anyone, attempt, t, only, maybe, there, nothing, more",0.0035199509958496605,1600.0,961.0,639.0,0,Negative,0.6004993757802747,961.0,639.0
+44,"way, there, have, someone, special, without, the, hour",0.0034297301680142975,841.0,540.0,301.0,0,Negative,0.641755634638197,540.0,301.0
+38,"you, coming, ., minutes, husband, have, review, or",0.003386665124451689,667.0,440.0,227.0,0,Negative,0.6591928251121076,440.0,227.0
+42,"waste, of, on, what, the, bad, f, not",0.00311544862636399,1677.0,993.0,684.0,0,Negative,0.5920190589636688,993.0,684.0
+72,"loss, taken, so, nothing, and, hours, dull, 2",0.0027583349959063898,870.0,544.0,326.0,0,Negative,0.625,544.0,326.0
+75,"horrible, ', for, the, does, over, know, basically",0.002679211240360188,228.0,170.0,58.0,0,Negative,0.7434782608695653,170.0,58.0
+89,"trash, even, must, don, let, !, kids, good",0.0026740935464481573,275.0,199.0,76.0,0,Negative,0.7220216606498195,199.0,76.0
+67,"kind, off, audience, with, "", tried, second, signs",0.0026379944189285232,833.0,521.0,312.0,0,Negative,0.6251497005988024,521.0,312.0
+70,",, be, supposed, boring, movies, terrible, tried, sub",0.002609731986379802,268.0,194.0,74.0,0,Negative,0.7222222222222222,194.0,74.0
+31,"made - for - tv, that i can ' t, all i can say is, - - and this is, out of 4 - poor , as far as i can, and i can really appreciate, that this film might be",0.0022462438092898055,69.0,62.0,7.0,0,Negative,0.8873239436619719,62.0,7.0
+11,"2 out of 10 ., is about as, there was no, hate for people who aren ' t good looking ,, really wanted to like this, don ' t believe that the beloved characters created by margaret mitchell should have been [UNK] by the ideas and, mitchell could came, hours is much too long , because after 10 minutes you have",0.0021894399508527065,44.0,43.0,1.0,0,Negative,0.9565217391304348,43.0,1.0
+5,"and i ' m, think i ' m, i say more ?, has gone down the toilet ., need i say more ?, nickelodeon has gone down the toilet ., can ' t even watch his older movies, that ' s about it .",0.002008295613986674,36.0,36.0,0.0,0,Negative,0.9736842105263158,36.0,0.0
+61,"given, horrible, anyone, ?, on, substance, there, either",0.0018151076542377194,968.0,577.0,391.0,0,Negative,0.5958762886597938,577.0,391.0
+37,"?, it, no, bright, with, please, then, i",0.0018012914568988356,300.0,203.0,97.0,0,Negative,0.6754966887417219,203.0,97.0
+16,"this movie ., . . ., movie it is kind of important that the "" villain "" not be more sympathetic than the "" victim "" ., out of ten for me , and it, human being ., people are ., people who are, point there is",0.0017757815625421124,53.0,48.0,5.0,0,Negative,0.8909090909090909,48.0,5.0
+19,"mention the overweight boy who takes, hate for people who aren ' t good looking , or, about anti freeze was one of the most pathetic display i had seen in, , worst screenplay , ridiculous acting , a story that, are stand - up comedians who are not particularly talented, really wanted to like this movie, in prison and is befriended by a gangster who helps, [UNK] , 19 , looks too nice to have no girlfriend and too ripe to be 15 , and his character",0.0017708288486672696,37.0,36.0,1.0,0,Negative,0.9487179487179487,36.0,1.0
+55,"no, watch, who, ok, ?, predictable, dialogue, film",0.0016783364280252362,192.0,137.0,55.0,0,Negative,0.711340206185567,137.0,55.0
+62,"not, ., "", you, are, bad, get, eddie",0.0016769169677657552,437.0,280.0,157.0,0,Negative,0.6400911161731208,280.0,157.0
+57,"don, for, should, t, my, ', "", except",0.0013750648822900451,121.0,90.0,31.0,0,Negative,0.7398373983739838,90.0,31.0
+77,"off, problems, this, anyway, all, at, part, movies",0.0011376594543113386,150.0,105.0,45.0,0,Negative,0.6973684210526315,105.0,45.0
+47,"something, how, now, nickelodeon, need, let, and, thank",0.0010811797710646538,89.0,67.0,22.0,0,Negative,0.7472527472527473,67.0,22.0
+9,"the only good thing, . . . ., there ' s also, the performers are talented, the only thing that, if you like this, i was a huge, i gave it a",0.0009881436005040563,31.0,28.0,3.0,0,Negative,0.8787878787878788,28.0,3.0
+48,"the, oh, ,, been, made, is, people, some",0.0009237082762975173,138.0,95.0,43.0,0,Negative,0.6857142857142857,95.0,43.0
+33,"., for, ', if, out, them, wreck, girl",0.0008604407174569852,75.0,56.0,19.0,0,Negative,0.7402597402597403,56.0,19.0
+7,"who can ', this movie is, for having watched, most of the action and fight scenes with stevie are clearly doubles ., i mean ,, - they ', tv show -, of this",0.000697026302595806,49.0,38.0,11.0,0,Negative,0.7647058823529411,38.0,11.0
+54,"special, good, that, or, whole, best, like, reasons",0.0006667463761915143,512.0,298.0,214.0,0,Negative,0.5817120622568094,298.0,214.0
+39,"how, making, ', what, the, enough, ridiculous, reason",0.0006475951926975219,640.0,366.0,274.0,0,Negative,0.5716510903426791,366.0,274.0
+26,"that ' s not how life works , that ' s not how people are ., [UNK] sold out their rights and for big bucks allowed alexandra ripley, this movie gets a two out of ten for me , and it, if you make a suspense movie it is kind of important that the "" villain "" not be more sympathetic than the "" victim "" ., the movie but at one point there is, on this show , people don ' t respond the way people respond to things in real life - - everyone is [UNK] - - everyone is either a completely good guy or a completely bad guy unless walker himself has a 2 minute talk with them and then they change instantly ., my opinion is that it is the worst show to be on television in the last 10 years ., is one thing when a fine film like american psycho deliberately tries to get us to empathise with the villain but in survival island i felt like i was watching a movie about ted [UNK] but the director failed to make him unlikeable and instead made",0.0005633374524606255,12.0,12.0,0.0,0,Negative,0.9285714285714286,12.0,0.0
+71,"due, like, my, or, may, -, for",0.0005383203804875063,31.0,25.0,6.0,0,Negative,0.7878787878787878,25.0,6.0
+76,"', the, to, subject, length, honestly",0.0005340183027760356,25.0,21.0,4.0,0,Negative,0.8148148148148148,21.0,4.0
+83,"bad, awful, worst, only, waste, even, poorly, t",0.0004917950545074049,10810.0,5414.0,5396.0,0,Negative,0.5008324084350722,5414.0,5396.0
+66,"even, it, minutes, movies, ?",0.0004510026051563634,17.0,15.0,2.0,0,Negative,0.8421052631578947,15.0,2.0
+52,"?, nothing, awful, :, camera, get, be, re",0.0003862759695369552,10289.0,5178.0,5111.0,0,Negative,0.5032552715965407,5178.0,5111.0
+32,"waste, worst, horrible, even, wasted, supposed, worse, no",0.00030185510703881533,10812.0,5413.0,5399.0,0,Negative,0.500647309043832,5413.0,5399.0
+49,"the, what, whole, t, like, even, acted",0.0002838701798581569,190.0,112.0,78.0,0,Negative,0.5885416666666666,112.0,78.0
+17,". . . . . . ., people whose talents were wasted on this, fan of margaret [UNK] book and the fake sequel by alexandra ripley was written just to cash in for money .",0.0002687250237721052,10.0,9.0,1.0,0,Negative,0.8333333333333334,9.0,1.0
+94,"just, of, were",0.00022434826310550724,12.0,10.0,2.0,0,Negative,0.7857142857142857,10.0,2.0
+93,"get, ,",0.000182816006900402,5.0,5.0,0.0,0,Negative,0.8571428571428571,5.0,0.0
+63,.,0.0001692390056715887,132.0,77.0,55.0,0,Negative,0.582089552238806,77.0,55.0
+51,"worse, i, but, as",0.00016714576306562842,61.0,38.0,23.0,0,Negative,0.6190476190476191,38.0,23.0
+88,"its, in, ', -",0.0001376986202939653,108.0,63.0,45.0,0,Negative,0.5818181818181818,63.0,45.0
+92,"bad, awful, ?, lame, terrible, acting, plot, money",0.00010891579315195645,10828.0,5417.0,5411.0,0,Negative,0.5002770083102493,5417.0,5411.0
+64,"worst, bad, boring, no, stupid, poor, crap, terrible",0.00010891579315195645,10828.0,5417.0,5411.0,0,Negative,0.5002770083102493,5417.0,5411.0
+,", , , , , , , ",6.966271532311049e-05,4796.0,2430.0,2366.0,0,Negative,0.5066694456023343,2430.0,2366.0
+14,where ' s the [UNK] ?,4.82656729810719e-05,2.0,2.0,0.0,0,Negative,0.75,2.0,0.0
+14,,7.848586338245812e-13,0.0,0.0,0.0,0,Negative,0.5,0.0,0.0

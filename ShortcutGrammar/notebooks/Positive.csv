@@ -1,0 +1,97 @@
+Root,Examples,MI,Count,Negative,Positive,Majority label idx,Majority label,% majority,Support count,Counter count
+3,"of the best, well as, a great film, i loved it, of the greatest, with him ., of his best, is a little",0.1231898627405226,8336.0,3107.0,5229.0,1,Positive,0.6272487407052051,5229.0,3107.0
+6,"one of the best, as well as, one of the greatest, one of those films, first time i saw, don ' t miss, of the best films, don ' t let",0.113741048895754,3407.0,544.0,2863.0,1,Positive,0.8401290701085362,2863.0,544.0
+2,"/ 10, love this, a brilliant, a wonderful, one of, must see, recommend this, a tad",0.08093096820011099,4769.0,1318.0,3451.0,1,Positive,0.7235380423391322,3451.0,1318.0
+27,"highly recommend this, 8 / 10, loved this movie, highly recommended ., first saw this, over again ., is a brilliant, tells the story",0.04615255233215598,1633.0,251.0,1382.0,1,Positive,0.8458715596330275,1382.0,251.0
+18,"it again, as the, and enjoy, for me ,, very good, the very end, not for everyone, of 10",0.04062041664186037,1935.0,392.0,1543.0,1,Positive,0.7971089313371192,1543.0,392.0
+25,"and entertaining, enjoyed this, saw this, must -, vote is, 9 / 10 ., it is, he is",0.038310894046247365,5199.0,1855.0,3344.0,1,Positive,0.6431455489328975,3344.0,1855.0
+21,"one of the best, a must see !, a great movie ., [UNK] is, i love this movie ., ! ', in the 60 ', at the time .",0.027930450016957133,2337.0,649.0,1688.0,1,Positive,0.7221034630183839,1688.0,649.0
+12,"i would recommend, i highly recommend, i ' ve, i was pleasantly, a 7 ., i love the, i liked the, a must see",0.02397695530447106,733.0,85.0,648.0,1,Positive,0.8829931972789116,648.0,85.0
+46,"love, /, best, beautiful, loved, recommend, very, picture",0.020920320916267207,5556.0,2226.0,3330.0,1,Positive,0.5993163008276359,3330.0,2226.0
+22,"may be, the characters, the best, ll be, man who, 8 out, the greatest, people who",0.020038322508217726,1124.0,240.0,884.0,1,Positive,0.7859680284191829,884.0,240.0
+24,"love this movie, about a, was a, a must see, about this film, one true thing, my all time, of this film",0.019803330891026847,581.0,62.0,519.0,1,Positive,0.8919382504288165,519.0,62.0
+23,"[UNK] [UNK], it ', the music, i love this, i recommend this, i liked this, . "", peter falk",0.019077078690733103,869.0,157.0,712.0,1,Positive,0.8185993111366245,712.0,157.0
+4,"this is, a wonderful, [UNK] is, a beautiful, a 10, i especially, think they, this time",0.01688068140091319,1618.0,459.0,1159.0,1,Positive,0.7160493827160493,1159.0,459.0
+29,"7 / 10, see it !, as well as, as it was, to see her, i must admit i was shocked to see her come in under her time limits on a few things , but she did it and by [UNK] i ' ll be writing those [UNK] down ., this movie for, she is as down to earth and as personable as you get , like one of us which made the show all the more enjoyable .",0.016305809485732535,481.0,51.0,430.0,1,Positive,0.8923395445134575,430.0,51.0
+15,"10 / 10, 9 / 10, 8 out of 10 ., i loved this movie ., , it ', i give it a 7 ., i loved this movie !, i highly recommend it .",0.016013312499984014,421.0,36.0,385.0,1,Positive,0.9125295508274232,385.0,36.0
+65,"brilliant, definitely, 10, wonderful, top, also, well, perfect",0.01572483995979898,5294.0,2168.0,3126.0,1,Positive,0.5904456193353474,3126.0,2168.0
+30,"and i must, and entertaining ., this film is, it may be, this is definitely, you ' ll, this film was, 80 ' s",0.015302433703374457,1019.0,239.0,780.0,1,Positive,0.7649363369245837,780.0,239.0
+87,"well, true, wonderful, perfect, you, available, matter, great",0.014947981729243193,3114.0,1135.0,1979.0,1,Positive,0.6354300385109114,1979.0,1135.0
+20,"i loved this movie, i highly recommend this, i loved this film, ' ll like this, film ., i love this film, of 10 stars ., ' ll love this",0.013776588020495036,266.0,8.0,258.0,1,Positive,0.9664179104477612,258.0,8.0
+60,"boy, provoking, stay, poetry, used, will, or, role",0.010619536065392812,2944.0,1122.0,1822.0,1,Positive,0.6188051595383571,1822.0,1122.0
+40,"wonderful, outstanding, is, perfect, enjoyed, love, well, also",0.00961311693856626,6409.0,2836.0,3573.0,1,Positive,0.5574793323974419,3573.0,2836.0
+95,"great, well, film, as, learn, gem, horror, he",0.0093770556937058,3458.0,1384.0,2074.0,1,Positive,0.5997109826589595,2074.0,1384.0
+43,"enjoyed, young, excellent, saw, vote, and, rene, music",0.009247102222066934,6364.0,2820.0,3544.0,1,Positive,0.5568645931511153,3544.0,2820.0
+41,"great, until, see, episode, fans, real, last, audience",0.008940197993235099,2557.0,972.0,1585.0,1,Positive,0.6197733489644393,1585.0,972.0
+0,"stars ., years ., saving time in the kitchen means more time with family ., entertaining ., saving time in the kitchen means, beautiful ., loved today ' s show ! ! !, ten .",0.007953897126386025,246.0,27.0,219.0,1,Positive,0.8870967741935484,219.0,27.0
+53,"beautiful, hooked, city, always, fantastic, our, intimate, [UNK]",0.00777012784858766,1993.0,736.0,1257.0,1,Positive,0.6305764411027569,1257.0,736.0
+90,"most, 8, man, inner, 9, look, many, war",0.007677125411172572,1686.0,601.0,1085.0,1,Positive,0.6433649289099526,1085.0,601.0
+74,"10, great, 9, excellent, amazing, definitely, it, long",0.007622149987964989,4141.0,1746.0,2395.0,1,Positive,0.5783248853487811,2395.0,1746.0
+10,", edge of my seat, theme and that the audience was invited to play along too, earth and as personable, loved today ' s, loved the ' first, is a great film, piece of work .",0.007091778085895228,429.0,92.0,337.0,1,Positive,0.7842227378190255,337.0,92.0
+78,"recommend, refreshing, reminds, enjoy, and, pleasantly, touching, again",0.007085423697660569,5406.0,2381.0,3025.0,1,Positive,0.5595414201183432,3025.0,2381.0
+36,"7, excellent, her, and, who, has, [UNK], best",0.0070571319192486645,3963.0,1672.0,2291.0,1,Positive,0.5780580075662043,2291.0,1672.0
+52,"!, greatest, superb, doctor, feeling, seeing, seen, culture",0.007001415279895267,4609.0,1988.0,2621.0,1,Positive,0.5686402081977879,2621.0,1988.0
+68,"great, music, worth, personally, falk, any, o, here",0.006965996876553585,1907.0,711.0,1196.0,1,Positive,0.6270298585646935,1196.0,711.0
+8,"one of the best, haven ' t tuned, i love it ., i ' ve seen, this is my all - time , number one favorite movie ., chemistry between stephen furst harold and andy [UNK] [UNK] make up most of my favorite parts, [UNK] , not to say that",0.006673452746028975,175.0,14.0,161.0,1,Positive,0.9152542372881356,161.0,14.0
+86,"and, show, life, back, because, his, of, york",0.006031983015583331,2470.0,986.0,1484.0,1,Positive,0.6007281553398058,1484.0,986.0
+28,"well -, well as, i started, very realistic, you will, i for, the [UNK], the best",0.005885385821780432,2485.0,996.0,1489.0,1,Positive,0.5991154000804182,1489.0,996.0
+58,"wonderful, is, beautiful, especially, our, time, she, incredible",0.005866670545624293,4324.0,1875.0,2449.0,1,Positive,0.5663430420711975,2449.0,1875.0
+81,"will, also, solid, very, perfect, life, job, by",0.005801122459603583,8965.0,4263.0,4702.0,1,Positive,0.524478643916583,4702.0,4263.0
+82,"great, well, my, plays, music, michelle, back, treatment",0.005718545499268084,682.0,202.0,480.0,1,Positive,0.7032163742690059,480.0,202.0
+45,"as, roles, world, film, quinn, power, known, already",0.005659235375714784,2037.0,794.0,1243.0,1,Positive,0.6101029916625796,1243.0,794.0
+59,"excellent, each, i, humor, film, quinn, heart, know",0.005541066282231111,1271.0,453.0,818.0,1,Positive,0.6433621366849961,818.0,453.0
+69,"love, loved, will, great, enjoyed, edge, experience, masterpiece",0.005346223571264977,9277.0,4443.0,4834.0,1,Positive,0.5210690807199052,4834.0,4443.0
+80,"7, great, true, fine, matter, definitely, best, cinematography",0.004772790401540029,760.0,246.0,514.0,1,Positive,0.6758530183727034,514.0,246.0
+85,"story, great, touching, will, recognize, realistic, film, memorable",0.00475258533150821,2941.0,1236.0,1705.0,1,Positive,0.5796805980292219,1705.0,1236.0
+34,"wonderful, he, a, own, still, moon, happy, while",0.004316317731938038,1589.0,617.0,972.0,1,Positive,0.6115650534255186,972.0,617.0
+91,"and, you, !, dvd, see, will, always, wonderful",0.004219969769418363,1019.0,365.0,654.0,1,Positive,0.6415279138099902,654.0,365.0
+50,"best, upon, x, excellent, master, it, film, adult",0.004124160363294667,490.0,144.0,346.0,1,Positive,0.7052845528455285,346.0,144.0
+73,"who, friendship, once, best, greatest, years, man, out",0.0040345192149723805,1923.0,776.0,1147.0,1,Positive,0.5963636363636363,1147.0,776.0
+67,"of, friend, sci, 8, time, fantastic, and, plus",0.0040212710621436755,239.0,50.0,189.0,1,Positive,0.7883817427385892,189.0,50.0
+44,"very, as, mother, with, out, happy, she, keeps",0.003966197847270335,1809.0,725.0,1084.0,1,Positive,0.5991165102153506,1084.0,725.0
+1,"the best, a great, dvd ., loved it, great film, and how, today ., amazing .",0.0037844690409837177,10725.0,5318.0,5407.0,1,Positive,0.5041484105528107,5407.0,5318.0
+13,"this is, i love this, i liked this, i think, to see her come in under her time limits on a few things, all -, you ' ll love this, actor in",0.003601778067683797,149.0,23.0,126.0,1,Positive,0.8410596026490066,126.0,23.0
+84,"definitely, dance, flawed, it, the, best, must, role",0.0035420840367813254,4261.0,1908.0,2353.0,1,Positive,0.5521932911095473,2353.0,1908.0
+56,"peter, perfect, it, with, war, ., pitch, ,",0.003374927330779317,953.0,351.0,602.0,1,Positive,0.631413612565445,602.0,351.0
+42,"good, brilliant, she, a, see, now, entertaining, theater",0.0033427502870115016,587.0,194.0,393.0,1,Positive,0.6689303904923599,393.0,194.0
+38,"well, this, 9, again, touching, considering, captured, an",0.0027235817291519256,302.0,86.0,216.0,1,Positive,0.7138157894736842,216.0,86.0
+79,"heart, ., ,, entertaining, of, jones, bizarre, an",0.0025780243297333777,2116.0,904.0,1212.0,1,Positive,0.572710103871577,1212.0,904.0
+72,"well, friend, beautiful, miss, is, ten, musical, available",0.0024290689131684345,558.0,196.0,362.0,1,Positive,0.6482142857142857,362.0,196.0
+31,"what you do , you ' ve, this is easily the best, this is not the best, reveal is that i cant, that this movie is the, stop - motion film is, this film needs to be, surprise see this movie with that special",0.0023351218371903217,51.0,2.0,49.0,1,Positive,0.9433962264150944,49.0,2.0
+62,"10, once, html, comedy, again, which, now, each",0.0022195268500115684,181.0,45.0,136.0,1,Positive,0.7486338797814208,136.0,45.0
+19,"come in under her time limits on a few things, as well as, over - the - top ., in her, of her, all the articles , essays etc . that are, i ' ve seen from, movie is",0.002194611747519281,39.0,0.0,39.0,1,Positive,0.975609756097561,39.0,0.0
+83,"excellent, very, highly, loved, best, brilliant, music, love",0.001984493619419327,10681.0,5301.0,5380.0,1,Positive,0.503697463259384,5380.0,5301.0
+35,"[UNK], we, during, along, very, released, also, though",0.0018663489819323283,454.0,161.0,293.0,1,Positive,0.6447368421052632,293.0,161.0
+70,"joe, a, been, well, tells, screen, club, best",0.0017505274953082562,327.0,109.0,218.0,1,Positive,0.6656534954407295,218.0,109.0
+77,"perhaps, over, true, had, than, from, was, were",0.001722615602884725,141.0,35.0,106.0,1,Positive,0.7482517482517482,106.0,35.0
+37,"!, film, she, 2, all, was, undoubtedly, such",0.0017050208722075568,78.0,13.0,65.0,1,Positive,0.825,65.0,13.0
+11,"7 out of 10 ., come in under her time limits on a few, movie has it all ., interested in obtaining a copy of this film please write to me at : [UNK] @ yahoo . com, "" robin of [UNK] "" on tv as a kid but i think i only saw michael [UNK] episodes, is an incredibly, shrinking job market, advise all men for a nice",0.0015939042715027928,34.0,1.0,33.0,1,Positive,0.9444444444444444,33.0,1.0
+89,"as, tv, need, so, but, program, once, every",0.001512735686535347,344.0,120.0,224.0,1,Positive,0.6502890173410405,224.0,120.0
+55,"they, its, ever, as, where, gets, +, by",0.0014579970791646574,215.0,67.0,148.0,1,Positive,0.6866359447004609,148.0,67.0
+61,"wonderful, back, time, funnier, can, yourself, sound, i",0.0014102563871305233,523.0,200.0,323.0,1,Positive,0.6171428571428571,323.0,200.0
+16,"you can see, ' s been sitting in my, carolina was in the usa ., . you ', - - -, [UNK] and the, getting the point across ., were excellent .",0.0013626911025599493,38.0,3.0,35.0,1,Positive,0.9,35.0,3.0
+49,"go, note, film, of, out, says, love, moreover",0.001297292905333778,33.0,2.0,31.0,1,Positive,0.9142857142857143,31.0,2.0
+5,"my vote is seven ., vote is seven ., 10 / 10 bethany cox, / 10 bethany cox, that this, maybe i ' m just down because my, - - 9 /, as i ' m",0.0011857572530227629,27.0,1.0,26.0,1,Positive,0.9310344827586207,26.0,1.0
+57,"an, have, other, ve, are, rating, got, uncle",0.001146961917102038,34.0,3.0,31.0,1,Positive,0.8888888888888888,31.0,3.0
+92,"love, best, excellent, perfect, great, wonderful, also, strong",0.0009811703797473232,10790.0,5380.0,5410.0,1,Positive,0.5013899184581171,5410.0,5380.0
+39,"definitely, is, child, death, a, very, -, anyone",0.0008022962652196397,344.0,134.0,210.0,1,Positive,0.6098265895953757,210.0,134.0
+,", , , , , , , ",0.0007026650001646859,1088.0,483.0,605.0,1,Positive,0.5559633027522936,605.0,483.0
+51,"it, she, from, very, season, outstanding",0.000631247281199402,71.0,20.0,51.0,1,Positive,0.7123287671232876,51.0,20.0
+9,"i highly recommend this, those who haven ' t tuned, she is as down to, the dvd does that, i first saw this",0.0006210002277778809,13.0,0.0,13.0,1,Positive,0.9333333333333333,13.0,0.0
+32,"great, best, his, superb, beauty, amazing, light, simple",0.0005328019382546974,10795.0,5387.0,5408.0,1,Positive,0.5009724923589886,5408.0,5387.0
+47,"on, basically, my, those, 10, !, because, irish",0.0005255852841280842,215.0,83.0,132.0,1,Positive,0.6129032258064516,132.0,83.0
+26,"the wonderful comedic chemistry between stephen furst harold and andy [UNK] [UNK] make up most of my favorite parts of the movie ., so what are you waiting for ?, i ' m thinking that soon it ' s not going to pay off to be a citizen here with the screwed up [UNK] and the, i ' m not sure i agree with the filmmaker ' s take on recent events although , truthfully , i can ' t always tell exactly where he stands but i admire the unusual and artistic way of getting the point across ., the last time i checked carolina was in the usa .",0.000506600387906904,11.0,0.0,11.0,1,Positive,0.9230769230769231,11.0,0.0
+76,"in, as, agatha, best, tastes, and",0.0004998719849227043,18.0,2.0,16.0,1,Positive,0.85,16.0,2.0
+63,"my, happens, long, you",0.0003946308089601994,9.0,0.0,9.0,1,Positive,0.9090909090909091,9.0,0.0
+66,"gets, out, background, well, full",0.00035680476579996886,15.0,2.0,13.0,1,Positive,0.8235294117647058,13.0,2.0
+33,"as, being, perfect, episode, it, top",0.00031075736533159337,53.0,17.0,36.0,1,Positive,0.6727272727272727,36.0,17.0
+75,", well, on, ?, you, choice, scores, important",0.0002981859271670713,699.0,317.0,382.0,1,Positive,0.5463623395149786,382.0,317.0
+7,"i am not, were available on, , - year -, doesn ' t, in this",0.00027490572474968365,32.0,9.0,23.0,1,Positive,0.7058823529411765,23.0,9.0
+88,"her, as, you",0.00026914204277042966,68.0,24.0,44.0,1,Positive,0.6428571428571429,44.0,24.0
+54,"this, death, fine, bam, foxx, say, human, a",0.00024655427526865895,722.0,331.0,391.0,1,Positive,0.5414364640883977,391.0,331.0
+64,"great, today, best, well, superb, and, beautifully, loved",0.0002433300376907535,10806.0,5397.0,5409.0,1,Positive,0.5005551443375278,5409.0,5397.0
+17,"in yet , find out what channel and the time , i assure you that you won ' t be disappointed ., earth and as personable as you get , like one of us which made the show all the more enjoyable ., too , has references to different times , views and historical points .",0.00023367139944910142,6.0,0.0,6.0,1,Positive,0.875,6.0,0.0
+93,"is, my",0.000205149165278647,17.0,4.0,13.0,1,Positive,0.7368421052631579,13.0,4.0
+71,"bed, this, your, moments",0.00018255591215023646,24.0,7.0,17.0,1,Positive,0.6923076923076923,17.0,7.0
+94,"had, is, ;",0.00015214040880083188,18.0,5.0,13.0,1,Positive,0.7,13.0,5.0
+48,"actors, movie",0.0001343624552773889,4.0,0.0,4.0,1,Positive,0.8333333333333334,4.0,0.0
