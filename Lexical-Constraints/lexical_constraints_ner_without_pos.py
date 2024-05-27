@@ -469,15 +469,15 @@ def main():
     parser.add_argument('-i', '--input_path', type=str, required=True)
     parser.add_argument('-p', "--par_dir", type=str, required=True)
     parser.add_argument('-ds', "--ds_dir", type=str, required=True)
-    parser.add_argument('-o', '--out_file', type=str, required=True)  
-    parser.add_argument('-d', '--debug', type=int, default=False)    
+    parser.add_argument('-o', '--out_file', type=str, required=True)
+    parser.add_argument('-d', '--debug', type=int, default=False)
     args = parser.parse_args()
     print(f"Main debug value : {args.debug}")
     os.makedirs(args.par_dir, exist_ok=True)
     out_dir = os.path.join(args.par_dir, args.ds_dir)
     os.makedirs(out_dir, exist_ok=True)
 
-    cg = ConstraintGeneration(args.ds_dir, args.input_path, out_dir, args.out_file, args.debug)  
+    cg = ConstraintGeneration(args.ds_dir, args.input_path, out_dir, args.out_file, args.debug)
     cg.generate_constraints()
 
 if __name__ == "__main__":

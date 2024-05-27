@@ -4,6 +4,20 @@ Implementation of [CoDa : Constrained Generation based Data Augmentation for Low
 
 ![Proposed Methodology](./diagram.png)
 
+### Constraint Generation:
+
+1. For Classification tasks:
+
+```shell
+sh classification_pipeline <dataset_name> <dataset_split> <debug_mode> <dataset_split_for_shortcut_grammar>
+```
+
+2. For NER tasks:
+
+```shell
+sh ner_pipeline <dataset_name> <dataset_split> <debug_mode> <parts_of_speech_flag>
+```
+
 ---
 **Please cite our work:**
 ```
