@@ -21,13 +21,12 @@ sh ner_pipeline <dataset_name> <dataset_split> <debug_mode> <parts_of_speech_fla
 ---
 **Please cite our work:**
 ```
-@misc{
+@inproceedings{
       evuru2024coda,
-      title={CoDa: Constrained Generation based Data Augmentation for Low-Resource NLP}, 
+      title={CoDa: Constrained Generation based Data Augmentation for Low-Resource {NLP}},
       author={Chandra Kiran Reddy Evuru and Sreyan Ghosh and Sonal Kumar and Ramaneswaran S and Utkarsh Tyagi and Dinesh Manocha},
+      booktitle={2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics},
       year={2024},
-      eprint={2404.00415},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      url={https://openreview.net/forum?id=O5jNMEmc41}
 }
 ```
