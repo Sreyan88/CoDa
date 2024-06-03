@@ -9,14 +9,25 @@ Implementation of [CoDa : Constrained Generation based Data Augmentation for Low
 1. For Classification tasks:
 
 ```shell
-sh classification_pipeline <dataset_name> <dataset_split> <debug_mode> <dataset_split_for_shortcut_grammar>
+sh classification_pipeline.sh <dataset_name> <dataset_split> <debug_mode> <dataset_split_for_shortcut_grammar>
+
+Example:
+sh classification_pipeline.sh huff 500 0 train 
 ```
 
 2. For NER tasks:
 
 ```shell
-sh ner_pipeline <dataset_name> <dataset_split> <debug_mode> <parts_of_speech_flag>
+sh ner_pipeline.sh <dataset_name> <dataset_split> <debug_mode> <parts_of_speech_flag>
+
+Example:
+sh ner_pipeline.sh conll2003 500 0 0
 ```
+
+Note:
+We use the following repositories to implement our methodology:
+1. [Lexical-Substitution](https://github.com/jvladika/Lexical-Substitution)
+2. [ShortcutGrammar](https://github.com/princeton-nlp/ShortcutGrammar)
 
 ---
 **Please cite our work:**
