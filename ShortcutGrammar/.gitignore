@@ -2,7 +2,6 @@
 *~
 *#
 cache/*
-data/*
 notebooks/.ipynb_checkpoints/*
 old_notebooks/*
 output/*

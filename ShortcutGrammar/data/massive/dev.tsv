@@ -1,0 +1,2034 @@
+sentence	label	label_name
+turn the lights off please	3	iot_hue_lightoff
+dim the lights in the hall	4	iot_hue_lightdim
+make a room darker	4	iot_hue_lightdim
+clean the flat	5	iot_cleaning
+cleaning is good dust is so bad do now your magic clean my carpet	5	iot_cleaning
+give me the status on my available memory	8	general_quirky
+list most rated delivery options for chinese food	12	takeaway_query
+find my thai takeaways around grassmarket	12	takeaway_query
+i'd like to hear queen's barcelona	7	play_music
+play me barcelona by queen	7	play_music
+what's the band is playing now	17	music_query
+what's with my dinner order	12	takeaway_query
+what's the weeks forecast	20	weather_query
+play hurts like heaven	7	play_music
+put on cannibal queen	7	play_music
+play some david bowie	7	play_music
+loop this track	21	music_settings
+set the volume to low	30	audio_volume_down
+what's the day today	10	datetime_query
+which song is that	17	music_query
+i like to listen to jazz	7	play_music
+olly i like to listen to jazz	7	play_music
+hey hey	9	general_greet
+set alarm tomorrow at six am	0	alarm_set
+volume up	26	audio_volume_up
+is it raining outside	20	weather_query
+what time is it in las vegas	10	datetime_query
+what time is it in beijing	10	datetime_query
+set an alarm at six in the morning	0	alarm_set
+did i set an alarm to wake up in the morning	14	alarm_query
+what's happening in america	15	news_query
+olly death metal now	7	play_music
+what's the time in tokyo now	10	datetime_query
+tell me today's newspaper's headlines	15	news_query
+play chopin	7	play_music
+what day is memorial day this year	10	datetime_query
+it's too dark here	28	iot_hue_lighton
+is it going to rain tomorrow	20	weather_query
+softer	30	audio_volume_down
+what will be the temperature out there tomorrow	20	weather_query
+what is tomorrows weather predictions	20	weather_query
+what day of the week is the twenty second march	10	datetime_query
+is it monday today	10	datetime_query
+what's the weather like in new york city	20	weather_query
+is it sunny in gonbad now	20	weather_query
+let me know as soon as there is more news on brexit	15	news_query
+turn off the smart plug	29	iot_wemo_off
+play a song from my favorites	7	play_music
+i would like to listen to pop music please	7	play_music
+change my room lights so that i can get a good sleep	2	iot_hue_lightchange
+what's the weather like on friday	20	weather_query
+what day is it today	10	datetime_query
+should i wear a jacket today	20	weather_query
+disable shuffle	21	music_settings
+what's the date	10	datetime_query
+what things can't you do	8	general_quirky
+tell me the hour	10	datetime_query
+is it hot outside	20	weather_query
+do i have an alarm set	14	alarm_query
+by proper formula	20	weather_query
+mute for the next hour please	1	audio_volume_mute
+play my favorite song	7	play_music
+its very dangerous one	20	weather_query
+please tell me some international news	15	news_query
+set a wake up call for ten am	0	alarm_set
+make an alarm for three p. m.	0	alarm_set
+set an alarm for one p. m.	0	alarm_set
+play the song immediately	7	play_music
+email me the lyrics to this song	17	music_query
+get rid of my eight am alarm	13	alarm_remove
+will it be raining tomorrow	20	weather_query
+please i want to hear we will rock you from queen	7	play_music
+start alarm	0	alarm_set
+i want to wake up at six am tomorrow please	0	alarm_set
+olly play songs from my playlist	7	play_music
+what day of the week is thanksgiving	10	datetime_query
+please let me hear six hundred and sixty six the number of the beast	7	play_music
+can you find an animal joke for me	22	general_joke
+what is status of current weather	20	weather_query
+what is time now in california	10	datetime_query
+set time zone	11	datetime_convert
+turn on the t. v. socket when i arrive home	27	iot_wemo_on
+follow news about hilary email issue in future	15	news_query
+lower the volume	30	audio_volume_down
+i can't hear just increase the volume	26	audio_volume_up
+can you bright the lights please	18	iot_hue_lightup
+i want to hear chopin now	7	play_music
+who is leading the formula one race right now	15	news_query
+prepare coffee	25	iot_coffee
+read the headlines from new york times	15	news_query
+can i know the breaking news from c. n. n.	15	news_query
+could you please lower the tone	30	audio_volume_down
+play songs from the r. & b. and soul genre	7	play_music
+can you turn off wemo plug socket	29	iot_wemo_off
+what does the weather look like this week	20	weather_query
+what is the weather supposed to be like this week	20	weather_query
+tell me if an earthquake happens in the world	15	news_query
+play boogie in your butt by eddie murphy	7	play_music
+hey olly mute the speakers	1	audio_volume_mute
+lower all volume on speakers please	30	audio_volume_down
+make coffee now	25	iot_coffee
+ok google play some music	7	play_music
+what is the latest gossip of hollywood going on	15	news_query
+brighten lights	18	iot_hue_lightup
+alarm set eight am	0	alarm_set
+turn off the six am alarm for wednesday	13	alarm_remove
+turn off any morning alarms after friday	13	alarm_remove
+look up next week weather for me please	20	weather_query
+play music from my favorite artist	7	play_music
+please lower the lights a little bit	4	iot_hue_lightdim
+phones	13	alarm_remove
+if it's eight p. m. on the east coast what time is it in sacramento california	11	datetime_convert
+does pf changs accept take-out orders	12	takeaway_query
+can you tell me what time is it in new york	10	datetime_query
+current news c. n. n.	15	news_query
+take me to the huffington post website	57	social_post
+pull up the headlines please	15	news_query
+what are the headlines from the new york times	15	news_query
+find out if the olive garden will let me do takeaway	12	takeaway_query
+can i have today's date	10	datetime_query
+is my school alarm set	14	alarm_query
+how hot is it outside	20	weather_query
+at one p. m. today start the robot vacuum cleaner	5	iot_cleaning
+good assistants	15	news_query
+send me current news for the day	15	news_query
+play lady by kenny rogers now	7	play_music
+today date	10	datetime_query
+what are the lyrics to the song i will always love you by dolly parton	17	music_query
+never ever play me any country	23	music_dislikeness
+if it's ten p. m. in california what time is it in alabama	11	datetime_convert
+i need to hear notorious thugs by bone thugs now	7	play_music
+what is the weather condition today	20	weather_query
+will it rain	20	weather_query
+what is the current time in new york	10	datetime_query
+can you suggest me a healthy foods for dinner	52	cooking_recipe
+order a meal from a nice restaurant	19	takeaway_order
+convert new york time to london	11	datetime_convert
+olly make the living room blue	2	iot_hue_lightchange
+make the living room blue	2	iot_hue_lightchange
+please play leviathan	7	play_music
+what is the weather update for tuesday	20	weather_query
+what will be the weather update for monday noon	20	weather_query
+what will be day on fifteenth march	10	datetime_query
+i want the date of last monday of this month	10	datetime_query
+what is the time in india when the time in us is twelve p. m.	11	datetime_convert
+tell me what time it is	10	datetime_query
+find me the best knock knock joke on the internet	22	general_joke
+what will be the weather on monday this week	20	weather_query
+your recipe of steak was superb	52	cooking_recipe
+what's happening in the world today	15	news_query
+what day is it on fifth december	10	datetime_query
+hey	9	general_greet
+i want the news about academy awards	15	news_query
+tell me the current time in ottawa	10	datetime_query
+what is weather today	20	weather_query
+it is hot today is not it	20	weather_query
+it is very hot today is not it	20	weather_query
+one hundred thousand two hundred and seventeenth	10	datetime_query
+what will the weather be like this week	20	weather_query
+switch to night light setting	2	iot_hue_lightchange
+just increase the volume a little	26	audio_volume_up
+can i get an order delivered from romero's	12	takeaway_query
+order some takeaway food	19	takeaway_order
+find and queue all songs of kate perry and play all without shuffling	7	play_music
+make a playlist of all songs of eminem and play with shuffle	7	play_music
+is it going to snow this week	20	weather_query
+music on	7	play_music
+search for new jokes	22	general_joke
+i want to listen to soft rock	7	play_music
+i want to listen to up beat music	7	play_music
+play the billboard top ten	7	play_music
+can i have the ten day forecast for me area	20	weather_query
+get the weather forecast for this week please	20	weather_query
+play me something pop	7	play_music
+play music from the playlist	7	play_music
+can i have an espresso please	25	iot_coffee
+olly start the vacuum cleaner	5	iot_cleaning
+can you start the roomba	5	iot_cleaning
+send me alert on any new topic on politics	15	news_query
+rating	16	music_likeness
+am or p. m.	14	alarm_query
+what are the latest articles from yahoo news	15	news_query
+find me any news from so clean the last six hours	15	news_query
+nine hundred and ninety nine f. m. is currently playing what music	17	music_query
+increase the volume of the music to ninety	26	audio_volume_up
+is it a yes or a no that tomorrow's temperature will be hot	20	weather_query
+what is this week's weather forecast	20	weather_query
+who is the artist of the song playing now	17	music_query
+i don't like that song turn it off	23	music_dislikeness
+by ten to eleven am daily start my vacuum cleaner	5	iot_cleaning
+what will be the highest temperature in coming week	20	weather_query
+checkout today set alarm of ten am	14	alarm_query
+play enrique	7	play_music
+play michael jackson	7	play_music
+is it possible for you to provide the likes of my music	17	music_query
+what is the latest news from syria	15	news_query
+i need some more lights	18	iot_hue_lightup
+tell me current time	10	datetime_query
+my favorite singer is shakira	16	music_likeness
+what's going on in new york	15	news_query
+play my most listened songs	7	play_music
+go to youtube and play me the best wedding songs collection	7	play_music
+bring me the latest tech news	15	news_query
+add that song to my top ten favorites list	16	music_likeness
+that song was awesome can you repeat	16	music_likeness
+give me low lighting in the kitchen	4	iot_hue_lightdim
+save that song and my opinion	16	music_likeness
+update me with the election results	15	news_query
+what does the analysts say about the new immigration policies	15	news_query
+restaurant order status	12	takeaway_query
+alert me at five hours	0	alarm_set
+start my robot vacuum cleaner	5	iot_cleaning
+play music	7	play_music
+what is the current date time group	10	datetime_query
+start house cleanup	5	iot_cleaning
+switch off the light	3	iot_hue_lightoff
+funny joke	22	general_joke
+what song is currently playing	17	music_query
+save the information which is provided by aman on this song	16	music_likeness
+hey alexa turn on disco lights in my apartment and let the party begin	28	iot_hue_lighton
+please shut off	1	audio_volume_mute
+please play rap	7	play_music
+what will be this week weather condition	20	weather_query
+what a sunny day	20	weather_query
+is the meeting scheduled for tomorrow	6	calendar_query
+it is cloudy today	20	weather_query
+touch the mute button	1	audio_volume_mute
+play me a recent cover of cherry bomb	7	play_music
+let's hear some country and western not from the us	7	play_music
+check the current playing music title	17	music_query
+does peking garden deliver	12	takeaway_query
+play my last used playlist	7	play_music
+give me the time in london	10	datetime_query
+play pop	7	play_music
+set the mood please	2	iot_hue_lightchange
+turn lights blue	2	iot_hue_lightchange
+turn living room lights red	2	iot_hue_lightchange
+tell me the weather for new brighton pa olly	20	weather_query
+siri how is the weather outside	20	weather_query
+what day was it on my birth date	10	datetime_query
+what is the title of the song that is playing	17	music_query
+could you tell me what time it is	10	datetime_query
+weather on monday	20	weather_query
+weather on tuesday	20	weather_query
+repeat song	21	music_settings
+can you please tell me the current weather condition	20	weather_query
+can you please turn off the light of my bed room	3	iot_hue_lightoff
+hey share me some joke to make me happy	22	general_joke
+how many weeks are left for christmas	10	datetime_query
+do you have any news from news provides	15	news_query
+weather in homestead	20	weather_query
+please convert nine am c. s. t. to e. s. t. time	11	datetime_convert
+turn off the closet light	3	iot_hue_lightoff
+play a r. rahman music	7	play_music
+play my top rated pop songs please	7	play_music
+set color blue for all lights of my house	2	iot_hue_lightchange
+i am forever hip hop	16	music_likeness
+olly turn the lights down to seven	4	iot_hue_lightdim
+lights down to seven	4	iot_hue_lightdim
+minimize the light power	4	iot_hue_lightdim
+what will the weather be on the seventh	20	weather_query
+mute the speaker please	1	audio_volume_mute
+what is the name of the music playing now	17	music_query
+turn the volume up	26	audio_volume_up
+what song is this	17	music_query
+i want to hear love me	7	play_music
+shuffle the current album of songs	21	music_settings
+what news updates are there from news express	15	news_query
+what's new in news express	15	news_query
+what's happening in news express	15	news_query
+tell me what time is it	10	datetime_query
+let me know the time in india	10	datetime_query
+what alarms are upcoming	14	alarm_query
+olly turn off the lights	3	iot_hue_lightoff
+is there a way to get the latest breaking news on trump	15	news_query
+switch on the lights	28	iot_hue_lighton
+order take-out	19	takeaway_order
+will you dim all the lights	4	iot_hue_lightdim
+give me the news	15	news_query
+lights down	4	iot_hue_lightdim
+what is the weather of this week	20	weather_query
+tell me the weather for this week	20	weather_query
+hey olly how do i start the robot vacuum cleaner	5	iot_cleaning
+please help me turn on the robot vacuum cleaner	5	iot_cleaning
+i want to hear some modern rock	7	play_music
+what is the status on my latest order	12	takeaway_query
+what is it like outside	20	weather_query
+what day of the week is valentine's on	10	datetime_query
+tell me the weather in miami florida	20	weather_query
+i want some music how about playing my workout playlist	7	play_music
+set an alarm for tomorrow morning at eight	0	alarm_set
+please dim the lights in the bedroom	4	iot_hue_lightdim
+tell me the artist name	17	music_query
+what is the song name	17	music_query
+what's happening in world news today	15	news_query
+what is the latest international news	15	news_query
+i would like coffee now	25	iot_coffee
+turn off my bedside lamp please	3	iot_hue_lightoff
+please start vacuum	5	iot_cleaning
+start vacuum cleaner now	5	iot_cleaning
+mute all responses now	1	audio_volume_mute
+no speaking please	1	audio_volume_mute
+did we get any update from the new provider	15	news_query
+what is new about blank	15	news_query
+play adele	7	play_music
+what is the weather forecast for seattle	20	weather_query
+will it snow next week	20	weather_query
+what is the seattle city council doing about homelessness	15	news_query
+get news from b. b. c. news	15	news_query
+how many alarms do i have set for morning hours between six and nine am	14	alarm_query
+open playlist	7	play_music
+confirm the order	19	takeaway_order
+make a cup of coffee for me	25	iot_coffee
+i want to listen to rock	7	play_music
+ok google play rock music	7	play_music
+power off the current	3	iot_hue_lightoff
+set an alarm for five thirty	0	alarm_set
+can i get delivery from this restaurant	12	takeaway_query
+does my favorite restaurant do delivery	12	takeaway_query
+do they offer takeaway	12	takeaway_query
+start up the coffee machine	25	iot_coffee
+what's the news in politics	15	news_query
+show me the time	10	datetime_query
+play music from the jazz genre	7	play_music
+what is the date of next saturday	10	datetime_query
+did the yankees win last night	15	news_query
+mute sound from speakers	1	audio_volume_mute
+brighten lights in living room	18	iot_hue_lightup
+brew some coffee	25	iot_coffee
+change light colors from blue to white	2	iot_hue_lightchange
+make the lights in the house red	2	iot_hue_lightchange
+what day does april sixteenth fall on	10	datetime_query
+please have vacuum go for one hour	5	iot_cleaning
+tell me the date today	10	datetime_query
+set the living room lights to red	2	iot_hue_lightchange
+how's the restaurant's delivery going	12	takeaway_query
+listen to this song	17	music_query
+domino's has takeaway right	12	takeaway_query
+change light color to blue	2	iot_hue_lightchange
+tell me my alarms	14	alarm_query
+please remove any alarms that i have set	13	alarm_remove
+please pull up the article on dog sitting in the morning news	15	news_query
+what is the weather here	20	weather_query
+order general t'so eggroll to go	19	takeaway_order
+are there any new videos on the youtube for new york times	15	news_query
+next play atmosphere	7	play_music
+play my country playlist	7	play_music
+play my second playlist	7	play_music
+what's today's date	10	datetime_query
+alexa turn off the fan in the master bedroom	29	iot_wemo_off
+alexa please save the current song to favorites	16	music_likeness
+i love hip hop	16	music_likeness
+please play my favorite song by bruno mars	7	play_music
+please start the coffee	25	iot_coffee
+lower lights	4	iot_hue_lightdim
+nighttime mode	4	iot_hue_lightdim
+trending tech news	15	news_query
+recent tech headlines	15	news_query
+play next song	7	play_music
+what year was the song created	17	music_query
+find my food	12	takeaway_query
+olly accumulation of snow predictions in buffalo	20	weather_query
+olly trending hot news topics	15	news_query
+next alarm	14	alarm_query
+i am really craving for chinese food right now please let me order take out	19	takeaway_order
+what is new in politics today can you filter out trump news though	15	news_query
+i need two pizzas stat	19	takeaway_order
+turn on a song	7	play_music
+turn off lighting	3	iot_hue_lightoff
+is it sunny what south the temperature	20	weather_query
+play me some music	7	play_music
+what places can i order take-out from near by	19	takeaway_order
+lower your volume please	30	audio_volume_down
+what time is my wake up alarm set for	14	alarm_query
+do i have any alarms for tomorrow morning	14	alarm_query
+remove my early alarms	13	alarm_remove
+play classical chamber music playlist	7	play_music
+make that song play next up	7	play_music
+what is the name of the lead singer in this band	17	music_query
+power off on	29	iot_wemo_off
+siri play my pop playlist	7	play_music
+tell me if there's any new news on that topic	15	news_query
+i like jazz you should know	16	music_likeness
+please check my playlist	16	music_likeness
+can you set the alarm for one hundred and thirty	0	alarm_set
+cancel alarm for tomorrow	13	alarm_remove
+what is the current central time	10	datetime_query
+remove alarms set for tomorrow	13	alarm_remove
+olly lower the lights please	4	iot_hue_lightdim
+will it rain tomorrow in miami	20	weather_query
+what time is it in dooa	10	datetime_query
+what is the time difference between eastern and pacific	11	datetime_convert
+does the nearby chinese restaurant do delivery	12	takeaway_query
+what is the weather in los angeles	20	weather_query
+ok google what's the weather like	20	weather_query
+decrease lighting	4	iot_hue_lightdim
+please turn on my wemo plug socket	27	iot_wemo_on
+what will the weather be next week	20	weather_query
+how to repeat the song	17	music_query
+what music is it	17	music_query
+increase lights please	18	iot_hue_lightup
+play romantic playlist	7	play_music
+what day of the week does the twenty second fall on this month	10	datetime_query
+go to sleep	1	audio_volume_mute
+i would like a wake up alarm at seven am tomorrow	0	alarm_set
+please turn on all the outdoor lights	28	iot_hue_lighton
+increase volume please	26	audio_volume_up
+get current news on government shutdown	15	news_query
+play music by the beatles	7	play_music
+night time	8	general_quirky
+get me takeaway food	19	takeaway_order
+play something romantic	7	play_music
+will it be nice at the beach on friday	20	weather_query
+play afi's fourth album	7	play_music
+please make me a coffee	25	iot_coffee
+which day will be rainy in this week	20	weather_query
+how is the weather in this week	20	weather_query
+set up an alarm clock at one p. m.	0	alarm_set
+what's the latest news about us election	15	news_query
+please make a coffee for me	25	iot_coffee
+is today a sunny day	20	weather_query
+what is the weather in sydney now	20	weather_query
+i want to listen to my playlist will you play it now	7	play_music
+olly put on be warned by tech nine	7	play_music
+how hot is it in miami	20	weather_query
+what's the current time in orlando floor	10	datetime_query
+what's the current time in orlando floor	10	datetime_query
+will it be too cold for a dress on sunday	20	weather_query
+can i hear some britney spears	7	play_music
+this is too bright	4	iot_hue_lightdim
+order two large pizzas and pieces of hot wings from dominoes	19	takeaway_order
+what is the date and time for today	10	datetime_query
+play my current playlist from top	7	play_music
+play my most favorite country song	7	play_music
+what is the time in zimbabwe right now	10	datetime_query
+olly what is the time in zimbabwe right now	10	datetime_query
+please play aretha franklin's call me next	7	play_music
+let me know the time	10	datetime_query
+what is the latest news on sprint	15	news_query
+after this play me rebel yell	7	play_music
+i want to hear some jazz	7	play_music
+show me one week weather of mumbai	20	weather_query
+please turn off the smart plug socket	29	iot_wemo_off
+turn on the wemo plug socket	27	iot_wemo_on
+slow the volume speaker	30	audio_volume_down
+turn on the roomba	5	iot_cleaning
+order me chinese food	19	takeaway_order
+what person produced the song that is on the radio	17	music_query
+what are the scores for the two ucl games going on right now	15	news_query
+what is the headline from chicago tribune	15	news_query
+what is the weather looking like for the rest of the week	20	weather_query
+is there going to be any flip flop weather soon	20	weather_query
+what is the weather like now	20	weather_query
+please increase the light	18	iot_hue_lightup
+will there be any snow next week	20	weather_query
+please delete the wednesday evening alarm	13	alarm_remove
+how much snow has maine received as of today	20	weather_query
+save this songs genre for me	16	music_likeness
+i'd like you to remember that i like this song	16	music_likeness
+after this song play thriller	7	play_music
+alert me in three hours	0	alarm_set
+indie	7	play_music
+what's the weather right now	20	weather_query
+tell me what's happening in european politics	15	news_query
+i want to know who is at the top of the english premier league at the moment	15	news_query
+alexa what is the news in my area	15	news_query
+time to hear me some blake shelton	7	play_music
+turn on repeat	21	music_settings
+get the cleaning on	5	iot_cleaning
+what's the best day next week to go out for pizza	10	datetime_query
+what type of weather can i expect today	20	weather_query
+what is the time in new york	10	datetime_query
+please put on an alarm for eight am	0	alarm_set
+add a lot of james taylor joni mitchell and cat stevens to the playlist	7	play_music
+can you play me some dance music	7	play_music
+play songs from playlist	7	play_music
+what alarms do i have set right now	14	alarm_query
+what will be the temperature today for miami florida	20	weather_query
+load spotify	7	play_music
+hey olly tell me a joke	22	general_joke
+i want to order some chinese food tonight what's delivering to me	19	takeaway_order
+hey siri chance the current light settings	2	iot_hue_lightchange
+i've heard this riff before what song stole this riff it's exactly the same	17	music_query
+remove the alarm set for four hundred am	13	alarm_remove
+will it be over ninety degrees tomorrow	20	weather_query
+play my favorite song of last year	7	play_music
+please do not respond	1	audio_volume_mute
+can you turn off my desk lamp	3	iot_hue_lightoff
+desk lamp one off	3	iot_hue_lightoff
+light up	18	iot_hue_lightup
+am i going to need to bring an umbrella to work today	20	weather_query
+can i wear shorts out while shopping today	20	weather_query
+play music by queen	7	play_music
+play the newest album by jay z.	7	play_music
+set an alarm for ten o'clock tomorrow morning	0	alarm_set
+wake me up at ten	0	alarm_set
+play dynamite by a. c. d. c.	7	play_music
+show me delivery near me	19	takeaway_order
+open the internet	19	takeaway_order
+let me hear some music	7	play_music
+i want to hear great music	7	play_music
+raise the lamp's light	18	iot_hue_lightup
+please turn the volume to the loudest setting	26	audio_volume_up
+mute the audio	1	audio_volume_mute
+stop the audio	1	audio_volume_mute
+will it rain at all this week	20	weather_query
+dim all interior lights	4	iot_hue_lightdim
+will i be able to get away with shorts today	20	weather_query
+should i dress in layers today	20	weather_query
+turn my lights to some random color	2	iot_hue_lightchange
+give me the newest new york times	15	news_query
+mute the settings	1	audio_volume_mute
+is it supposed to snow this week	20	weather_query
+change the color of the lights	2	iot_hue_lightchange
+day on twenty second april	10	datetime_query
+how soon can we expect rain	20	weather_query
+the weather predictions you gave me are for the wrong city i want to know the temperature where i am at	20	weather_query
+order a double bacon cheeseburger with bacon an white american cheese	19	takeaway_order
+play from smashing pumpkins	7	play_music
+update on april the giraffe	15	news_query
+what is the weather near me this week	20	weather_query
+turn up the lights in here please	18	iot_hue_lightup
+please turn up the speaker volume	26	audio_volume_up
+is the time different in moscow	10	datetime_query
+tell me which catering packages are available	12	takeaway_query
+will the sky be overcast	20	weather_query
+check to see if pizza hut has my order on the way	12	takeaway_query
+start new smart socket	27	iot_wemo_on
+dim the lights to level two	4	iot_hue_lightdim
+what is this week's weather forecast	20	weather_query
+please turn bedroom lights off	3	iot_hue_lightoff
+when is taco bell going to arrive	12	takeaway_query
+what is the name of this musical group	17	music_query
+when is trumps next press conference	15	news_query
+what are the current stock prices for google	31	qa_stock
+is my golf game going to get rained out	20	weather_query
+what's the weather in chicago	20	weather_query
+set an alarm for five am	0	alarm_set
+please set an alarm for ten p. m.	0	alarm_set
+what is the weather like tomorrow	20	weather_query
+is it going to be nice tomorrow	20	weather_query
+what is the forecast in me area today	20	weather_query
+list my different alarm	14	alarm_query
+turn on notification for all news on the stock market	31	qa_stock
+notify me of the latest news on the stock market	31	qa_stock
+open my music	7	play_music
+tell me what the latest news is	15	news_query
+i want a nerd joke	22	general_joke
+should i wear shorts today	20	weather_query
+can you tell me a nice joke	22	general_joke
+repeat the last song again	21	music_settings
+what day of the week is june twenty seventh on this year	10	datetime_query
+will i need to be warm	20	weather_query
+what is it today	10	datetime_query
+shut off the lights in the bedroom	3	iot_hue_lightoff
+convert time zone	11	datetime_convert
+what time is it in another city	10	datetime_query
+when is sunset	34	qa_factoid
+ten day forecast	20	weather_query
+can the lights be changed to green	2	iot_hue_lightchange
+show me new york times news	15	news_query
+is there any news	15	news_query
+play uptown girl by billy joel	7	play_music
+set an alarm for five minutes from now	0	alarm_set
+please set my alarm	0	alarm_set
+call pf chang's to order me egg foo young	19	takeaway_order
+what is the current temperature	20	weather_query
+tune in some music	7	play_music
+do you know about this lyrics	17	music_query
+who sung this	17	music_query
+open some cools jokes	22	general_joke
+tell me joke	22	general_joke
+switch the lights to off	3	iot_hue_lightoff
+give me updates on the hurricane news	15	news_query
+send me the stock market updates for today	31	qa_stock
+what were the winning powerball numbers last night	15	news_query
+remove finlee's bedtime alarm	13	alarm_remove
+please speak quieter to me	30	audio_volume_down
+what is the time for the eastern time zone	10	datetime_query
+please tell me the latest news about the election scenario in our state	15	news_query
+i like r. & b.	16	music_likeness
+show us red	2	iot_hue_lightchange
+is the twenty third of april a saturday	10	datetime_query
+what is the week today	10	datetime_query
+what is home town weather	20	weather_query
+run music from this playlist	7	play_music
+tell me when there is new news from my local news	15	news_query
+change the opacity of the color	2	iot_hue_lightchange
+replace color from light to dark	2	iot_hue_lightchange
+turn wemo on	27	iot_wemo_on
+set an alarm for six am	0	alarm_set
+it's dark in here	28	iot_hue_lighton
+olly cancel alarms	13	alarm_remove
+siri cancel yoga alarms	13	alarm_remove
+olly turn the volume up	26	audio_volume_up
+google shuffle playlist	21	music_settings
+play thinking out loud next	7	play_music
+what will be the weather day after	20	weather_query
+d. e. a. guam prescription drug abuse on the rise	15	news_query
+could you please tell me what is the weather predication for this week	20	weather_query
+would you set the coffee maker running	25	iot_coffee
+it's too bright in here can you turn a light off	3	iot_hue_lightoff
+what will the weather be like for this week	20	weather_query
+please add this song to my playlist favorites	16	music_likeness
+please play this song again	7	play_music
+is it still going to be windy on thursday	20	weather_query
+tell a joke	22	general_joke
+olly give me the news on donald trump	15	news_query
+olly is there any current news on the presidential election	15	news_query
+how is weather likely to be in my area today	20	weather_query
+kindly switch off the light in the drawing hall	3	iot_hue_lightoff
+get me the most recent news	15	news_query
+how many runs did cheteshwar pujara scored yesterday	15	news_query
+play my gym playlist	7	play_music
+please turn the lights off in the bathroom	3	iot_hue_lightoff
+olly do i need to wear gloves today	20	weather_query
+is umbrella necessary for my outing	20	weather_query
+start play recently added playlist	7	play_music
+show current news from b. b. c.	15	news_query
+show b. b. c. news live	15	news_query
+what's it like outside	20	weather_query
+what is the weather like in miami florida today	20	weather_query
+provide me the alarm times you have set	14	alarm_query
+can you give me local news on wayne county sheriffs	15	news_query
+play from my play list	7	play_music
+switch to eastern time zone	11	datetime_convert
+when does twenty fourth come in the next week	10	datetime_query
+what's new on itunes	17	music_query
+please show me weather on twenty seventh march two thousand seventeen	20	weather_query
+how is the news in ireland	15	news_query
+what is the song playing	17	music_query
+turn the sound up	26	audio_volume_up
+get the roomba to clean the kitchen	5	iot_cleaning
+please give me detail of o. zaalima song	17	music_query
+get rid of the five p. m. alarm	13	alarm_remove
+run indian folk song	7	play_music
+i need jacket after ten am or not	20	weather_query
+i want to read yahoo news	15	news_query
+should i bring gloves with me tonight	20	weather_query
+do i need a jacket today	20	weather_query
+olly brighten the lights	18	iot_hue_lightup
+change the color of lights	2	iot_hue_lightchange
+olly activate a different light color	2	iot_hue_lightchange
+activate a different light color	2	iot_hue_lightchange
+what is the latest poll on the public view of president trump	15	news_query
+favorite this music	16	music_likeness
+turn the room light off	3	iot_hue_lightoff
+what day is the twenty second of may	10	datetime_query
+set mute until said otherwise	1	audio_volume_mute
+please repeat the current song is being played	21	music_settings
+please let me know the morning alarm time for weekdays	14	alarm_query
+thanks to ally for the photos	8	general_quirky
+play some old school rap	7	play_music
+read me the news for the day	15	news_query
+did ben and jen get back together	15	news_query
+set alarm on twenty fifth may at five p. m.	0	alarm_set
+please turn on my music	7	play_music
+assistant shuffle entire library	7	play_music
+closest chipotle	19	takeaway_order
+shuffle and play blue playlist	7	play_music
+report alarm settings	14	alarm_query
+temperature now	20	weather_query
+shuffle and play all songs by gavenda artist	7	play_music
+will i need sunblock this weekend	20	weather_query
+should i pick up some defrosting salt at the store	20	weather_query
+turn wemo plug socket on	27	iot_wemo_on
+toggle wemo plug socket on	27	iot_wemo_on
+just let me know the current date today	10	datetime_query
+the weather updated to the using seconds per bit weatherit either updates forecasts from intellicast or weathercom both rather poor for my site	20	weather_query
+tap start and then select settings	14	alarm_query
+what time is it in tokyo japan	10	datetime_query
+play party songs	7	play_music
+ricky matin	7	play_music
+start house cleaning	5	iot_cleaning
+should i wear a jacket to work	20	weather_query
+can you speak louder	26	audio_volume_up
+every light of room increase its intensity	18	iot_hue_lightup
+please play me the madonna song again	7	play_music
+orevena voice recorder let me the system page is where to save songs	7	play_music
+climate	20	weather_query
+what day does my birthday fall on next year	10	datetime_query
+what day of the week is twelfth	10	datetime_query
+audio on	26	audio_volume_up
+play artist	7	play_music
+does restaurant royale deliver takeaway	12	takeaway_query
+will there be fog after sunset	20	weather_query
+its cold outside	20	weather_query
+alarm clock	10	datetime_query
+set an alarm for five o'clock this evening labeled taxi	0	alarm_set
+weather in home town	20	weather_query
+play fourth song of the same album after this song	7	play_music
+alexa put classic rock on	7	play_music
+activate robot vacuum	5	iot_cleaning
+is this the hottest day in mangalore	20	weather_query
+tell me about the alarm timings	14	alarm_query
+meaning of a particular word	8	general_quirky
+to listen music	7	play_music
+i am need of an evening rain coat	20	weather_query
+international trade and business market	15	news_query
+can you please be muted for a while	1	audio_volume_mute
+i want to order food	19	takeaway_order
+at what time have you set alarm for me	14	alarm_query
+i would like some coffee now	25	iot_coffee
+prepare my morning coffee	25	iot_coffee
+it's coffee time	25	iot_coffee
+is my order at domino's ready	12	takeaway_query
+when can i pick up my chinese food	12	takeaway_query
+open clock	0	alarm_set
+next play selected song	7	play_music
+alexa increase the brightness of the light it is hard to see down here	18	iot_hue_lightup
+is my order ready for pick up now	12	takeaway_query
+alarm	0	alarm_set
+do i need to take an umbrella with me this afternoon	20	weather_query
+play song by daddy yankee	7	play_music
+hey is it going to rain today in brooklyn new york	20	weather_query
+hey olly how is the weather in long island new york	20	weather_query
+play michael buble save the last dance	7	play_music
+hey olly order two wings with french fries from the chinese food store	19	takeaway_order
+hey olly order a pizza pie with extra cheese	19	takeaway_order
+hey olly what time is it in orlando florida	10	datetime_query
+play anything in my recent playlist	7	play_music
+olly play anything in my recent playlist	7	play_music
+give me information on the song that's playing	17	music_query
+be funny for me	22	general_joke
+olly should i wear my gloves or not	20	weather_query
+tell me the weather for the following month	20	weather_query
+turn on the vacuum	5	iot_cleaning
+should i wear layers sometime today	20	weather_query
+check on this week's weather report	20	weather_query
+show me the one week forecast	20	weather_query
+can i get delivery from here	12	takeaway_query
+tube was super busy today	8	general_quirky
+tell me about my day	8	general_quirky
+dolores do you notice something odd about your world	8	general_quirky
+do you want to hear what have happened today	8	general_quirky
+how you know me	8	general_quirky
+it would be great to dinner in this new opened restaurant downtown	8	general_quirky
+olly how's it hangin	8	general_quirky
+today i got rewards olly	8	general_quirky
+i had a lot of meetings today	8	general_quirky
+where are you from	8	general_quirky
+the weather is sunny today	8	general_quirky
+hey google i hit a million dollar lottery jackpot	8	general_quirky
+tell me important news today	15	news_query
+how is the day today	8	general_quirky
+wakey wakey eggs and bakey	8	general_quirky
+what's been going on	8	general_quirky
+anything interesting in the news today	15	news_query
+i got invited to the pub on saturday	8	general_quirky
+tell me a good alcoholic drink	8	general_quirky
+tell me something about america	8	general_quirky
+sports	8	general_quirky
+hey what are some good movies coming out soon	8	general_quirky
+what do you do with my personal data	8	general_quirky
+when i want it to take down notes	8	general_quirky
+my weekly plan	6	calendar_query
+trivia	8	general_quirky
+wikipedia topics	8	general_quirky
+what's up	8	general_quirky
+breeds of dog that are most hypoallergenic	8	general_quirky
+olly i got into a wreck today	8	general_quirky
+i went to walmart today	8	general_quirky
+sarcastic jokes	22	general_joke
+entertainment news	15	news_query
+mobile	8	general_quirky
+i got drenched in the rain	8	general_quirky
+fashion	8	general_quirky
+schedule	6	calendar_query
+get me answers	8	general_quirky
+today needs to be marked as my cheat day	35	calendar_set
+today was a tiring day	8	general_quirky
+do you like my girlfriend	8	general_quirky
+tell me about rihana	8	general_quirky
+what's happening in ny	45	recommendation_events
+what i did at this time	8	general_quirky
+how was your day	8	general_quirky
+the cosmos	8	general_quirky
+heating levels at what times in the apt	8	general_quirky
+jokes	22	general_joke
+cooking	48	cooking_query
+forecast rates	8	general_quirky
+cars	8	general_quirky
+very hectic	8	general_quirky
+recent advice concerning google seo	8	general_quirky
+joke of the day	22	general_joke
+ingredients needed at grocery store	8	general_quirky
+how's it going	8	general_quirky
+if you could talk about three things what would they be	8	general_quirky
+space research	8	general_quirky
+books	8	general_quirky
+gossiping about celebrities	8	general_quirky
+olly what's my agenda for the remainder of the week	6	calendar_query
+clear my day from meetings	50	calendar_remove
+please put to my calendar daily stand-up to ten am	35	calendar_set
+when is my next meeting	6	calendar_query
+cancel my five p. m. daily call	50	calendar_remove
+book a meeting with chelsea	35	calendar_set
+when is it	8	general_quirky
+do i have any events today	6	calendar_query
+do i have anything booked for tomorrow	6	calendar_query
+tell me about my events	6	calendar_query
+remove all the events on my calendar	50	calendar_remove
+olly remind me about the picnic at regent park	35	calendar_set
+olly i want to go to the outdoor movie screening this weekend remind me	35	calendar_set
+have you added a meeting with tom tomorrow at nine p. m.	6	calendar_query
+delete all events for the next five days	50	calendar_remove
+do i have any meetings tomorrow at nine p. m.	6	calendar_query
+set up the following event in the calendar with the following people	35	calendar_set
+can you erase the past event i visited	50	calendar_remove
+do i have any upcoming events in my calendar	6	calendar_query
+when is the next appointment on my calendar	6	calendar_query
+delete the birthday party tomorrow at two p. m.	50	calendar_remove
+can you delete all events from my calendar	50	calendar_remove
+it's very tough one	8	general_quirky
+i need a reminder every single day at nine am	35	calendar_set
+who should i expect to be at the meeting today	6	calendar_query
+put monday meeting on calendar every monday	35	calendar_set
+set a notification for sixth march that there is a society meeting at eleven am	35	calendar_set
+is there any program for tomorrow evening	6	calendar_query
+delete all events and information	50	calendar_remove
+remove all the events and schedules	50	calendar_remove
+what is my event schedule tomorrow	6	calendar_query
+remind me about tomorrow meeting at ten am	35	calendar_set
+how many meetings do i have this week	6	calendar_query
+wipe calendar clean	50	calendar_remove
+please remind me one hour before the meeting i have tomorrow morning	35	calendar_set
+what is my afternoon schedule tomorrow	6	calendar_query
+upcoming events	6	calendar_query
+latest events	6	calendar_query
+set an appointment for allen on tomorrow	35	calendar_set
+are there any upcoming events on my calendar	6	calendar_query
+set a reminder for vacation next month	35	calendar_set
+clear calendar for this month	50	calendar_remove
+set an alarm for two hours from now please	0	alarm_set
+do i have anything going on this saturday between two and four p. m.	6	calendar_query
+please delete all of my calendar events for the rest of the day	50	calendar_remove
+what events are in my calendar for today	6	calendar_query
+what are my calendar event	6	calendar_query
+do i have any reminders today	6	calendar_query
+remove today's meeting at evening	50	calendar_remove
+let me know the morning of my doctor appointment on the twelfth	35	calendar_set
+make a calendar entry for brunch on saturday morning with chris kimberly and aaronson	35	calendar_set
+remember me to meet reveca today at six p. m.	35	calendar_set
+when is that meeting with my boss next week	6	calendar_query
+delete the wedding on the tenth from my calendar	50	calendar_remove
+what to do next on events	6	calendar_query
+i have an appointment tomorrow remind me	35	calendar_set
+four p. m.	35	calendar_set
+olly i'll be seeing my therapist every thursday at two p. m.	35	calendar_set
+cancel	50	calendar_remove
+i want to go to sally's birthday on saturday at ten p. m.	35	calendar_set
+what do i have going on next week	6	calendar_query
+tell me the date of inauguration of my friend sams business	6	calendar_query
+please mark my calendar for a holiday in cuba on april two	35	calendar_set
+remind to at eight p. m. to take my medicine	35	calendar_set
+when will the match start	6	calendar_query
+what do i have scheduled for tomorrow i need to cancel	50	calendar_remove
+set reminder for meeting at three p. m. tomorrow	35	calendar_set
+remind me to pick up the laundry next monday	35	calendar_set
+set a reminder that i have to visit my father tomorrow	35	calendar_set
+add to the calendar a reunion event for this afternoon	35	calendar_set
+what is my first appointment today	6	calendar_query
+what's on my schedule for today	6	calendar_query
+remind me to meet joe for lunch tomorrow	35	calendar_set
+can you set the location to my sisters house for this event	35	calendar_set
+do remove next event from the calendar	50	calendar_remove
+add bola birthday of twelveth july to my calendar	35	calendar_set
+in the calendar put that we are having dinner with frank at eight p. m. on the ninth of august	35	calendar_set
+what are the list of events in my calendar in march	6	calendar_query
+when is the wedding scheduled	6	calendar_query
+what meetings are available in march	6	calendar_query
+please check third event of twenty second of march twenty seventeen	6	calendar_query
+add valentine's day with her tomorrow	35	calendar_set
+add birthday with mom for next month	35	calendar_set
+create a meeting with friend	35	calendar_set
+attend party before the meeting	35	calendar_set
+please create an event with only these people	35	calendar_set
+remember to pick me up by twelve noon from the airport i have a three p. m. meeting	35	calendar_set
+set meeting with jack on ten march	35	calendar_set
+remember to fix a meeting between me and the players tomorrow evening by seven	35	calendar_set
+what are my current alerts	6	calendar_query
+remind me for tomorrow interview	35	calendar_set
+up coming events	6	calendar_query
+set event on recurring	35	calendar_set
+schedule a meeting on tuesday	35	calendar_set
+what we got in that meeting which held yesterday	6	calendar_query
+please add my next meeting	35	calendar_set
+set reminder for tomorrow for this item	35	calendar_set
+call person a for meeting	35	calendar_set
+when is the bill cycle	6	calendar_query
+set a timer for five minutes for cookies	35	calendar_set
+when does the hockey game start on friday	6	calendar_query
+please delete all my calendar events	50	calendar_remove
+remind me to make a pizza tomorrow morning	35	calendar_set
+set twelve noon prayer for every friday	35	calendar_set
+do i have any pending reminder	6	calendar_query
+don't forget to remind me of my brother's birthday on april twenty	35	calendar_set
+i want to add a lunch date with mike jim and bob	35	calendar_set
+remind me the upcoming meeting at four am today	35	calendar_set
+list out the upcoming meeting	35	calendar_set
+find and delete all of my weekend events with evan parker	50	calendar_remove
+note this event to my calendar	35	calendar_set
+do i have any reminders pending	6	calendar_query
+be sure to remind me of this	35	calendar_set
+hey olly please set a reminder for tomorrow morning ten am meeting	35	calendar_set
+please tell me the pending reminders	6	calendar_query
+tell me about the meeting i have this week	6	calendar_query
+i have a birthday on monday set the event	35	calendar_set
+i have a flight to take on the fifteenth	35	calendar_set
+set a event for the evening	35	calendar_set
+set bob's birthday for every june third	35	calendar_set
+remind me to go to the store every friday	35	calendar_set
+delete grocery shopping from my saturday schedule	50	calendar_remove
+remove all data from my calendar	50	calendar_remove
+what do i have to do on monday	6	calendar_query
+repeat an event in my calendar	35	calendar_set
+are there ways to go ahead and clear my calendar for the month	50	calendar_remove
+add my practice at king's park on feb four at two p. m.	35	calendar_set
+please remind me about swatishs birthday	35	calendar_set
+what does today's schedule look like	6	calendar_query
+add a note to attend	35	calendar_set
+make a repeating reminder for my work tasks every day at eight am	35	calendar_set
+clear my schedule	50	calendar_remove
+do i have anywhere to be between eight am and five p. m. today	6	calendar_query
+what reminders are coming up this week	6	calendar_query
+add event baseball practice five p. m. tonight	35	calendar_set
+what does my morning look like tomorrow	6	calendar_query
+who will be attending the meeting this friday	6	calendar_query
+what happened between the second and the fifteenth	15	news_query
+tell me all the events between today and the twenty first	6	calendar_query
+please give me an update on the election every thirty minutes	35	calendar_set
+do i have any appointments today	6	calendar_query
+open calendar remove all events	50	calendar_remove
+remind me about my biology test at fsu on friday	35	calendar_set
+what is on november twenty	6	calendar_query
+what is the schedule of the next maggie rogers concert	6	calendar_query
+what do i need to know about the show	6	calendar_query
+who and why is on at the theater tonight	45	recommendation_events
+are there any reminders set for today	6	calendar_query
+please remove the parent teacher conference scheduled on march seven	50	calendar_remove
+do i have a meeting for today in my calendar	6	calendar_query
+please set a reminder for me to go to work in ten minutes	35	calendar_set
+how many meetings do i have next week	6	calendar_query
+on february fourteenth make dinner reservations at the restaurant	35	calendar_set
+what is happening this weekend	6	calendar_query
+is this week trash pickup week	6	calendar_query
+what time does the dinner party start tonight	6	calendar_query
+when is my next reminder	6	calendar_query
+tell me all known details about the tournament on march twenty two	6	calendar_query
+schedule lunch at tomo in arcata california tomorrow at noon	35	calendar_set
+do i have a date friday	6	calendar_query
+send me a reminder to pick up my dog from the groomer at one p. m.	35	calendar_set
+when is my meeting	35	calendar_set
+olly email my appointments to reschedule	40	email_sendemail
+alter lunch event to repeat every friday	35	calendar_set
+meeting update my calendar to reflect meeting	35	calendar_set
+when are the trains running tomorrow	6	calendar_query
+set a remainder at three p. m. to pick jo	35	calendar_set
+cancel my meeting on the fourteenth	50	calendar_remove
+give me information about the concert on tuesday night	6	calendar_query
+i need to be reminded that there is a meeting for paul's retirement set reminder for tuesday at three p. m.	35	calendar_set
+what is happening at that event	45	recommendation_events
+what do i have going on this morning between ten twelve	6	calendar_query
+what time is the evening meeting i have with john	6	calendar_query
+set a reminder i need to wake up at five am every morning	0	alarm_set
+more about the concert in street pete	6	calendar_query
+olly remind me about tomorrow's meeting tonight	35	calendar_set
+notification of meeting on wednesday	35	calendar_set
+add my upcoming meeting to my calendar	35	calendar_set
+completely clear my calendar please	50	calendar_remove
+please delete the meeting i have with john tonight	50	calendar_remove
+set a reminder for wednesdays at two p. m.	35	calendar_set
+is it true that susan's birthday is on march first	6	calendar_query
+did you add tomorrow's meeting to my calendar	6	calendar_query
+add lunch meetings at noon every day this week	35	calendar_set
+set a reminder for the meeting friday at three p. m.	35	calendar_set
+remove everything from the calendar	50	calendar_remove
+hey siri make sure my calendar is completely clear tomorrow	50	calendar_remove
+new notification for meeting in two hours	35	calendar_set
+remind me about calendar	35	calendar_set
+are there any pending appointments this morning	6	calendar_query
+is this week a payday week	6	calendar_query
+cancel all appointments in my calendar	50	calendar_remove
+what reminders do i have set	6	calendar_query
+what's the news for six hundred and forty five am today	6	calendar_query
+remove my event at one p. m. in my calendar	50	calendar_remove
+olly remind me i need to be at the library a week from today at five	35	calendar_set
+set a reminder for next saturday go to the library at five o'clock	35	calendar_set
+remind me about the upcoming national holiday	35	calendar_set
+remove my calendar event at one p. m. today	50	calendar_remove
+set a reminder for my meeting at five p. m.	35	calendar_set
+please add an appointment at nine am wednesday at doctor greens office	35	calendar_set
+what were the highlights from this evening's soccer match	6	calendar_query
+tell me what is on my schedule for today	6	calendar_query
+when is bruno mars coming to sacramento	6	calendar_query
+i want to add something to my calendar	35	calendar_set
+clear event from calendar and refresh	50	calendar_remove
+what events do i have coming up	6	calendar_query
+delete the next event on the calendar	50	calendar_remove
+please cancel the next event on the calendar	50	calendar_remove
+what meetings do i have between eight ten today	6	calendar_query
+remind me tomorrow at two p. m.	35	calendar_set
+schedule an event in my calendar for the pool party at jack's place this saturday	35	calendar_set
+what is the address for the event scheduled on the first of january	6	calendar_query
+i want to meet with sara tomorrow	35	calendar_set
+cancel my meeting with lisa on tuesday and reschedule it for thursday	35	calendar_set
+remove thursday's lunch from my calendar	50	calendar_remove
+set and event for the fifteenth of every month to remind me to pay my internet bill	35	calendar_set
+add the following date and time to my calendar	35	calendar_set
+when is the event	6	calendar_query
+add an event starting at three p. m. in goshen new york on may fifth for dan's graduation	35	calendar_set
+in the last year how many hours have i been in meetings	6	calendar_query
+delete meeting	50	calendar_remove
+i have a meeting with al on march twenty first at ten	35	calendar_set
+i needed to prepare for a meeting	6	calendar_query
+show my upcoming events	6	calendar_query
+delete from the calendar the next event	50	calendar_remove
+does my calendar say i'm free on april one two thousand and seventeen	6	calendar_query
+set a weekly appointment reminder	35	calendar_set
+flag two day after this day as my holiday	35	calendar_set
+tuesday meeting noon	35	calendar_set
+do i have anything scheduled for march seventh	6	calendar_query
+olly schedule my doctors appointment on friday at two p. m.	35	calendar_set
+can you please add my dinner reservations to my calendar	35	calendar_set
+set calendar info for albert's marriage	35	calendar_set
+do i have any calendar events today	6	calendar_query
+searching on holidays in my location	45	recommendation_events
+searching for recent happenings on the particular dates	45	recommendation_events
+do i have any reminders on my list	6	calendar_query
+please remind me of	35	calendar_set
+please set alarm for	0	alarm_set
+do i need to be reminded of any meetings on monday	35	calendar_set
+is calendar event false	6	calendar_query
+remove all my meetings for the rest of the week	50	calendar_remove
+add to calendar may two is mary's birthday repeat every year	35	calendar_set
+i want you to remind me to take my rain coat because it may rain	35	calendar_set
+please tell me to take my umbrella because it will be very hot today	35	calendar_set
+what is my schedule for june fourteenth two thousand and seventeen	6	calendar_query
+please delete all reminder of sunday	50	calendar_remove
+remember dinner on thursday at bistro italia	35	calendar_set
+set reminder	35	calendar_set
+calendar event with these people	35	calendar_set
+clear my schedule for today	50	calendar_remove
+details	6	calendar_query
+tell about latest events	6	calendar_query
+when are the meetings	6	calendar_query
+when is the party scheduled	6	calendar_query
+notify me with all events in the next one week	35	calendar_set
+john marriage anniversary	35	calendar_set
+when are holiday in current month	6	calendar_query
+let me know of the meeting on tuesday	35	calendar_set
+i want you to remind me about the evening program	35	calendar_set
+delete eric's b. day from the calendar	50	calendar_remove
+ok google schedule a meeting with the v. p. of the department on the twenty first of march two thousand and seventeen	35	calendar_set
+i need a meeting with the c. f. o. on thursday	35	calendar_set
+remove birthday event from my calendar	50	calendar_remove
+remind me on fifth april there is a meeting with boss	35	calendar_set
+create a reminder for visa application on this thursday	35	calendar_set
+make blank on july three calendar	50	calendar_remove
+set an alarm for four p. m. tuesday	0	alarm_set
+make an event reminder for monas wedding on tuesday	35	calendar_set
+put a repeating event on the calendar	35	calendar_set
+am i busy this weekend	6	calendar_query
+olly do i have an appointment next week	6	calendar_query
+delete day after event	50	calendar_remove
+remind the required events to be reset	35	calendar_set
+add my sister visiting to my family calendar	35	calendar_set
+where is the convention center located	34	qa_factoid
+any meeting on friday	6	calendar_query
+remind me that i have an appointment twelve o'clock on saturday	35	calendar_set
+olly do i have any calendar events this month	6	calendar_query
+olly make a calendar entry for next saturday at ten am please	35	calendar_set
+remind me of the meeting on the twenty second of january	35	calendar_set
+remind me about the meeting in one hour	35	calendar_set
+remind me in one hour about my meeting	35	calendar_set
+play some radio	32	play_radio
+showcase the radio	32	play_radio
+open pandora play rock station	32	play_radio
+open iheartradio rov the rock	32	play_radio
+tune a radio channel for good jokes	32	play_radio
+start radio	32	play_radio
+shoutcast dot com	32	play_radio
+put the radio on	32	play_radio
+please tune the radio channel	32	play_radio
+i wish to listen that radio channel	32	play_radio
+switch on radio	32	play_radio
+can you start f. m. eight hundred and ninety radio channel	32	play_radio
+play tunes	32	play_radio
+turn it to frequency nine hundred and ninety seven	32	play_radio
+turn on channel nine hundred and fifty one	32	play_radio
+please play the radio	32	play_radio
+radio on	32	play_radio
+go to my favorite radio channel	32	play_radio
+play a song that will make me smile	7	play_music
+play nine hundred and seventy one	32	play_radio
+play b. b. c. radio four please	32	play_radio
+play b. b. c. radio one	32	play_radio
+please open my f. m. radio and play nine hundred and eighty seven	32	play_radio
+olly i want to hear a station that plays r. & b.	32	play_radio
+play the football game on the radio	32	play_radio
+how many of my sports podcasts have new episodes i have not listened to yet	32	play_radio
+open pandora and play top hits	32	play_radio
+please play popular music on pandora	32	play_radio
+play famosa radio for me	32	play_radio
+get me some radio music from kamp f. m.	32	play_radio
+please play top country	7	play_music
+play music programs in radio	32	play_radio
+play the current playlist	7	play_music
+find joel osteen's broadcast on sirius	32	play_radio
+play the station one hundred and two point four the buzz	32	play_radio
+play news in f. m.	32	play_radio
+play the neal brennan episode of wait wait don't tell me	32	play_radio
+play ninety three point five f. m.	32	play_radio
+play a news radio station	32	play_radio
+ok google can you start ryan seacrest	32	play_radio
+play my favorite station at nine p. m.	32	play_radio
+pdr am radio	32	play_radio
+play the programs in this required pad's	32	play_radio
+what stations are playing good music this morning	32	play_radio
+tune into ninety nine point five f. m.	32	play_radio
+play a country station	32	play_radio
+turn to billy bob show	32	play_radio
+play b. b. c. radio four	32	play_radio
+play this program	32	play_radio
+can you play my favorite audio book of harry potter	36	play_audiobook
+can you put on the chuck palhunik audio book	36	play_audiobook
+start chapter seven of alma	36	play_audiobook
+resume audio book history of rome	36	play_audiobook
+can you pause the audio	36	play_audiobook
+continue playing my audiobook	36	play_audiobook
+pause the audiobook	36	play_audiobook
+open the davinci code where i left off	36	play_audiobook
+start play johns audiobook	36	play_audiobook
+play recently added audiobook	36	play_audiobook
+play audio	36	play_audiobook
+resume my audiobook where we paused last	36	play_audiobook
+resume last played audiobook	36	play_audiobook
+please play recently paused audio	36	play_audiobook
+resume my audiobook from the beginning of the last chapter i started	36	play_audiobook
+play the circle	36	play_audiobook
+lets have a break for five minutes	36	play_audiobook
+start reading book	36	play_audiobook
+resume the last kingdom for me	36	play_audiobook
+open harrypotter audiobook and play from last played	36	play_audiobook
+look for this playback in audiobook and play for me	36	play_audiobook
+please resume this playback in audiobook	36	play_audiobook
+listen to the martian from downpour	36	play_audiobook
+start reading fifty shades of grey from chapter four	36	play_audiobook
+resume a song from the audiobook by michael jackson	36	play_audiobook
+play audiobook snow white	36	play_audiobook
+can you continue audiobook the circle	36	play_audiobook
+audio book play jai ho	36	play_audiobook
+resume the reading of the french lesson	36	play_audiobook
+please play back some important points summary	36	play_audiobook
+start reading that alan partridge book	36	play_audiobook
+continue with my audiobook please	36	play_audiobook
+continue playing my book of vitamins	36	play_audiobook
+olly resume the two towers	36	play_audiobook
+play from this point from this audiobook	36	play_audiobook
+tell me how to make garlic bread	52	cooking_recipe
+how much time to cook pasta	52	cooking_recipe
+what can i cook with broccoli and chicken	52	cooking_recipe
+instruct me to cook	52	cooking_recipe
+how can i cook pasta	52	cooking_recipe
+what ingredient can be used to replace white wine	52	cooking_recipe
+could you please display the videos for cooking italian food	52	cooking_recipe
+olly how do i make lobster bisque	52	cooking_recipe
+how is pav bhaji cooked	52	cooking_recipe
+what the sexiest food to cook on a date	52	cooking_recipe
+for how much time should i oven pizza to make it perfect crispy	52	cooking_recipe
+how do you cook black eye pea	52	cooking_recipe
+give me recipes	52	cooking_recipe
+use google to show me how to cook	52	cooking_recipe
+give me best cooking ideas	52	cooking_recipe
+show me the recipe for cookies	52	cooking_recipe
+how do i make cookies	52	cooking_recipe
+how many cups are in a quart	52	cooking_recipe
+how do i bake a potato	52	cooking_recipe
+look for a pizza recipe	52	cooking_recipe
+how do i make meatloaf	52	cooking_recipe
+find me a recipe for chicken noodle soup	52	cooking_recipe
+search for gluten free menus	52	cooking_recipe
+show me how to cook a recipe	52	cooking_recipe
+how long do i chill an icebox pie	52	cooking_recipe
+how do you cook a four cheese omelet	52	cooking_recipe
+get recipe for making a hotdog	52	cooking_recipe
+crockpot recipe for chicken alfredo	52	cooking_recipe
+can you pull up a recipe for spaghetti	52	cooking_recipe
+bring up a recipe for turkey meatballs	52	cooking_recipe
+recipes	52	cooking_recipe
+how long do i roast chicken breasts	52	cooking_recipe
+recipe for crabmeat	52	cooking_recipe
+i need some ideas for dinner that are mexican	52	cooking_recipe
+no more comments	52	cooking_recipe
+what is the cooking time for boiled eggs	52	cooking_recipe
+find easy recipe for almond milk	52	cooking_recipe
+find recipe chicken casserole	52	cooking_recipe
+look up meal recipe	52	cooking_recipe
+alexa play chess with me	43	play_game
+i feel like playing chess can you play that	43	play_game
+how about a nice game of chess	43	play_game
+play solitaire	43	play_game
+play a race game	43	play_game
+lets play pinball	43	play_game
+start play spider	43	play_game
+want to play a game with me	43	play_game
+i want you to play my soccer game from fifth level	43	play_game
+want to play a game of trivia	43	play_game
+find game	43	play_game
+play snake with me	43	play_game
+lets solve the puzzle	43	play_game
+open papa pear saga	43	play_game
+let's play checkers	43	play_game
+play games	43	play_game
+can you take a role of enemy in the game of coc	43	play_game
+play chess with me please	43	play_game
+can you do name that tune	43	play_game
+could you play poker with me	43	play_game
+let us play millionaires	43	play_game
+lets play tic tac toe	43	play_game
+list the items on my shopping list olly	42	lists_query
+i'd like to cancel the trip to vegas next week	51	lists_remove
+what is on my shopping list today	42	lists_query
+cross out bread from shopping list	51	lists_remove
+add vodka to my party shopping list	42	lists_query
+remove a list of things to buy	51	lists_remove
+can you create a new list	54	lists_createoradd
+remove a list of food items purchased last week	51	lists_remove
+it's depend pon the seen	51	lists_remove
+clear list	51	lists_remove
+make list	54	lists_createoradd
+which grocery stores have i mad a list with	42	lists_query
+what are my lists	42	lists_query
+what lists are available	42	lists_query
+find list and remove apple	51	lists_remove
+erase my old english songs list	51	lists_remove
+please remove a list	51	lists_remove
+add this item to the list	54	lists_createoradd
+what were the last five lists i made	42	lists_query
+send me the last list uploaded	42	lists_query
+make a list of numbers for me	54	lists_createoradd
+create a new list for me please	54	lists_createoradd
+what's on my to do list for today	42	lists_query
+what am i doing today	8	general_quirky
+check item five on my to do list	42	lists_query
+please show my list	42	lists_query
+remove the excel file from the list	51	lists_remove
+tell me a play list	17	music_query
+how many food items on the list	42	lists_query
+the list should not contain all food items with the prefix dry	51	lists_remove
+by tomorrow create a new list	54	lists_createoradd
+make a new list	54	lists_createoradd
+put pencil on a new grocery list	54	lists_createoradd
+please remove this item from the list	51	lists_remove
+add grocery to list	54	lists_createoradd
+read the list	42	lists_query
+bing up my list	42	lists_query
+tell me what lists i have	42	lists_query
+remove item three	51	lists_remove
+what does the list contain	42	lists_query
+please add this item to the list	54	lists_createoradd
+display available lists	42	lists_query
+can you please tell me what i have on my list	42	lists_query
+remove pepper from my grocery list	51	lists_remove
+add something to my list	54	lists_createoradd
+remove that item from my list	51	lists_remove
+google translate	42	lists_query
+read back what i put on my to do list for this week	42	lists_query
+read shopping list items	42	lists_query
+add cereal to my shopping list	54	lists_createoradd
+are eggs on my shopping list	42	lists_query
+do i have a list of contacts for the party i'm planning	42	lists_query
+delete my to do list	51	lists_remove
+remove item from list	51	lists_remove
+please add milk to the grocery list	54	lists_createoradd
+will you please show me my lists	42	lists_query
+open lists remove list	51	lists_remove
+olly what's next on my list	42	lists_query
+take milk off my grocery list	51	lists_remove
+please tell me what lists i have made	42	lists_query
+rearrange that off the list	51	lists_remove
+drop it from list	51	lists_remove
+olly what else do i have on the list	42	lists_query
+add buy groceries to my to do list for today	54	lists_createoradd
+please tell me how can i remove the item	51	lists_remove
+can i check my lists	42	lists_query
+did i make a shopping list	42	lists_query
+remove item from my list	51	lists_remove
+create a new list of	54	lists_createoradd
+tell me the list about	42	lists_query
+please remove the first list	51	lists_remove
+remove meeting for wednesday morning	50	calendar_remove
+create a new list of my pending bills	54	lists_createoradd
+read my list to me	42	lists_query
+give me my list	42	lists_query
+make a list for work	54	lists_createoradd
+please delete list titled kickball	51	lists_remove
+i don't want this list any more	51	lists_remove
+do i have anything on my to do list	42	lists_query
+what lists are currently available right now	42	lists_query
+delete the last line	51	lists_remove
+create a new list for school supplies	54	lists_createoradd
+delete call newspaper from my vacation list	51	lists_remove
+read out my shopping list for today	42	lists_query
+what is on the list for today	42	lists_query
+include an item to a list	54	lists_createoradd
+take grocery buying off of the list	51	lists_remove
+we're out of paint so take bathroom painting off the list	51	lists_remove
+remind me to order more soap	54	lists_createoradd
+open my list	42	lists_query
+remove last played song	51	lists_remove
+please add tom to my contact list	59	email_addcontact
+can you read me my lists	42	lists_query
+hey what are my lists	42	lists_query
+hey olly what are my lists	42	lists_query
+can you tell me what the items on my grocery list are	42	lists_query
+what is that on the list	42	lists_query
+tell me what's on my list	42	lists_query
+remove a list	51	lists_remove
+cancel the milk from the shopping list	51	lists_remove
+add milk to my grocery list	54	lists_createoradd
+remove the santana music list	51	lists_remove
+what is on this specific list	42	lists_query
+can i see my work lists	42	lists_query
+add this to a list	54	lists_createoradd
+please remove my to do list from today	51	lists_remove
+i don't want eggs	51	lists_remove
+list the available's	42	lists_query
+create a list of monthly groceries to be bought	54	lists_createoradd
+my work schedule	6	calendar_query
+my health planning	42	lists_query
+add pastries to the christmas list	54	lists_createoradd
+remove the list of things to do	51	lists_remove
+delete the old playlist and create new	54	lists_createoradd
+check list	42	lists_query
+how many items are on my to do list	42	lists_query
+check my list	42	lists_query
+can you forward an episode in the podcast	37	play_podcasts
+play next episode	37	play_podcasts
+locate my podcast	37	play_podcasts
+proceed to the next episode	37	play_podcasts
+play newest reason podcast	37	play_podcasts
+move to the next episode	37	play_podcasts
+play the seventh episode of the morning after	37	play_podcasts
+find and make a playlist of all the latest dancing tracks	7	play_music
+arrange and play all songs of eminem	7	play_music
+plays the podcast from the beginning	37	play_podcasts
+hey play that podcast i stopped last night	37	play_podcasts
+skip to next podcast	37	play_podcasts
+replay the following podcast	37	play_podcasts
+skip to the next podcast	37	play_podcasts
+i want to listen to m. c.'s podcast	37	play_podcasts
+favorite	37	play_podcasts
+go forward please	37	play_podcasts
+find podcast and play it	37	play_podcasts
+can you play my music file	7	play_music
+skip to the next episode	37	play_podcasts
+end this podcast start anew	37	play_podcasts
+listen to duncan trussel's latest podcast	37	play_podcasts
+play the last next episode	37	play_podcasts
+start podcast m. l. b. daily	37	play_podcasts
+show me the top rated podcasts	37	play_podcasts
+play episode of stuff you should know in queue	37	play_podcasts
+play classic songs	7	play_music
+play good mythical morning podcast	37	play_podcasts
+back one episode	37	play_podcasts
+rewind button	37	play_podcasts
+show me the last episode	37	play_podcasts
+olly play heavyweight podcast	37	play_podcasts
+play the podcast of barack obama saved in device	37	play_podcasts
+network podcast	37	play_podcasts
+much more clearer and subject oriented	37	play_podcasts
+short and simple	37	play_podcasts
+play the most current episode of levin	37	play_podcasts
+i want to hear this podcast	37	play_podcasts
+what new movies are played in cinemas this week	41	recommendation_movies
+are there dog shows going on near new york city	45	recommendation_events
+where is the nearest pub in the city	33	recommendation_locations
+what concerts are due nearby	45	recommendation_events
+what movies are being shown at the regal cinema	41	recommendation_movies
+what exhibits or shows are scheduled at the metropolitan theater	45	recommendation_events
+what events are happening near me	45	recommendation_events
+where should i go for mexican food in my area	33	recommendation_locations
+i need some sushi what's closest	33	recommendation_locations
+search for nearby chinese restaurants	33	recommendation_locations
+where is the food festival tonight	45	recommendation_events
+i'm looking for some dress shows can you find clothing stores within one mile	33	recommendation_locations
+where is the closest restaurant	33	recommendation_locations
+olly pinpoint me the location of the shop	33	recommendation_locations
+what new movies available today	41	recommendation_movies
+show me some food court nearest to my location	33	recommendation_locations
+any good bike shops in oxford	33	recommendation_locations
+best bar in local area	33	recommendation_locations
+tell me all local events	45	recommendation_events
+near by grocery	33	recommendation_locations
+which rom com movie can i watch in theaters around new york	41	recommendation_movies
+make a to do list while visiting the yellow stone national park	45	recommendation_events
+which things should i do when i visit the yellowstone national park	45	recommendation_events
+what's going on around me	45	recommendation_events
+theaters near to me	41	recommendation_movies
+which book fair events are taking place next week in washington d. c.	45	recommendation_events
+what is the nearest theater that plays the new vin diesel movie	41	recommendation_movies
+what events are going on in new york city	45	recommendation_events
+logan	41	recommendation_movies
+who sells the cheapest netbooks in south austin	33	recommendation_locations
+what's the best clothes store here	33	recommendation_locations
+find a shop that sells beer	33	recommendation_locations
+what movies are playing at theaters near me	41	recommendation_movies
+what are movies that are playing near me with high reviews	41	recommendation_movies
+movies with good rotten tomato ratings	41	recommendation_movies
+what activities are taking place in my area	45	recommendation_events
+which flags ride is the best	45	recommendation_events
+what's worth watching	41	recommendation_movies
+tell me about activities in my area this weekend	45	recommendation_events
+what's going on in la	45	recommendation_events
+what kind of shops are near my locality	33	recommendation_locations
+can you recommend a cheap restaurant in this area	33	recommendation_locations
+olly what are some restaurants near me	33	recommendation_locations
+where can i find the nearest irish pub in my area	33	recommendation_locations
+olly what bars are around me	33	recommendation_locations
+show me all the events happening in milan	45	recommendation_events
+tell me what's going on in my city	45	recommendation_events
+what is going on in la today	45	recommendation_events
+how many grocery stores are located in my neighborhood	33	recommendation_locations
+ask a restaurant in my area	33	recommendation_locations
+i'm starving what's good to eat in cincinnati	33	recommendation_locations
+olly where can i got to grab some drinks in west chester	33	recommendation_locations
+today's local events	45	recommendation_events
+list all the nearby shops	33	recommendation_locations
+can you recommend any pub in milligrams road	33	recommendation_locations
+what's going on around the neighborhood	45	recommendation_events
+i need a place that will deliver pizza to me in benton are	33	recommendation_locations
+is there any chinese places in benton are	33	recommendation_locations
+please search for events in my location	45	recommendation_events
+hey olly i want to get trains to manchester on wednesday	44	transport_ticket
+when's the next train to cornwall	39	transport_query
+what's the best way to france	39	transport_query
+i am going to chinatown in half an hour book an uber for me	55	transport_taxi
+olly book a ticket to paris on eurostar at five p. m. this friday	44	transport_ticket
+book my chair class a. c. train ticket from manhattan to new york	44	transport_ticket
+how is the traffic situation in houston street	47	transport_traffic
+call me an uber for right now	55	transport_taxi
+is there more traffic in canal street	47	transport_traffic
+how much traffic is there right now in bowery street	47	transport_traffic
+send an uber to me right now	55	transport_taxi
+where is the train station	39	transport_query
+could you please have uber be at my house in fifteen minutes	55	transport_taxi
+i need a taxi to take me to the airport please	55	transport_taxi
+book me a plane ticket	44	transport_ticket
+look for a taxi to go home	55	transport_taxi
+book uber from my home	55	transport_taxi
+can you please let me know the next four scheduled trains to chicago	39	transport_query
+how is the traffic in milligrams road	47	transport_traffic
+how is traffic	47	transport_traffic
+get me an amtrak ticket to boston for next thursday the later the better	39	transport_query
+what is the schedule time of punjab mail to reach gwalior	39	transport_query
+when is the next train to b. street	39	transport_query
+lets get a taxi	55	transport_taxi
+direct me towards nearest railway station	39	transport_query
+train time from brooklyn to queens	39	transport_query
+search for two tickets on tuesday's train to paris	44	transport_ticket
+what is the condition of traffic from work to home	47	transport_traffic
+tell me the traffic condition from here to home	47	transport_traffic
+reserve a taxi	55	transport_taxi
+coach and fare	44	transport_ticket
+in delhi traffic level too high	47	transport_traffic
+book a taxi to the airport for tomorrow morning	55	transport_taxi
+i would like to know the traffic condition	47	transport_traffic
+book my nearest available taxi	55	transport_taxi
+how do i get to brighton	39	transport_query
+get me an uber	55	transport_taxi
+book a taxi	55	transport_taxi
+repurchase last train ticket to phillyx	44	transport_ticket
+buy me today train ticket to city leeds	44	transport_ticket
+directions to nearest apple store	39	transport_query
+give me the idea of current traffic condition	47	transport_traffic
+what are the train times to travel from new york city to poughkeepsie	39	transport_query
+how do i get to poughkeepsie from new york city	39	transport_query
+how is the traffic from home to work	47	transport_traffic
+catch a ride	55	transport_taxi
+what are the train times on the twenty third to clarksville	39	transport_query
+purchase train ticket	44	transport_ticket
+need a taxi tomorrow at eight in the morning	55	transport_taxi
+book ticket to depart in the morning	44	transport_ticket
+find an uber driver available for tonight after ten p. m.	55	transport_taxi
+what time does the train leave for chicago	39	transport_query
+can you book me a train ticket to boston for next tuesday	44	transport_ticket
+what time does the train leave philadelphia	39	transport_query
+when is the next septa train to philadelphia	39	transport_query
+get me the number for local taxi service	55	transport_taxi
+give me directions for the place	39	transport_query
+directions to disney world	39	transport_query
+i need to get to location call a cab	55	transport_taxi
+i'd like a listing of all train ticket prices for this location please	39	transport_query
+i need to go to lyon book a train ticket	44	transport_ticket
+what are the train times from san francisco to new york	39	transport_query
+olly please purchase me a train ticket to atlanta	44	transport_ticket
+how much for a train ticket	39	transport_query
+please send me info on how to go about purchasing a train ticket to new york	39	transport_query
+can you give me train times for ann arbor	39	transport_query
+book me a train ticket to chicago for tomorrow morning before ten	44	transport_ticket
+i want to go to bank of america give me directions	39	transport_query
+please order one train ticket to los angeles	44	transport_ticket
+i need a taxi at eight tomorrow morning to take me to work	55	transport_taxi
+current traffic	47	transport_traffic
+what are the train times for	39	transport_query
+could you please check the traffic to our home	47	transport_traffic
+is traffic heavy	47	transport_traffic
+buy me a ticket to take the train to atlanta	44	transport_ticket
+how much traffic does atlanta georgia usually have	47	transport_traffic
+book train ticket for this time	44	transport_ticket
+set up uber	55	transport_taxi
+find me a ride to the mall of america please	55	transport_taxi
+call a taxi to pick me up right now	55	transport_taxi
+are there any traffic issues	47	transport_traffic
+what is the route to the closest mcdonalds	39	transport_query
+what street do i take to get to downtown	39	transport_query
+i need to buy a train ticket	44	transport_ticket
+book a train ticket to	44	transport_ticket
+how much is a train ticket to san fransisco	39	transport_query
+request a taxi from udrive service	55	transport_taxi
+what is the traffic this morning	47	transport_traffic
+what is the traffic now	47	transport_traffic
+how is the traffic near me	47	transport_traffic
+what is current traffic in ohio	47	transport_traffic
+list all train time to ny	39	transport_query
+show all train and time to ny	39	transport_query
+get me a train ticket to chicago today	44	transport_ticket
+what is the quickest way to grand central	39	transport_query
+open irctc application and go to book ticket	44	transport_ticket
+book for me a train ticket to washingdon d. c.	44	transport_ticket
+book a taxi for pickup at my current location in one hour's time	55	transport_taxi
+which route has less traffic today	47	transport_traffic
+book my train ticket to new york	44	transport_ticket
+get me a taxi to take me to the airport on friday at five thirty am	55	transport_taxi
+get me a ride on the commuter train from nj to ny	44	transport_ticket
+could you list out the list of trains heading to chester the day after	39	transport_query
+is the road in some particular area wide or narrow	47	transport_traffic
+reserve a seat for me on the train march twentieth	44	transport_ticket
+please let me know the time of train northern rail	39	transport_query
+please book the next taxi	55	transport_taxi
+open the uber app and get me a car please	55	transport_taxi
+hey what time can i catch the nearest train to me	39	transport_query
+find a definition	49	qa_definition
+who is president of poland	34	qa_factoid
+what currency does croatia use	58	qa_currency
+how tall is a giraffe	34	qa_factoid
+in what scenario would you use word inconvenience	49	qa_definition
+calculate the resistance of this resistor	34	qa_factoid
+google	56	qa_maths
+browsing centers	56	qa_maths
+tell me the brief definition of evacuation	49	qa_definition
+do you think time travel is possible	8	general_quirky
+what age is britney spears	34	qa_factoid
+email friend	40	email_sendemail
+explain to me about what different countries are represented in the book of revelation	8	general_quirky
+what is three times seven	56	qa_maths
+what should i cook tonight	8	general_quirky
+tell me what happens when we die	8	general_quirky
+what state is david lynch from	34	qa_factoid
+set up a date for just you and me	8	general_quirky
+what is the square root of forty two	56	qa_maths
+tell me why bill bur is a better comedian than iliza schleshinger	34	qa_factoid
+tell me tom hanks middle name	34	qa_factoid
+how to spell the word giraffe	49	qa_definition
+can you able to say the word demonetisation	49	qa_definition
+which was longest buildings in the world	34	qa_factoid
+do you hear songs of arrahman music	17	music_query
+schedule a meeting with my colleague	35	calendar_set
+actor who acts a role	49	qa_definition
+please give me information next movie of aamir khan	34	qa_factoid
+none	34	qa_factoid
+can you lie	8	general_quirky
+what is hurricane	49	qa_definition
+google the word	49	qa_definition
+calculate distance from boston to new york	34	qa_factoid
+solve the calculation	56	qa_maths
+what is the population of los angeles	34	qa_factoid
+what is your mother language	8	general_quirky
+how old is jennifer lopez	34	qa_factoid
+sum up all the things for me i could do to make myself happier	8	general_quirky
+if there were ten easy steps to make myself rich what would they be	8	general_quirky
+largest animal	34	qa_factoid
+tallest building	34	qa_factoid
+where is justin bieber's home base	34	qa_factoid
+what is my location	8	general_quirky
+with all of the information you can gather on the internet could you please provide me with the best probable explanation of who killed president kennedy	34	qa_factoid
+i would like my to write original romantic messages for my wife	8	general_quirky
+tell me the story of ramanujan and his mathematical journey	34	qa_factoid
+the following question asks you to analyze teacher goals and actions intended	34	qa_factoid
+who are the greatest hip hop artists	34	qa_factoid
+what does hypocrisy mean	49	qa_definition
+what does the word hypocrisy mean	49	qa_definition
+answer this question what's the first boss in super mario brothers	8	general_quirky
+use in a sentence	49	qa_definition
+what is the answer to two plus two	56	qa_maths
+define swerving	49	qa_definition
+when defining words give thesaurus and use in a sentence to make it clearer	8	general_quirky
+who are the top five all time n. h. l. goal scorers	8	general_quirky
+when was benjamin franklin born	34	qa_factoid
+who is the governor of new york	34	qa_factoid
+what is the definition of pda	49	qa_definition
+what is trump's approval rating	34	qa_factoid
+can you tell me how to get the answer to this	8	general_quirky
+solve math issue	56	qa_maths
+is there life on other planets	8	general_quirky
+what is your favorite color	8	general_quirky
+what do you think of the three laws of robotics	8	general_quirky
+tell me the lucky color of today	8	general_quirky
+read a poem for me	8	general_quirky
+is there a correlation between the weather in beijing and nasdaq prices over the last week	8	general_quirky
+is tom cruise an only child	34	qa_factoid
+please search for this word	49	qa_definition
+why is the sky blue	34	qa_factoid
+what is twenty four times twenty four	56	qa_maths
+how long is an earth day	34	qa_factoid
+i hope we could have lunch together	8	general_quirky
+who was in the beatles	34	qa_factoid
+will the world come to an end when	8	general_quirky
+what does tense mean	49	qa_definition
+where is my girl friend right now	8	general_quirky
+look up the definition to ambulance	49	qa_definition
+are jello shots calorie free	34	qa_factoid
+can you tell me the cheapest place to get ground beef	33	recommendation_locations
+what does potato mean	49	qa_definition
+tell me an interesting fact about this	8	general_quirky
+when is the next touring	8	general_quirky
+what is the exchange rate between the dollar and the euro currently	58	qa_currency
+define framework	49	qa_definition
+describe a potato	49	qa_definition
+how many times has adel gone diamond	34	qa_factoid
+tell me the most strange thing happening in the world today	8	general_quirky
+tell me time it is	10	datetime_query
+how do you define textual	49	qa_definition
+i want to take a trip to switzerland for free can you take me there	8	general_quirky
+what is the yen us dollar exchange rate	58	qa_currency
+how many miles in five kilometers	56	qa_maths
+how old is angelina jolie	34	qa_factoid
+where is stockton california	34	qa_factoid
+what is barack obama doing right now	34	qa_factoid
+what is a cell tower	49	qa_definition
+what is s. d. in francs	58	qa_currency
+how many miles is new york city from los angeles	34	qa_factoid
+what is the exchange rate of u. s. d. to cad	58	qa_currency
+what do you know about the statue of liberty	49	qa_definition
+what's the exchange rates between u. s. a. and china	58	qa_currency
+find me info on	49	qa_definition
+what's the average elevation of the united states	34	qa_factoid
+what is the exchange rate between us and france	58	qa_currency
+how many people live in san francisco	34	qa_factoid
+siri what is one american dollar in japanese yen	58	qa_currency
+what year was bill pullman born	34	qa_factoid
+tell me about morel mushrooms	49	qa_definition
+stock prices at walmart	31	qa_stock
+which religion is most true	8	general_quirky
+how many miles is it between illinois and louisiana	34	qa_factoid
+how old is tom hanks	34	qa_factoid
+has sally fields ever won an academy award	34	qa_factoid
+tell me the exchange rate for the yen	58	qa_currency
+how much is us dollar against rupee	58	qa_currency
+please show me the exchange rate between the dollar and the yen	58	qa_currency
+what is the definition of a home run	49	qa_definition
+how old is barack obaba	34	qa_factoid
+i need to keep two toddlers busy tell me what to do	8	general_quirky
+can you give me the exchange rate for dollar in rupees	34	qa_factoid
+tell me about the solar powered garden stakes	49	qa_definition
+what is the biggest city in new hampshire	34	qa_factoid
+what's a description of a virtual reality headset	49	qa_definition
+do i have any new tinder matches	6	calendar_query
+what does a banana look like	49	qa_definition
+who is donald trump	34	qa_factoid
+where is denmark	34	qa_factoid
+what is a fjord	34	qa_factoid
+when was dolly parton born	34	qa_factoid
+what does tweet mean	49	qa_definition
+where is north dakota	34	qa_factoid
+what does triumph mean	49	qa_definition
+what us state is farthest north	34	qa_factoid
+where is stonehenge	34	qa_factoid
+i need the stock price for amazon	31	qa_stock
+what is the rate of inr	58	qa_currency
+what is burmuda tiangle	34	qa_factoid
+what is the exchange rate for philippine pesos	58	qa_currency
+what is the current stock rate of facebook	31	qa_stock
+show bio of rihana	34	qa_factoid
+euro to u. s. d.	58	qa_currency
+could you please give me the birthday of mahatma gandhiji	34	qa_factoid
+what type of pant is a culotte	34	qa_factoid
+try out in wikipedia	49	qa_definition
+olly is a dollar worth more or less in brazil	58	qa_currency
+what does the shirt look like	49	qa_definition
+ask my adviser	31	qa_stock
+what's the dow jones at today	31	qa_stock
+please tell me when i can become rich if i invested in dow stocks today and what will be the return after five years	31	qa_stock
+what year was elvis born	34	qa_factoid
+find the exact location of the places	33	recommendation_locations
+how many inches make one feet	56	qa_maths
+how much is the euro versus the canadian dollar	58	qa_currency
+list top five movies of emma watson	34	qa_factoid
+what's the exchange rate between the us dollar and the euro	58	qa_currency
+what is six minus four	56	qa_maths
+tell me one euro equals dollars	58	qa_currency
+how big is england	34	qa_factoid
+tell me about new york	34	qa_factoid
+show various plants in earth	34	qa_factoid
+how is coca-cola stock doing today	31	qa_stock
+who is the wife of obama	34	qa_factoid
+today's closing price for google	31	qa_stock
+mention the stock price of hdfc	31	qa_stock
+what does hypothesis mean	49	qa_definition
+when did the statue of liberty made	34	qa_factoid
+at what age michael phelps got married	34	qa_factoid
+who is arnold schwarzenegger	34	qa_factoid
+what is the definition of inchoate	49	qa_definition
+how tall is the empire state building	34	qa_factoid
+what is the exchange rate between u. s. d. and inr	58	qa_currency
+describe the current state of politics	34	qa_factoid
+when was justin bieber born	34	qa_factoid
+define yourself in one word	8	general_quirky
+where is the nearest italian restaurant	33	recommendation_locations
+can you tell me what haggis looks like	49	qa_definition
+is pink recording a new album	34	qa_factoid
+definition for object name	49	qa_definition
+how would the volkswagen golf car look like	49	qa_definition
+features of ipad air	8	general_quirky
+tell me distance between sun and moon	34	qa_factoid
+find world meaning in dictionary	49	qa_definition
+which is the best smartphone in two thousand and seventeen	34	qa_factoid
+exchange rate i will get with foreign currency	58	qa_currency
+get me details of this person	8	general_quirky
+please tell few details about this person	8	general_quirky
+what is the most concern issue in u. s. a. today and what can be done to deal with it effectively	8	general_quirky
+who was the twenty fifth president of the united states of america	34	qa_factoid
+tell me how to go bali without airplane with lowest cost option time doesn't matter i have two hundred days travel time and only dollars to spend	8	general_quirky
+give me the description of a laptop circuit	49	qa_definition
+when does iphone stock usually drop	31	qa_stock
+explain	49	qa_definition
+explain to me how gravity works	34	qa_factoid
+when did beyonce and jay z. get married	34	qa_factoid
+exchange rates between dollar and euro	58	qa_currency
+can you tell me what hypertrophy means	49	qa_definition
+stock company name	31	qa_stock
+i would like it if my robot could do my work for me	8	general_quirky
+give me the description of laptop circuit	49	qa_definition
+define xy	49	qa_definition
+give me the opening stock price of apple	31	qa_stock
+where can i get organic wheat	33	recommendation_locations
+stock please	31	qa_stock
+change dollar to rupees rates	58	qa_currency
+dollar rupees exchange rate	58	qa_currency
+what is the factor that let modi win the election	8	general_quirky
+earthquake prediction	8	general_quirky
+ok google what's the easiest and quickest way to cook a turkey	48	cooking_query
+what kind of implement is a broiler and how do i use it	8	general_quirky
+define broiler for me	49	qa_definition
+where is statue of liberty	34	qa_factoid
+describe to me what a ball looks like	49	qa_definition
+alexa give me everything you know about bob dean	34	qa_factoid
+tell me amd stock prices	31	qa_stock
+what are amd stock prices	31	qa_stock
+what is the stock value of google	31	qa_stock
+you were bring an new schemes	8	general_quirky
+convert one pound to us dollar	58	qa_currency
+high stock price	31	qa_stock
+how many mega pixel is listed in the description of the canon	34	qa_factoid
+how did paris hilton become famous	34	qa_factoid
+what is the answer to two times three	56	qa_maths
+how much is twelve divided by four	56	qa_maths
+what is julia roberts natural hair color	34	qa_factoid
+if i have five u. s. d. how much is that in aud	58	qa_currency
+define the moon for me	49	qa_definition
+how many rivers are there in the world	34	qa_factoid
+find me some celebrities that are capricorns	34	qa_factoid
+if it is a consumer good then what is the customer feedback	8	general_quirky
+how much is indian rupee going against u. s. dollar	58	qa_currency
+could you describe that object please	49	qa_definition
+which was the first satellite to be launched by nasa	34	qa_factoid
+please describe an elephant to me	49	qa_definition
+what's the us dollar rate today	58	qa_currency
+how long has princess kate been pregnant	34	qa_factoid
+what's the stock price for tesco	31	qa_stock
+i would like it to easily keep an inventory and tell me when i'm running low on something	8	general_quirky
+what's trump been on about this week	34	qa_factoid
+what is the definition of marinara	49	qa_definition
+how people are thinking in such a manner that they can hide everything from god	8	general_quirky
+currency exchange rates	58	qa_currency
+what is a by	49	qa_definition
+how old is christie brinkley	34	qa_factoid
+tell me how the world began	8	general_quirky
+tell me the exchange rate of ten dollar to euro	58	qa_currency
+what is computer	49	qa_definition
+which is the smallest island in the world	34	qa_factoid
+how big is japan	34	qa_factoid
+how far is it from new york to japan	39	transport_query
+can you tell me what movies are playing at the movies tonight	41	recommendation_movies
+olly what is the definition of the word snafu	49	qa_definition
+olly what is the exchange rate between the us dollar and the aus dollar	58	qa_currency
+what apple trading at	31	qa_stock
+hey olly what is the definition of passive	49	qa_definition
+how old was albert einstein when he came up with relativity theory	34	qa_factoid
+calculate a close integral of exponential function from zero to five	34	qa_factoid
+tell me how brexit is going to affect e. u. citizens in the long and mid terms	34	qa_factoid
+please look up exchange between us and mexico	58	qa_currency
+olly find a description about a samsung t. v.	49	qa_definition
+what's the exchange rate for samsung	58	qa_currency
+how far away is	34	qa_factoid
+what is this thing	49	qa_definition
+what is i. b. m. stock at	31	qa_stock
+what trending on twitter	38	social_query
+what was the last thing my mom said	38	social_query
+get me updates from kenny's facebook from the weekend	38	social_query
+find me new comments from my facebook	38	social_query
+how many likes does my last instagram photo have	38	social_query
+read me the last tweet from the washington post	38	social_query
+post new status on facebook time to celebrate	57	social_post
+my facebook update in every three hour should be available	38	social_query
+put that on facebook	57	social_post
+this article is super cool can you share the link to facebook for me	57	social_post
+broadcast a video in youtube	57	social_post
+facebook status busy day	57	social_post
+please post to jeff	57	social_post
+please submit status to facebook	57	social_post
+show me a list of places where my relatives have been based on their photos	38	social_query
+latest news feed from facebook	38	social_query
+give me details of my twitter handle profile including the total number of followers	38	social_query
+nice can you post this to my facebook	57	social_post
+can you tell me what happened to my social media	38	social_query
+what is the latest from my feed	38	social_query
+please inform me of any new status updates	38	social_query
+trending social media	38	social_query
+new tweet	57	social_post
+bring up facebook and wish a happy birthday to the country u. s. a.	57	social_post
+i'm unhappy with tesco please help me	57	social_post
+can you send a tweet to lif saying that their app crashed	57	social_post
+post the following as a status on facebook	57	social_post
+please post a status on twitter say	57	social_post
+please post this picture to my facebook	57	social_post
+tweet lfi and let them know my app crashed	57	social_post
+tell my facebook group that i've arrived	57	social_post
+please make a complaint to levis	57	social_post
+tell them that their lines were too long	57	social_post
+i need a manger	8	general_quirky
+send this message to at microsoft on twitter	57	social_post
+post pic on my phone on facebook alexa	57	social_post
+tweet a complaint to old navy website	57	social_post
+send tweet to united airlines i'm angry you lost my bags	57	social_post
+i had a horrible service at olive garden i need to tweet them	57	social_post
+send complaint through twitter consumer service	57	social_post
+can you tweet a complaint to the furniture store customer service	57	social_post
+tell comcast i am still on hold	57	social_post
+write a complaint to alzacz for the tablet i bought today	57	social_post
+let national grid know the power is out again	57	social_post
+contact amazon customer service via twitter	57	social_post
+please update me on my social media accounts	38	social_query
+tweet complaint to samsung	57	social_post
+please make a tweet to dell company about the faulty service of laptop	57	social_post
+tweet walmart and tell them their customer service is horrible	57	social_post
+olly send a tweet to meijer tell them that they have the worst customer service	57	social_post
+customer service complaint tweet the following	57	social_post
+did mark post anything new on facebook	38	social_query
+send a tweet to dominoes about bad delivery	57	social_post
+remind me to tweet at this company	35	calendar_set
+post to facebook aww i'm sick	57	social_post
+post to tumblr i'm having fun	57	social_post
+address the situation	8	general_quirky
+tweet complaint to burger king	57	social_post
+olly send a tweet to company	57	social_post
+tweet a complaint about my refrigerator to l. g.	57	social_post
+open gallery post video name	57	social_post
+post to twitter got a hectic day ahead	57	social_post
+tweet customer service not good for liter per gram service in my twitter account	57	social_post
+tweet complaint	57	social_post
+what are the latest photos on my instagram account	38	social_query
+ok google tweet the service at moe's diner is terrible	57	social_post
+tweet for me the complaint about drainage choke up	57	social_post
+social info	38	social_query
+tweet consumer service that i am very disappointed with my recent interaction	57	social_post
+i want to post a status on twitter	57	social_post
+when did i get an email from john smith about car accident	46	email_query
+let me know if i have new emails	46	email_query
+send email to emilia saying i will be late please don't wait with dinner	40	email_sendemail
+is there any email from emilia	46	email_query
+can you send an email to chelsea please	40	email_sendemail
+check my inbox	46	email_query
+email david about the meeting tomorrow david can we have the meeting in the afternoon	40	email_sendemail
+olly i would like to know about jane's party	8	general_quirky
+open my most recent email and reply	40	email_sendemail
+send this content via email	40	email_sendemail
+send an email to mom subject weather body what is the weather like there this week	40	email_sendemail
+check emails for unread emails from mom	46	email_query
+please give me details of allen from my contact	53	email_querycontact
+is there a contact named allen in my list	53	email_querycontact
+send happy new year to john at gmail dot com	40	email_sendemail
+what is john's last name	53	email_querycontact
+send a reply to my friend for his question	40	email_sendemail
+check emails for last two hours	46	email_query
+check emails for last twelve hours	46	email_query
+alexa add erosser at hotmail dot com as a new contact for emily rosser	59	email_addcontact
+let me know if there are any new emails from ebay	46	email_query
+email the following message to this contact please	40	email_sendemail
+check and see if i've received any emails from eddie richards having to do with budgets	46	email_query
+save this email in contact	59	email_addcontact
+send ashmit his latest tech topics available	40	email_sendemail
+let me know when casey emails me	46	email_query
+let me know what's accumulated in my inbox since three p. m.	46	email_query
+can you send email to my friend rohit which says i am busy tomorrow	40	email_sendemail
+search matthews deadlines	46	email_query
+hey start an email to coworker	40	email_sendemail
+open new email to this coworker at this email	40	email_sendemail
+please refresh my gmail inbox	46	email_query
+send a hi to	40	email_sendemail
+show latest email from mark	46	email_query
+send an email to my manager	40	email_sendemail
+display latest emails olly	46	email_query
+email george brown	40	email_sendemail
+any incoming emails in the last five minutes	46	email_query
+send an email to my friend say birthday wishes	40	email_sendemail
+what is mom's email address	53	email_querycontact
+i would like this new email should be added to my contacts	40	email_sendemail
+send email to enalen i'm going to send the files the next day	40	email_sendemail
+show all the received emails recently with time stamp	46	email_query
+show me new email	46	email_query
+open reply	40	email_sendemail
+reply back to this email	40	email_sendemail
+send email to gbaby tell her gma loves her and hopes she has a great weekend	40	email_sendemail
+compose reply	40	email_sendemail
+tell me the contact details of my brother	53	email_querycontact
+send this message to the family group starts with a	40	email_sendemail
+who have emailed me recently and what are the subjects of each email	46	email_query
+olly please respond to greg's email stating that his idea is fantastic	40	email_sendemail
+send email to boss to meet for performance review	40	email_sendemail
+does bob live in france	53	email_querycontact
+notify me if i receive any mail on my email account	46	email_query
+email the message hi come down for dinner tonight to bro	40	email_sendemail
+send an email to guy selling the boat telling him that i have the money	40	email_sendemail
+tell me who send the email about the boss yesterday	46	email_query
+what did the clinic say about my exams	46	email_query
+can i find out information about a contact	53	email_querycontact
+read my unread emails	46	email_query
+check for new emails	46	email_query
+can you check to see if i have any recent email alerts	46	email_query
+send an email for me	40	email_sendemail
+reply to all	40	email_sendemail
+tell bob smith	40	email_sendemail
+reply with thanks	40	email_sendemail
+do i have any new emails from john smith	46	email_query
+are there any emails in regard to my promotion	46	email_query
+hey check emails	46	email_query
+list the subjects and senders of all emails to me in the last week	46	email_query
+who emailed me recently and what did they email about	46	email_query
+send the email to john	40	email_sendemail
+start email	40	email_sendemail
+how many unread emails do i have	46	email_query
+send email to robert what time is dinner	40	email_sendemail
+send email to comcast that their service sucks	40	email_sendemail
+please check for recent email study from this sender	46	email_query
+open my email account and check for new email	46	email_query
+send an email to my boss saying i will be late	40	email_sendemail
+what new messages do i have	46	email_query
+open my new emails	46	email_query
+check emails from cindy	46	email_query
+reply to mark's email	40	email_sendemail
+how many emails today	46	email_query
+did my mom send me an email	46	email_query
+send email to mom want to go shopping tomorrow	40	email_sendemail
+check all emails from eric	46	email_query
+will you help me write an email to chelsea	40	email_sendemail
+olly please check if i got any emails from mom	46	email_query
+send an email to all my company workers	40	email_sendemail
+email message to address	40	email_sendemail
+new address	40	email_sendemail
+google find the new email address for bill that i added friday	46	email_query
+is this the correct area code for my boss	53	email_querycontact
+reply	40	email_sendemail
+please delete the contacts that i haven't spoken to in three of months	53	email_querycontact
+i want to send email to jack at gmail dot com	40	email_sendemail
+send email to daughter saying i love you	40	email_sendemail
+send email to mom saying happy birthday	40	email_sendemail
+please tell me if july has sent me any emails	46	email_query
+any new email from the boss	46	email_query
+did i receive any email in the past hour	46	email_query
+has any personal emails come in yet	46	email_query
+open up my sister's email from yesterday click reply and turn on voice activation for my response	40	email_sendemail
+how many contacts do i have in my phone book	53	email_querycontact
+can you see what andrew emailed me about	46	email_query
+i want to find emails from bob with the subject that contains the word meeting	46	email_query
+please send the email to my mom	40	email_sendemail
+did mike send me an email	46	email_query
+look at my email	46	email_query
+open terry's email	40	email_sendemail
+search email for contact	46	email_query
+find contact	46	email_query
+bring up my email	46	email_query
+open the contact named john	53	email_querycontact
+who did i email recently	46	email_query
+what are the subject line and sender from today's email inbox	46	email_query
+please open my contact list	53	email_querycontact
+open derek's contact information	53	email_querycontact
+check for all emails from tom brady	46	email_query
+send a reply to mike	40	email_sendemail
+hey did i get any new emails	46	email_query
+email tom	40	email_sendemail
+check my mail	46	email_query
+i need to email susan and metion	40	email_sendemail
+show unread	46	email_query
+are there new emails in my inbox	46	email_query
+reply mail	40	email_sendemail
+send an email to m. s. palmer ask her if dean turned in his last homework assignment	40	email_sendemail
+send a response to my last email	40	email_sendemail
+reply to jason's email with the response six thirty	40	email_sendemail
+what mail do i have	46	email_query
+i want to reply to jean's email	40	email_sendemail
+check emails from jane doe	46	email_query
+is there any new emails	46	email_query
+check by inbox for me	46	email_query
+save the email to my contact	59	email_addcontact
+save to contacts	59	email_addcontact
+give me all my recent emails	46	email_query
+what is my recent email activity	46	email_query
+give me contact mail id	53	email_querycontact
+please let me know new emails from michael	46	email_query
+just let me know new emails from sara	46	email_query
+have i received any email since five p. m.	46	email_query
+did i get any emails from sam today	46	email_query
+publish an email to my company worker with today's scheduled meeting information	40	email_sendemail
+did i get any new emails today from claire	46	email_query
+send email to marissa	40	email_sendemail
+call raju phone number	53	email_querycontact
+report any new emails	46	email_query
+how many unread messages have i got	46	email_query
+please respond to the email i just read	40	email_sendemail
+did bert write me today	46	email_query
+what's the address for alex	53	email_querycontact
