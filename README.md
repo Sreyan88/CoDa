@@ -25,7 +25,7 @@ sh ner_pipeline.sh conll2003 500 0 0
 ```
 
 ### Training & Evaluation:
-The scripts in the previous section generatese synthetic augmentations in `tsv_data/out_data` for the input dataset. The model can be trained further on original + synthetic data and evaluated on the test split of the input dataset.
+The scripts in the previous section generates synthetic augmentations and adds original data and places the combined data in `tsv_data/out_data`. The model can be trained further on original + synthetic data file and evaluated on the test split of the input dataset.
 
 
 Note:
