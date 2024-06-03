@@ -103,4 +103,4 @@ df = pd.concat([df, pd.DataFrame(new_rows)], ignore_index=True)
 
 df["label"] = df["label"].apply(lambda x : desc2label[x])
 
-df.to_csv(f"./tsv_data/out_data/{args.dataset}/{args.dataset}_{args.split}_aug.tsv",sep="\t",index=False)
+df.to_csv(f"./tsv_data/out_data/{args.dataset}/{args.dataset}_{args.split}_ori+aug.tsv",sep="\t",index=False)
