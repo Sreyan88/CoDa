@@ -12,7 +12,7 @@ Implementation of [CoDa : Constrained Generation based Data Augmentation for Low
 sh classification_pipeline.sh <dataset_name> <dataset_split> <debug_mode> <dataset_split_for_shortcut_grammar>
 
 Example:
-sh classification_pipeline.sh huff 500 0 train 
+sh classification_pipeline.sh huff 500 0 test 
 ```
 
 2. For NER tasks:
