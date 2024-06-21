@@ -12,17 +12,17 @@ Implementation of [CoDa : Constrained Generation based Data Augmentation for Low
 sh classification_pipeline.sh <dataset_name> <dataset_split> <debug_mode> <dataset_split_for_shortcut_grammar>
 ```
 
-<debug_mode> - generate augmentations for only the first 10 entries in the dataset.
-<dataset_split> - The low-resource split of the datasets (e.g., 100, 200, 500 and 1000).
-<dataset_split_for_shortcut_grammar> - The low-resource split of the dataset used for finding shortcuts as described in the paper. Usually same as <dataset_split>.
-<dataset_name> - Name of the dataset to be used for generation.
+<debug_mode> - generate augmentations for only the first 10 entries in the dataset.  
+<dataset_split> - The low-resource split of the datasets (e.g., 100, 200, 500 and 1000).  
+<dataset_split_for_shortcut_grammar> - The low-resource split of the dataset used for finding shortcuts as described in the paper. Usually same as <dataset_split>.  
+<dataset_name> - Name of the dataset to be used for generation.  
 
-Datasets currently supported:
-Huffpost
-Yahoo
-OTS
-ATIS
-Massive
+Datasets currently supported:  
+Huffpost  
+Yahoo  
+OTS  
+ATIS  
+Massive  
 
 Example command:
 
@@ -43,11 +43,11 @@ Example:
 sh ner_pipeline.sh conll2003 500 0 0
 ```
 
-Datasets currently supported:
-CoNLL-2003
-OntoNotes
-EBMNLP
-BC2GM
+Datasets currently supported:  
+CoNLL-2003  
+OntoNotes  
+EBMNLP  
+BC2GM  
 
 
 ### Training & Evaluation:
