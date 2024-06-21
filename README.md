@@ -11,8 +11,17 @@ Implementation of [CoDa : Constrained Generation based Data Augmentation for Low
 ```shell
 sh classification_pipeline.sh <dataset_name> <dataset_split> <debug_mode> <dataset_split_for_shortcut_grammar>
 
+<debug_mode> - generate augmentations for only first 10 entries in the dataset.
+
 Example:
-sh classification_pipeline.sh huff 500 0 test 
+sh classification_pipeline.sh huff 500 0 test
+
+Datasets supported:
+Huffpost
+Yahoo
+OTS
+ATIS
+Massive
 ```
 
 2. For NER tasks:
@@ -20,8 +29,17 @@ sh classification_pipeline.sh huff 500 0 test
 ```shell
 sh ner_pipeline.sh <dataset_name> <dataset_split> <debug_mode> <parts_of_speech_flag>
 
+<debug_mode> - whether to generate augmentations for only first 10 entries in the dataset.
+<parts_of_speech_flag> - whether to generate augmentations with parts of speech constraint.
+
 Example:
 sh ner_pipeline.sh conll2003 500 0 0
+
+Datasets supported:
+CoNLL-2003
+OntoNotes
+EBMNLP
+BC2GM
 ```
 
 ### Training & Evaluation:
