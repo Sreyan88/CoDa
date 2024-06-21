@@ -13,9 +13,9 @@ sh classification_pipeline.sh <dataset_name> <dataset_split> <debug_mode> <datas
 ```
 
 <debug_mode> - generate augmentations for only the first 10 entries in the dataset.
-
-Example:
-sh classification_pipeline.sh huff 500 0 test
+<dataset_split> - The low-resource split of the datasets (e.g., 100, 200, 500 and 1000).
+<dataset_split_for_shortcut_grammar> - The low-resource split of the dataset used for finding shortcuts as described in the paper. Usually same as <dataset_split>.
+<dataset_name> - Name of the dataset to be used for generation.
 
 Datasets currently supported:
 Huffpost
@@ -24,20 +24,26 @@ OTS
 ATIS
 Massive
 
+Example command:
+
+```shell
+sh classification_pipeline.sh huff 500 0 test
+```
 
 2. For NER tasks:
 
 ```shell
 sh ner_pipeline.sh <dataset_name> <dataset_split> <debug_mode> <parts_of_speech_flag>
 ```
-
-<debug_mode> - whether to generate augmentations for only first 10 entries in the dataset.
 <parts_of_speech_flag> - whether to generate augmentations with parts of speech constraint.
 
 Example:
-sh ner_pipeline.sh conll2003 500 0 0
 
-Datasets supported:
+```shell
+sh ner_pipeline.sh conll2003 500 0 0
+```
+
+Datasets currently supported:
 CoNLL-2003
 OntoNotes
 EBMNLP
@@ -48,7 +54,8 @@ BC2GM
 The scripts in the previous section generates synthetic augmentations and adds original data and places the combined data in `tsv_data/out_data`. The model can be trained further on original + synthetic data file and evaluated on the test split of the input dataset.
 
 
-Note:
+### Acknowledgments:  
+
 We use the following repositories to implement our methodology:
 1. [Lexical-Substitution](https://github.com/jvladika/Lexical-Substitution)
 2. [ShortcutGrammar](https://github.com/princeton-nlp/ShortcutGrammar)
