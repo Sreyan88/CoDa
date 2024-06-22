@@ -14,7 +14,7 @@ sh classification_pipeline.sh <dataset_name> <dataset_split> <debug_mode> <datas
 
 <debug_mode> - generate augmentations for only the first 10 entries in the dataset.  
 <dataset_split> - The low-resource split of the datasets (e.g., 100, 200, 500 and 1000).  
-<dataset_split_for_shortcut_grammar> - The low-resource split of the dataset used for finding shortcuts as described in the paper. Usually same as <dataset_split>.  
+<dataset_split_for_shortcut_grammar> - The split of the dataset used for finding shortcuts as described in the paper. Use either train/dev/test.  
 <dataset_name> - Name of the dataset to be used for generation.  
 
 Datasets currently supported:  
@@ -51,7 +51,9 @@ BC2GM
 
 
 ### Training & Evaluation:
-The scripts in the previous section generates synthetic augmentations and adds original data and places the combined data in `tsv_data/out_data`. The model can be trained further on original + synthetic data file and evaluated on the test split of the input dataset.
+The scripts in the previous section generate synthetic augmentations, add original data, and place the combined data in `tsv_data/out_data`. The model can be trained further on the original + synthetic data file and evaluated on the test split of the input dataset.  
+
+Note: If you find a hard time setting up the environment, just raise an issue!
 
 
 ### Acknowledgments:  
